@@ -1,0 +1,582 @@
+.summer-camp {
+
+
+
+	#camp-slider {
+		background: url(/wp-content/uploads/2019/04/bg_head-1.jpg) no-repeat;
+		background-size: cover;
+		background-position: center;
+		text-align: center;
+		position: relative;
+
+		.container {
+			position: absolute;
+			top: 0;
+			transform: translateX(-50%);
+			left: 50%;
+			height: 100%;
+			z-index: 33;
+			display: grid;
+
+			img {
+				display: block;
+				margin: 0 auto;
+			}
+
+			.content {
+				text-align: center;
+				display: grid;
+
+				h1 {
+					color: #fff;
+				}
+
+				.wellcome { margin-bottom: -50px; margin-top: 50px; }
+
+				.text {
+					align-self: end;
+				}
+			}
+		}
+
+		.head_btn {
+			position: absolute;
+			bottom: 0;
+			width: auto;
+			left: 50%;
+			transform: translate(-50%,50%);
+			background: #fff;
+			padding: 20px;
+			border-radius: 50px 50px 0 0;
+
+			a {
+				bottom: -50%;
+				top: 0;
+
+				&:hover {
+
+					color: #000 !important;
+
+					&:after {
+						background-image: url("/wp-content/uploads/2018/07/Icon-Button-Arrow-Black.svg");
+					}
+
+				}
+			}
+		}
+	}
+
+
+
+#summer-about {
+	padding: 90px 0 50px 0;
+	text-align: center;
+
+	h2 {
+		color: #15acf2;
+		padding-bottom: 40px;
+	}
+
+	h4 {
+		padding-bottom: 30px;
+	}
+
+	p {
+		padding-bottom: 40px;
+	}
+}
+
+
+#summer-shedule {
+	h2 {
+		color: #15acf2;
+		padding-bottom: 40px;
+		text-align: center;
+	}
+
+	.content {
+		display: grid;
+		grid-template-columns: repeat(4, 1fr);
+		grid-gap: 30px;
+		text-align: center;
+		position: relative;
+		z-index: 9;
+
+		img {
+			max-width: 124px;
+			display: block;
+			margin: 0 auto 20px auto;
+		}
+	}
+}
+
+#offer {
+    background: linear-gradient(to right, #08a1ff, #01c9fe);
+
+    & > div {
+    	grid-column-gap: 0px;
+
+    	h3 {
+    		font-weight: normal;
+    		line-height: 36px;
+    	}
+
+    	img {
+    		max-width: none;
+    	}
+
+		a {
+
+			&.sg-show-popup {
+				background: #ffc000;
+				border-color: #ffc000;
+				box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.1);
+				color: #fff !important;
+
+				&:after {
+					background-image: url("/wp-content/uploads/2018/07/Icon-Button-Arrow-White.svg");
+				}
+
+				&:hover {
+					color: #fff;
+					border-color: #e5ac00 !important;
+					background: #e5ac00 !important;
+					box-shadow: 0px 10px 15px 0px rgba(0, 0, 0, 0.3);
+
+					&:after {
+						background-image: url("/wp-content/uploads/2018/07/Icon-Button-Arrow-White.svg");
+					}
+				}
+			}
+		}
+    }
+}
+
+
+#section_offer_red {
+	margin-bottom: 0;
+	background: linear-gradient(to right, #ffb505, #ff7900);
+
+	.container {
+		.content {
+			background: none;
+			padding: 40px 220px 40px 70px;
+
+			h2 {
+				font-size: 32px;
+				font-weight: bold;
+			}
+
+			& > span {
+				font-size: 21px;
+				color: #fff;
+				margin-top: 10px;
+			}
+
+			&:before {
+				content: url(/wp-content/uploads/2019/04/gift.svg);
+				width: 180px;
+			}
+		}
+		a {
+			margin-top: 30px;
+
+			&.sg-show-popup {
+				background: #fff;
+				border-color: #fff;
+				box-shadow: 0px 17px 40px 0px rgba(255, 255, 255, 0.5);
+				color: #ff7900 !important;
+
+				&:after {
+					background-image: url("/wp-content/uploads/2018/07/Icon-Button-Arrow-Orange.svg");
+				}
+
+				&:hover {
+					color: #ff7900;
+					border-color: #fff;
+					background: #fff;
+					box-shadow: 0px 17px 40px 0px rgba(255, 255, 255, 0.7);
+
+					&:after {
+						background-image: url("/wp-content/uploads/2018/07/Icon-Button-Arrow-Orange.svg");
+					}
+				}
+			}
+		}
+	}
+}
+
+	#section_activities {
+	    padding: 50px 0 0 0;
+	    color: #4c4c4c;
+	    background: #fff;
+
+	    .foot-img {
+	    	padding-top: 40px;
+
+	    	img {
+	    		display: block;
+	    		margin: 0 auto;
+	    	}
+	    }
+
+	    h2 {
+	    	color: #15acf2;
+	    	font-weight: 500;
+	    }
+
+	    .container {
+	    	.content {
+	    		grid-gap: 0;
+
+	    		img {
+	    			max-width: 300px;
+	    		}
+
+	    		h4 {
+	    			font-size: 18px;
+	    		}
+	    	}
+	    }
+	}
+
+	#summer-program {
+		padding: 50px 0 70px 0;
+
+		h2 {
+			color: #15acf2;
+			padding-bottom: 15px;
+			text-align: center;
+		}
+
+		.container {
+			& > p {
+				display: block;
+				padding-bottom: 40px;
+				font-size: 18px;
+				text-align: center;
+			}
+		}
+
+		.content {
+			display: grid;
+			grid-template-columns: repeat(3,1fr);
+			grid-gap: 48px;
+
+			& > div {
+				background: #00a2ff;
+				color: #fff;
+				box-shadow: 0px 26px 61.38px 0.62px rgba(0, 162, 255, 0.52);
+				border-radius: 30px;
+				position: relative;
+				overflow: hidden;
+
+				&:first-child {
+					transform: scale(1.05);
+					background: #0188d5;
+				}
+
+				.head {
+					position: absolute;
+					top: 0;
+					left: 0;
+					width: 100%;
+					display: grid;
+					grid-template-columns: auto auto;
+					background: #fe8202;
+					color: #fff;
+					padding: 15px 25px;
+
+					& > div:nth-child(2) {text-align: right;}
+				}
+
+				h4 {
+					padding: 15px 25px;
+					font-size: 24px;
+					text-align: center;
+
+					span {
+						display: block;
+					}
+				}
+
+				ul {
+					padding: 0 25px 25px 40px;
+					text-align: left;
+					list-style: disc;
+				}
+			}
+		}
+	}
+
+	#section_child_get {
+	    padding: 50px 0;
+	    color: #fff;
+	    background: linear-gradient(to bottom, #01c9fe, #07a9ff);
+
+	    h2 {
+	    	font-weight: 500;
+	    }
+
+	    .container {
+	    	.content {
+	    		img {
+	    			max-width: 230px;
+	    		}
+
+	    		h4 {
+	    			font-size: 18px;
+	    		}
+
+	    		& > div:nth-child(4) {margin-top: -40px;}
+	    		& > div:nth-child(5) {margin-top: -40px;}
+	    		& > div:nth-child(6) {margin-top: -40px;}
+	    	}
+	    }
+	}
+
+	#section_activities_offer {
+	    color: #fff;
+	    text-align: center;
+	    background: #07a9ff url(/wp-content/uploads/2019/04/angle_blue_new.svg) bottom center no-repeat;
+	        background-size: auto;
+	    background-size: cover;
+	}
+
+	#section_teachers {
+		padding-bottom: 0;
+	}
+
+	#branches {
+		padding: 50px 0;
+		text-align: center;
+		background: #f9f9f9;
+		position: relative;
+
+
+		h2 {
+			color: #15acf2;
+			padding-bottom: 40px;
+		}
+
+		.content {
+			display: grid;
+			grid-template-columns: 1fr 1fr;
+			grid-column-gap: 105px;
+			position: relative;
+			padding: 40px 0 80px;
+
+			& > div {
+				border-radius: 30px;
+				color: #fff;
+				text-align: center;
+				padding: 16px;
+
+				&:nth-child(1) {
+					background: #ffa604;
+					position: relative;
+					padding: 16px 16px 16px 71px;
+
+					img {
+						max-width: 110px;
+						position: absolute;
+						left: -30px;
+						top: 50%;
+						transform: translateY(-50%);
+					}
+				}
+
+				&.city {
+					position: absolute;
+					left: 50%;
+					z-index: 10;
+					transform: translate(-50%, -50%);
+					top: 50%;
+
+					img {
+						width: 200px;
+						// max-width: 140px;
+					}
+				}
+
+				&:nth-child(3) {
+					background: #009dff;
+					position: relative;
+					padding: 16px 71px 16px 16px;
+
+					img {
+						max-width: 110px;
+						position: absolute;
+						right: -30px;
+						top: 50%;
+						transform: translateY(-50%);
+					}
+				}
+			}
+		}
+
+		.about {
+			background: #fff;
+			border-radius: 30px;
+			box-shadow: 0px 10px 35px 0px rgba(0, 0, 0, 0.05);
+			position: absolute;
+			left: 50%;
+			bottom: 0%;
+			z-index: 10;
+			padding: 30px 50px;
+			transform: translate(-50%, 50%);
+			font-size: 18px;
+		}
+	}
+
+	#s-details {
+		padding: 140px 0 0px 0;
+
+		h2 {
+			color: #15acf2;
+		}
+
+		.content {
+			& > div {
+				& > div {
+					background: #009dff;
+					color: #fff;
+				}
+			}
+		}
+
+
+
+		.line {
+			&:before {
+				background: #0076ff;
+			}
+		}
+
+	}
+
+#summer-shedule-two {
+	padding-bottom: 50px;
+
+	h2 {
+
+		font-size: 28px;
+			color: #4c4c4c;
+		padding-bottom: 40px;
+		text-align: center;
+	}
+
+	.content {
+		display: grid;
+		grid-template-columns: repeat(4, 1fr);
+		grid-gap: 30px;
+		text-align: center;
+
+		img {
+			max-width: 124px;
+			display: block;
+			margin: 0 auto 20px auto;
+		}
+	}
+}
+
+#contacts  {
+	padding-top: 0;
+	padding-bottom: 40px;
+
+	.content {
+		padding-top: 0;
+	}
+	.ajax-loader {position: absolute;}
+}
+
+.student-portfolios-3d {
+	h2 {
+		color: #15acf2;
+	}
+}
+
+.student-portfolios-3d {
+	h2 {
+		color: #15acf2;
+		text-align: center;
+		span {
+		color: #15acf2;
+		text-align: center;
+		}
+	}
+}
+
+
+}
+
+@media (max-width:1200px) {
+img.head-kids {width: 70%;}
+.summer-camp #camp-slider .head_btn a {white-space: nowrap;}
+}
+
+@media (max-width:992px) {
+.summer-camp #camp-slider .container .content {display: grid;}
+.summer-camp #camp-slider .container .content .text {height: 100%;display: grid;}
+.summer-camp #camp-slider .container .content .text p:last-child {align-self: end;}
+.summer-camp #camp-slider .head img {height: 600px;}
+.summer-camp #camp-slider .container .content h1 {align-self: end;}
+.summer-camp #summer-shedule .content {grid-template-columns: 1fr 1fr;}
+#offer > div .img {display: none;}
+#offer > div {grid-template-columns: 1fr;}
+.summer-camp #summer-program .content {grid-template-columns: 1fr 1fr;}
+.summer-camp #summer-shedule-two .content {grid-template-columns: 1fr 1fr;}
+.summer-camp #branches .content {grid-template-columns: 1fr;}
+.summer-camp #summer-shedule-two .content {grid-template-columns: 1fr 1fr;}
+.summer-camp #branches .content > div:nth-child(1) {margin-bottom: 30px;}
+#section_teachers .container .content img {grid-row: 2; display: inline-block; margin: 0 auto;}
+.summer-camp #branches .content > div:nth-child(1) img, .summer-camp #branches .content > div:nth-child(3) img {max-width: 60px;}
+	.summer-camp #branches .content > div.city {position: relative;grid-row: 1;display: inline-block;}
+
+	.summer-camp #branches .content {padding-top: 0;}
+	.summer-camp #branches h2 {padding-bottom: 0;}
+}
+
+@media (max-width:768px) {
+	.summer-camp #camp-slider .container .content .text {height: auto;display: grid;}
+	.summer-camp #section_activities .container .content img {max-width: 100%;}
+	.summer-camp #branches .about {width: 100%; padding: 30px;}
+	.summer-camp #summer-program .content {grid-template-columns: 1fr;}
+	.summer-camp #summer-program .content > div img {display: inline-block; margin: 0 auto;width: 100%;}
+	.summer-camp #section_offer_red .container .content::before {width: 100px;}
+	.summer-camp #section_offer_red .container .content {padding: 70px 30px 30px 30px;}
+	.summer-camp #camp-slider .container .content .wellcome {margin-bottom: -100px;}
+
+	.summer-camp #summer-about {padding: 70px 0 40px 0;}
+	.summer-camp #summer-about p:last-child {padding-bottom: 0;}
+
+	.summer-camp #section_child_get .container .content h4 {padding-left: 0px;    margin-left: -20px;}
+	.summer-camp #branches .about {position: relative;bottom: auto;left: 0;transform: none;}
+	.summer-camp #branches .content {padding-bottom: 60px;}
+	.summer-camp #s-details {padding-top: 40px;}
+	#contacts .content > div img {margin-bottom: 30px;}
+	.summer-camp #contacts {padding-bottom: 0;}
+	.summer-camp #contacts .wpcf7-form p {margin-bottom: 0;}
+	.summer-camp #offer > div h3 {line-height: normal;font-size: 21px;}
+	.summer-camp #branches .content > div:nth-child(1) img {left: 0;}
+	.summer-camp #branches .content > div:nth-child(3) img {right: 0;}
+	.summer-camp #summer-shedule-two .content img {max-width: 90px;}
+	#contacts .content > div img {max-width: 250px;}
+	.summer-camp #section_child_get .container .content img { max-width: 100%; }
+	.summer-camp #camp-slider .container .content .text p:last-child {position: absolute; bottom: 0;}
+	.summer-camp #camp-slider .container .content {align-items: center;}
+	.summer-camp #camp-slider .container .content .text {padding-bottom: 0px;align-self: auto}
+	.summer-camp #camp-slider .container .content {align-items: start; padding-top: 100px;}
+	.summer-camp #camp-slider .head img { height: 500px;}
+	.summer-camp #branches .sg-show-popup {margin-top: 20px;}
+	.summer-camp #summer-program .content > div:first-child {transform: none;background: #00a2ff;}
+}
+
+
+
+
+
+
+
+
+

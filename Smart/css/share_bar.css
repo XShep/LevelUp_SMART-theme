@@ -1,0 +1,38 @@
+#share-bar { display: block; position: relative; top: auto; transform: none; left: 0; }
+
+body.tag #share-bar { display: none !important; }
+
+.fa.fa-viber::before { content: ''; width: 16px; position: absolute; height: 16px; background: url(https://levelup.ua/wp-content/uploads/2019/09/viber.svg); top: 0%; left: 50%; transform: translate(-50%, 50%); z-index: 2; background-size: contain; }
+
+.sharing-providers { list-style-type: none; }
+.sharing-providers { padding: 0; margin: 0; }
+.sharing-providers > li { display: block; text-align: center; width: 32px; height: 32px; padding: 0; margin: 0; background: #0048ff; }
+
+.sharing-providers > li.facebook { background: #1a99fc; }
+.sharing-providers > li.telegram { background: #1fb8fc; }
+.sharing-providers > li.viber { background: #8d2ba8; }
+.sharing-providers > li.whatsapp { background: #54ac58; }
+
+.sharing-providers.circle > li { border-radius: 50%; margin: 0; float: left; margin-right: 12px; }
+.sharing-providers.circle > li:last-child { margin: 0; }
+
+.share-block { padding: 10px 0 20px; display: grid; grid-template-columns: auto auto 1fr; grid-gap: 30px; align-items: center; }
+.share-block h4 { font-size: 16px; font-weight: 700; line-height: normal; margin: 0; padding: 0; letter-spacing: normal; }
+.editor-styles-wrapper .share-block h4 { font-size: 16px; font-weight: bold; line-height: normal; margin: 0; padding: 0; color: #444 !important; }
+.share-block .line { position: relative; }
+.share-block .line:before { position: absolute; width: 100%; content: ''; height: 1px; top: 50%; left: 0; background: #d0d0d0; }
+
+#share-bar.left { left: 0; }
+#share-bar.left .sharing-providers > li { margin-left: 0; }
+#share-bar.right { right: 0; }
+#share-bar.right .sharing-providers > li { margin-right: 0; }
+/* #share-bar.animate .sharing-providers > li:hover { transform: scale(1.03); } */
+#share-bar.right.animate .sharing-providers > li:hover { transform: translateX(-5px); }
+
+.sharing-providers > li > a { text-decoration: none !important; font-family: 'FontAwesome'; width: 32px; height: 32px; line-height: 32px; display: block; }
+.sharing-providers.circle > li > a { border-radius: 50%; position: relative; }
+.sharing-providers > li > a { color: white; font-size: 14px; }
+.sharing-providers > li > a,
+.sharing-providers > li > a:hover { text-decoration: none; }
+
+.sharing-providers > li { background: #0048ff; }

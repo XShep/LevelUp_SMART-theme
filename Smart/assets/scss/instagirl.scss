@@ -1,0 +1,658 @@
+/*Instagirl*/
+.page-id-4381 {
+	section {
+		padding: 40px 0;
+	}
+	h2 {
+			font-size: 36px;
+			color: #000;
+			margin-bottom: 30px;
+			text-align: center;
+			font-weight: normal;
+		}
+
+		a.sg-show-popup {
+			background: #760e9a;
+			border: 2px solid #760e9a;
+		}
+
+		a.sg-show-popup:hover {
+			border: 2px solid #760e9a !important;
+			box-shadow: none;
+		}
+}
+
+@media (max-width: 768px) {
+	.page-id-4381 {
+		h2 {
+			font-size: 25px;
+			font-weight: 400;
+		line-height: 30px;
+		}
+	}
+}
+
+/*Слайдер*/
+#insta_slider {
+	background: url(/wp-content/uploads/2018/10/insta-banner.png) no-repeat;
+	min-height: 83vh;
+	background-position: center;
+	background-size: cover;
+	display: grid;
+	align-items: center;
+	padding: 0;
+
+	.container {
+			display: grid;
+			grid-template-columns: 60% 40%;
+			align-items: center;
+			color: #fff;
+
+		h1 {
+			font-family: 'Roboto';
+			font-weight: 100;
+			font-size: 62px;
+			line-height: 62px;
+
+			span {
+				display: block;
+				font-family: 'Lobster' !important;
+				font-size: 72px;
+			}
+		}
+
+		p {
+			font-family: Montserrat;
+			line-height: 35px;
+			letter-spacing: 1px;
+			font-weight: 300;
+			font-size: 22px;
+			margin-top: 22px;
+
+			span {
+				display: block;
+			}
+		}
+
+		a {
+			margin-top: 30px;
+		}
+	}
+}
+
+@media (max-width: 768px) {
+	#insta_slider {
+		background: url(/wp-content/uploads/2018/10/Mobile-copy-1.png);
+		background-size: cover;
+		align-items: flex-start;
+
+		.container {
+			grid-template-columns: 1fr;
+			text-align: center;
+			padding: 30px 0 0 0;
+
+			h1 {
+				font-size: 30px;
+				line-height: normal;
+
+				span {
+					font-size: 32px;
+				}
+			}
+
+			p {
+				font-size: 18px;
+				line-height: normal;
+			}
+		}
+	}
+}
+
+
+
+/*Описание*/
+#insta_about {
+	background: #fff;
+
+	.container {
+		h2 {
+		}
+		.about_text {
+			box-shadow: 0px 0px 21px 0px rgba(0,0,0,0.15);
+			padding: 30px;
+			background: #fff;
+
+			p {
+				margin-bottom: 30px;
+			}
+		}
+	}
+}
+
+
+
+/*Содержание курса*/
+#insta_content {
+		background: rgba(0, 0, 0, 0) -webkit-linear-gradient(rgb(104, 12, 157) 0%, rgb(186, 25, 138) 100%) repeat scroll 0% 0%;
+		color: #fff;
+
+		.container {
+			h2 {
+				color: #fff;
+			}
+
+			p {
+				text-align: center;
+				font-size: 16px;
+				margin-bottom: 30px;
+				font-weight: 100;
+			}
+
+			ul {
+				display: grid;
+				grid-template-columns: 1fr 1fr 1fr;
+				align-items: center;
+				grid-gap: 30px;
+
+				li {
+					display: grid;
+					grid-template-columns: 74px 1fr;
+					align-items: center;
+
+					p {
+						display: inline-block;
+						margin-bottom: 0;
+						text-align: left;
+						font-weight: 500;
+					}
+				}
+			}
+		}
+}
+
+@media (max-width: 992px) {
+	#insta_content {
+		.container {
+			ul {
+				grid-template-columns: 1fr 1fr;
+			}
+		}
+	}
+}
+
+@media (max-width: 768px) {
+	#insta_content {
+		.container {
+			ul {
+				grid-template-columns: 1fr;
+			}
+		}
+	}
+}
+
+/*Цель курса*/
+#insta_purpose {
+	background: url(/wp-content/uploads/2018/10/bg_circles.png) no-repeat;
+	background-position: center;
+	background-size: cover;
+
+		.container {
+			h2 {}
+			.content {
+				display: grid;
+				grid-template-columns: 1fr auto;
+				grid-column-gap: 30px;
+
+
+				& > div:first-child {
+					box-shadow: 0px 0px 21px 0px rgba(0,0,0,0.15);
+					align-items: center;
+					padding: 30px;
+					background: #fff;
+
+					p {
+						margin-bottom: 22px;
+					}
+				}
+			}
+		}
+}
+
+@media (max-width: 992px) {
+	#insta_purpose {
+		.container {
+			.content {
+				grid-template-columns: 1fr;
+				grid-row-gap: 30px;
+
+				& > img { margin: 0 auto; }
+			}
+		}
+	}
+}
+
+/*Детали курса*/
+#insta_course_details {
+		background: rgba(0, 0, 0, 0) -webkit-linear-gradient(rgb(254, 131, 70) 0%, rgb(252, 42, 73) 100%) repeat scroll 0% 0%;
+		color: #fff;
+		text-align: center;
+
+		.container {
+			h2 {
+				color: #fff;
+			}
+
+			.info {}
+
+			& > p {
+				margin: 30px 0;
+				font-weight: 100;
+				color: #eaff00;
+			}
+
+			a {}
+		}
+}
+
+.course_deails {
+	display: grid;
+	grid-template-columns: repeat(4, 1fr);
+	grid-column-gap: 30px;
+
+	& > div {
+		text-align: center;
+
+		img {
+			margin-bottom: 10px;
+		}
+
+		h5 {
+			font-size: 20px;
+			font-weight: 500;
+			margin-bottom: 10px;
+		}
+
+		p {
+			margin: 0;
+			color: #fff;
+		}
+	}
+}
+
+@media screen and (max-width: 992px) {
+	.course_deails {
+		grid-template-columns: repeat(2, 1fr);
+		grid-row-gap: 30px;
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.course_deails {
+		grid-template-columns: 1fr;
+		grid-row-gap: 0;
+
+		& > div {
+			display: grid;
+			grid-template-columns: 89px 1fr;
+			align-items: center;
+			text-align: left;
+			border-bottom: 1px solid #ffffff1a;
+			padding: 20px 0;
+			grid-row-gap: 0px;
+
+			&:last-child {
+				padding-bottom: 0;
+				border: 0;
+			}
+
+			&:fist-child {
+				padding-top: 0;
+			}
+
+			img {
+				max-width: 64px;
+				margin-bottom: 0;
+			}
+		}
+	}
+}
+
+
+/*В результате курса*/
+#insta_result_of_course {
+		.container {
+			h2 {}
+
+			ul {
+				display: grid;
+				grid-template-columns: repeat(2, 1fr);
+    			grid-template-rows: repeat(4, 1fr);
+				grid-auto-flow: column;
+				align-items: center;
+				grid-gap: 30px;
+
+				li {
+					display: grid;
+					grid-template-columns: 82px 1fr;
+					align-items: center;
+				}
+			}
+		}
+}
+
+@media (max-width: 768px) {
+	#insta_result_of_course {
+		.container {
+			ul {
+				grid-template-columns: 1fr;
+				grid-template-rows: auto;
+				grid-auto-flow: row;
+			}
+		}
+	}
+}
+
+
+/*Запишите вашего ребенка...*/
+#insta_offer {
+		background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, rgb(108, 13, 156) 0%, rgb(252, 32, 94) 47%, rgb(255, 178, 23) 100%) repeat scroll 0% 0%;
+		padding: 0;
+
+		.container {
+			background: url(http://uaitsmart.com/wp-content/uploads/2019/02/insta_big.png) no-repeat;
+			background-position: left center;
+			background-size: contain;
+			display: grid;
+			grid-template-columns: 1fr auto;
+			align-items: center;
+
+			h2 {
+				color: #fff;
+			}
+
+			& > div {
+				text-align: center;
+
+				img {
+					max-width: 380px;
+					display: block;
+				}
+
+				&:nth-child(2) {
+					align-items: end;
+				}
+			}
+		}
+}
+
+@media (max-width: 992px) {
+	#insta_offer {
+		.container {
+			grid-template-columns: 1fr;
+			grid-row-gap: 30px;
+			padding: 40px 0 0 0;
+
+			& > div {
+
+				img { margin: 0 auto; }
+			}
+		}
+	}
+}
+
+/*Главные темы курса*/
+#insta_themes {
+		.container {
+
+			.skills_blocks {
+				display: grid;
+				grid-template-columns: repeat(3, 1fr);
+				grid-column-gap: 30px;
+				margin-top: 66px;
+
+				& > div {
+					box-shadow: 0 10px 30px rgba(82,106,194,.18);
+					border-radius: 10px;
+					background: #fff;
+				}
+
+				div > .head {
+					background: -webkit-linear-gradient(top, #fe8347 0%, #ed2846 100%) repeat scroll 0% 0%;
+					text-align: center;
+					color: #fff;
+					border-radius: 10px 10px 0 0;
+					padding: 14px;
+
+					img {
+						display: block;
+						margin: 0 auto;
+						margin-top: -66px;
+						margin-bottom: 12px;
+					}
+
+					h5 {
+						line-height: 26px;
+						font-size: 20px;
+						color: #fff;
+						margin-bottom:12px;
+					}
+					p {
+						font-weight: 100;
+						font-size: 16px;
+						position: relative;
+						padding-top: 10px;
+
+						&:before {
+							content: '';
+							position: absolute;
+							top: 0;
+							height: 1px;
+							width: 64px;
+							background: #fff3;
+							left: calc(50% - 32px);
+						}
+					}
+				}
+				div > ul {
+					padding: 8px 14px;
+
+					li {
+						position: relative;
+						padding: 8px 10px;
+
+						&:before {
+						    content: "• ";
+						    color: #ffa200;
+	    					font-family: none inherit;
+						}
+					}
+				}
+			}
+
+		}
+}
+
+@media (max-width: 992px) {
+	#insta_themes {
+		.container {
+
+			.skills_blocks {
+				grid-template-columns: 1fr;
+
+				div {
+					margin-bottom: 86px;
+
+					&:last-child {
+						margin-bottom: 0;
+					}
+				}
+				div > .head {
+					margin-bottom: 0;
+				}
+			}
+		}
+	}
+}
+
+
+
+/*Помимо обучения...*/
+#insta_addition {
+		background: url(/wp-content/uploads/2018/10/bg_sec-full.png) no-repeat;
+		background-size: cover;
+
+		.container {
+			h2 {
+				color: #fff;
+			}
+
+			.content {
+				display: grid;
+				grid-template-columns: 1fr 1fr;
+				grid-column-gap: 30px;
+				align-items: center;
+
+				& > div:nth-child(2) {
+					img {
+						max-width: 100%;
+					}
+				}
+			}
+		}
+}
+
+@media (min-width: 769px) {
+	#insta_addition {
+		background: url(/wp-content/uploads/2018/10/bg_sec-full.png) no-repeat;
+		background-size: cover;
+
+		.container {
+			.content {
+				.tab {
+					width: 64px;
+					height: 72px;
+				}
+
+				.info_circle {
+					background: none;
+					border: 1px solid #fff3;
+					margin: 45px;
+
+						&.five {
+							.tab_1 {
+						    	top: -34px;
+						    	left: calc(50% - 32px);
+							}
+							.tab_2 {
+	    						top: calc(34% - 32px);
+								right: -20px;
+							}
+
+							.tab_3 {
+	    						top: calc(86% - 32px);
+								right: 41px;
+							}
+
+							.tab_4 {
+	    						top: calc(86% - 32px);
+								left: 41px;
+							}
+
+							.tab_5 {
+	    						top: calc(34% - 32px);
+	    						left: -20px;
+							}
+						}
+					}
+
+				.circle-content {
+					& > div {
+						background: #fff;
+						font-size: 18px;
+						box-shadow: 0px 7px 18px 20px #0000001a;
+						color: #000;
+					}
+				}
+			}
+		}
+}
+}
+
+@media (max-width: 992px) {
+	#insta_addition {
+		.container {
+			.content {
+				grid-template-columns: 1fr;
+				text-align: center;
+
+				.info_circle {
+					margin: 45px auto;
+				}
+
+				& > div:nth-child(2) {
+					img {
+						max-width: 420px;
+						width: 100%;
+					}
+				}
+
+				.circle-content {
+					& > div {
+						color: #fff;
+						align-items: center;
+					}
+				}
+			}
+		}
+	}
+}
+
+@media (max-width: 992px) {
+	#insta_addition {
+		.container {
+			.content {
+
+				.info_circle {
+					margin: 0px auto 30px auto;
+				}
+			}
+		}
+	}
+
+}
+
+/*Запишите вашу дочку...*/
+#insta_offer_white {
+		background: url(/wp-content/uploads/2018/10/bg_circles.png) no-repeat;
+		background-size: cover;
+		text-align: center;
+
+		.container {
+			h2 {
+				span {
+					display: block;
+				}
+			}
+			a {
+
+				&:hover {
+					color: #000 !important;
+
+					&:after {
+    					background-image: url("http://uaitsmart.com/wp-content/uploads/2018/07/Icon-Button-Arrow-Black.svg") !important;
+					}
+				}
+			}
+		}
+}
+
+
+
+/*Посмотрите курсы для этого возраста...*/
+#other_courses {
+		background: #f5f5f5;
+
+		.container {
+			h2 {}
+		}
+}

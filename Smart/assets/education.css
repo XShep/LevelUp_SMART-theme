@@ -1,0 +1,343 @@
+body.page-id-9092 #main, body.page-id-9464 #main { padding-top: 90px; }
+
+.sgpb-main-html-content-wrapper .wpcf7-form .course-name-title { background: #dadee0; width: calc(80% - 30px); margin: 15px auto 0 auto; padding: 5px 15px; border-radius: 30px; font-size: 14px; }
+
+.green-btn .sg-show-popup { background: linear-gradient(to top, #9bd33a, #c2f467); box-shadow: -24.758px 18.656px 79px 0px rgba(5, 59, 91, 0.17); border: 0; color: #ffffff !important; font-weight: 500; font-size: 18px; line-height: 62px; padding: 0 60px; transition: 0.2s all; }
+.green-btn .sg-show-popup:after { display: none; }
+
+.education_page { font-family: Gilroy; }
+.education_page h1, .education_page h2, .education_page h3, .education_page h4, .education_page h5, .education_page h6 { letter-spacing: normal; font-family: Gilroy; }
+.education_page #second_form h2 span > span { display: inline-block; margin-bottom: 15px;}
+.education_page #head_cover { background: #fdfefe url(https://uaitsmart.com/wp-content/uploads/2020/02/bg_it_pattern.png) center center no-repeat; background-size: auto; background-size: contain; }
+.education_page #head_cover .content { display: grid; min-height: 720px; box-shadow: 0px 20px 60px 0px rgba(115, 129, 147, 0.15); background: #f5f9fa url(https://uaitsmart.com/wp-content/uploads/2020/02/head_boys.png) right bottom no-repeat; background-size: 670px; align-items: center; position: relative; }
+.education_page #head_cover .content:before { position: absolute; content: ''; right: -60px; top: 120px; width: 251px; height: 156px; background: url(https://uaitsmart.com/wp-content/uploads/2020/02/Fly-dron.png) center no-repeat; background-size: contain; }
+.education_page #head_cover .content .text { padding: 0 80px; }
+.education_page #head_cover .content .text p { font-weight: 500; font-size: 26px; color: #b9b9b9; margin-bottom: 40px; line-height: normal; }
+.education_page #head_cover .content .text p span { display: block; }
+.education_page #head_cover .content .text h1 { color: #607e8a; font-weight: 900; font-size: 52px; margin-bottom: 40px; }
+.education_page #head_cover .content .text h1 span { display: block; }
+.education_page #head_cover .content .text .block-btn .sg-show-popup { background: linear-gradient(to top, #9bd33a, #c2f467); box-shadow: -24.758px 18.656px 79px 0px rgba(5, 59, 91, 0.17); border: 0; color: #ffffff !important; font-weight: 500; font-size: 18px; line-height: 62px; padding: 0 60px; transition: 0.2s all; animation: movingShadow 5s infinite linear; text-shadow: 1px 1px 1px #00000042; }
+.education_page #head_cover .content .text .block-btn .sg-show-popup:after { display: none; }
+.education_page #head_cover .content .text .block-btn .sg-show-popup:hover { background: linear-gradient(to top, #a4df3e, #cafb70); }
+.education_page #child_age { padding-top: 70px; }
+.education_page #child_age h2 { padding-bottom: 50px; }
+.education_page #child_age .child_age1 { background: #f95536; }
+.education_page #child_age .child_age1:hover { background: #da5238; }
+.education_page #child_age .child_age2 { background: #91ca00; }
+.education_page #child_age .child_age2:hover { background: #85ae1c; }
+.education_page #child_age .child_age3 { background: #ffa500; }
+.education_page #child_age .child_age3:hover { background: #ff8512; }
+.education_page #child_age .child_age4 { background: #50a3a3; }
+.education_page #child_age .child_age4:hover { background: #499898; }
+.education_page #child_age .age_tabs { list-style: none; position: relative; display: flex; flex-direction: row; flex-wrap: nowrap; align-items: stretch; overflow: hidden; width: 100%; height: 340px; border-radius: 10px; overflow: hidden; }
+.education_page #child_age .age_tabs.active .age_tab { flex: initial; width: 10%; }
+.education_page #child_age .age_tabs > .age_tab { flex: initial; text-align: center; cursor: pointer; width: 25%; height: 100%; color: #fff; text-decoration: none; vertical-align: bottom; box-sizing: border-box; padding: 2vh 1vw; position: relative; align-items: center; display: grid; transition: 0.2s all; }
+.education_page #child_age .age_tabs > .age_tab .title .years_img img { max-width: 40px; display: block; margin: 0 auto 20px auto; }
+.education_page #child_age .age_tabs > .age_tab .title h4 { font-size: 22px; font-weight: bold; line-height: 19px; }
+.education_page #child_age .age_tabs > .age_tab .title h4 span { display: block; }
+.education_page #child_age .age_tabs > .age_tab > div.age_tab-content { opacity: 0; display: none; transition: opacity .3s ease 0; text-align: left; }
+.education_page #child_age .age_tabs > .age_tab > div.age_tab-content h3 { font-weight: bold; font-size: 28px; }
+.education_page #child_age .age_tabs > .age_tab:nth-child(1).active:before { display: none; }
+.education_page #child_age .age_tabs > .age_tab:nth-child(4).active:after { display: none; }
+.education_page #child_age .age_tabs > .age_tab.active { width: 70%; transition: 0.3s all; position: relative; /*background-image: url(https://uaitsmart.com/wp-content/uploads/2020/02/bg_tabs.png);*/ grid-template-columns: 120px 1fr; grid-gap: 40px; padding: 50px; }
+.education_page #child_age .age_tabs > .age_tab.active.child_age1 {background-image: url(https://uaitsmart.com/wp-content/uploads/2020/02/tab_5-7.png);}
+.education_page #child_age .age_tabs > .age_tab.active.child_age2 {background-image: url(https://uaitsmart.com/wp-content/uploads/2020/02/bg_tabs.png);}
+.education_page #child_age .age_tabs > .age_tab.active.child_age3 {background-image: url(https://uaitsmart.com/wp-content/uploads/2020/02/tab_11-13.png);}
+.education_page #child_age .age_tabs > .age_tab.active.child_age4 {background-image: url(https://uaitsmart.com/wp-content/uploads/2020/02/tab_13-16.png);}
+.education_page #child_age .age_tabs > .age_tab.active .title .years_img img {max-width: 26px;}
+.education_page #child_age .age_tabs > .age_tab.active .title h4 span { display: inline-block; }
+.education_page #child_age .age_tabs > .age_tab.active:before { height: 100%; width: 5px; position: absolute; content: ''; left: 0; background: #fff; }
+.education_page #child_age .age_tabs > .age_tab.active:after { height: 100%; width: 5px; position: absolute; content: ''; right: 0; background: #fff; }
+.education_page #child_age .age_tabs > .age_tab.active > div.age_tab-content { opacity: 1; display: block; transition: opacity .3s ease .3s; }
+.education_page #courses_cards.active { padding: 70px 0 0 0; }
+.education_page #courses_cards .content .cards { display: grid; grid-template-columns: 1fr 1fr; grid-gap: 50px; display: none; }
+.education_page #courses_cards .content .cards.open { display: grid; }
+.education_page #courses_cards .content .cards.cards_age_1 .card { background: linear-gradient(to right, #f95536, #e4254c); }
+.education_page #courses_cards .content .cards.cards_age_1 .card .content .image > div { background: url(https://uaitsmart.com/wp-content/uploads/2020/02/HEX_red.png) center no-repeat; background-size: contain; }
+.education_page #courses_cards .content .cards.cards_age_1 .card .content .years .years-old { background: linear-gradient(to right, #f95536, #e4254c); }
+.education_page #courses_cards .content .cards.cards_age_2 .card { background: linear-gradient(to right, #b6e703, #a1cf06); }
+.education_page #courses_cards .content .cards.cards_age_2 .card .content .image > div { background: url(https://uaitsmart.com/wp-content/uploads/2020/02/HEX_green.png) center no-repeat; background-size: contain; }
+.education_page #courses_cards .content .cards.cards_age_2 .card .content .years .years-old { background: linear-gradient(to right, #b6e703, #a1cf06); }
+.education_page #courses_cards .content .cards.cards_age_3 .card { background: linear-gradient(to right, #ffd929, #ff8212); }
+.education_page #courses_cards .content .cards.cards_age_3 .card .content .image > div { background: url(https://uaitsmart.com/wp-content/uploads/2020/02/HEX_yellow.png) center no-repeat; background-size: contain; }
+.education_page #courses_cards .content .cards.cards_age_3 .card .content .years .years-old { background: linear-gradient(to right, #ffd929, #ff8212); }
+.education_page #courses_cards .content .cards.cards_age_4 .card { background: linear-gradient(to right, #44a0b1, #0090ff); }
+.education_page #courses_cards .content .cards.cards_age_4 .card .content .image > div { background: url(https://uaitsmart.com/wp-content/uploads/2020/02/HEX_blue.png) center no-repeat; background-size: contain; }
+.education_page #courses_cards .content .cards.cards_age_4 .card .content .years .years-old { background: linear-gradient(to right, #44a0b1, #0090ff); }
+.education_page #courses_cards .content .cards .card { display: grid; background: linear-gradient(to right, #b6e703, #a1cf06); box-shadow: -25.916px 27.791px 49px 0px rgba(0, 0, 0, 0.15); color: #fff; grid-template-rows: 1fr auto; transition: 0.3s all; border-radius: 12px; overflow: hidden; }
+.education_page #courses_cards .content .cards .card:hover { box-shadow: -25.916px 27.791px 49px 0px rgba(0, 0, 0, 0.25); transform: scale(1.05); }
+.education_page #courses_cards .content .cards .card .content {background: #fff;display: grid;grid-template-columns: minmax(100px,150px) 1fr 60px;align-items: center;padding: 20px;border-radius: 0 0 15px 15px;grid-column-gap: 10px;}
+.education_page #courses_cards .content .cards .card .content .image > div { display: grid; align-items: center; position: relative; height: 150px; background: url(https://uaitsmart.com/wp-content/uploads/2020/02/HEX_green.png) center no-repeat; background-size: contain; }
+.education_page #courses_cards .content .cards .card .content .image > div img { max-width: 100%;max-height: 100%; }
+.education_page #courses_cards .content .cards .card .content .cont {color: #444444;padding: 15px;grid-column: span 2;grid-column: 2 / 4;padding: 0;font-size: 15px;}
+.education_page #courses_cards .content .cards .card .content .title h4 {font-size: 17px;font-weight: 800;margin-bottom: 14px;line-height: 20px;}
+.education_page #courses_cards .content .cards .card .content .cont p { font-size: 15px; line-height: normal; }
+.education_page #courses_cards .content .cards .card .content .years {align-self: start;grid-column: 3 /4;grid-row: 1 / 2;}
+.education_page #courses_cards .content .cards .card .content .years .years-old {background: linear-gradient(to right, #ffcf30, #ff8707);color: #fff;padding: 13px;line-height: 14px;font-weight: 700;text-align: center;font-size: 13px;border-radius: 15px;}
+.education_page #courses_cards .content .cards .card .content .years .years-old span { display: block; }
+.education_page #courses_cards .content .cards .card .btn-block .sg-show-popup { background: none; border: 0; text-align: center; border-radius: 0; width: 100%; }
+.education_page #courses_cards .content .cards .card .btn-block .sg-show-popup:after { display: none; }
+.education_page #courses_cards .content .cards .card .btn-block .sg-show-popup:hover { box-shadow: none; }
+.education_page #courses_cards .content .cards .card .btn-block a { display: block; width: 100%; text-align: center; padding: 16px 15px; color: #fff; font-size: 18px; font-weight: 600; text-shadow: 1px 1px 1px #00000042; }
+.education_page #first_form { padding: 150px 0; }
+.education_page #do_training .content { display: grid; grid-template-columns: minmax(0, 1fr) minmax(0, 1fr) minmax(0, 1fr); grid-gap: 45px; }
+.education_page #do_training .content .gallery { position: relative; }
+.education_page #do_training .content .title h2 { text-align: center; }
+.education_page #do_training .content .block { display: grid; grid-template-columns: 47px 1fr; grid-gap: 20px; }
+.education_page #do_training .content .block h4 { font-size: 30px; font-weight: 800; color: #292929; margin-bottom: 15px; }
+.education_page #do_training .content .block h4 span { display: inline-block; }
+.education_page #do_training .content .block p { color: #678b97; }
+.education_page #do_training .content .block span.num { font-size: 48px; color: #bef163; font-weight: 900; line-height: 42px; }
+.education_page #parrents { padding: 120px 0; }
+.education_page #parrents .content { display: grid; grid-template-columns: 1fr 1fr; align-items: center; grid-gap: 50px; }
+.education_page #parrents .content .text .line-g h2 { font-weight: 900; margin-bottom: 30px; }
+.education_page #students_age h2 {font-weight: 900; }
+.education_page #parrents .content .text .line-g p { font-weight: normal; color: #444444; font-size: 18px; }
+.education_page #list_section .content { display: grid; grid-template-columns: 1fr 1fr 1fr; grid-gap: 50px; }
+.education_page #list_section .content .block { padding-left: 25px;color: #607e8a; font-weight: bold;}
+.education_page #list_section .content .block h4 { position: relative; margin-bottom: 10px; font-size: 24px; color: #292929; line-height: normal; font-weight: bold; }
+.education_page #list_section .content .block h4:before { position: absolute; left: -25px; top: 7px; background: #bef163; height: 19px; content: ''; width: 3px; }
+.education_page #list_section .content .block p { font-size: 16px; color: #607e8a; }
+.education_page #students_age { padding-top: 120px; }
+.education_page #students_age h2 { padding-bottom: 50px; }
+.education_page #students_age h2 span { display: block; }
+.education_page #students_age .child_age1 { background: #f95536; }
+.education_page #students_age .child_age1:hover { background: #da5238; }
+.education_page #students_age .child_age2 { background: #91ca00; }
+.education_page #students_age .child_age2:hover { background: #85ae1c; }
+.education_page #students_age .child_age3 { background: #ffd10b; }
+.education_page #students_age .child_age3:hover { background: #efc513; }
+.education_page #students_age .child_age4 { background: #50a3a3; }
+.education_page #students_age .child_age4:hover { background: #499898; }
+.education_page #students_age .stunents_tabs {list-style: none;position: relative;display: flex; flex-direction: row; flex-wrap: nowrap;align-items: stretch;overflow: hidden;width: 100%;height: 430px;border-radius: 10px;overflow: hidden;}
+.education_page #students_age .stunents_tabs.active .age_tab {flex: initial;width: 15%;}
+.education_page #students_age .stunents_tabs > .age_tab {flex: initial;text-align: center;width: 25%;/* height: 100%; */cursor: pointer;color: #fff;text-decoration: none;vertical-align: bottom;box-sizing: border-box;/* padding: 2vh 1vw; */position: relative;align-items: center;display: grid;transition: 0.2s all;}
+.education_page #students_age .stunents_tabs > .age_tab .title .years_img img { max-width: 230px; margin: 0;/* height: 100%;*/ position: relative; top: 25px; }
+.education_page #students_age .stunents_tabs > .age_tab .title h4 { font-size: 22px; font-weight: bold; line-height: 19px; }
+.education_page #students_age .stunents_tabs > .age_tab .title h4 span { display: block; }
+.education_page #students_age .stunents_tabs > .age_tab > div.age_tab-content { opacity: 0; display: none; transition: opacity .3s ease 0; text-align: left; }
+.education_page #students_age .stunents_tabs > .age_tab > div.age_tab-content h3 { font-weight: bold; font-size: 28px; }
+.education_page #students_age .stunents_tabs > .age_tab > div.age_tab-content span.age { font-weight: bold; display: block; margin-bottom: 20px; }
+.education_page #students_age .stunents_tabs > .age_tab > div.age_tab-content p { font-size: 18px; }
+.education_page #students_age .stunents_tabs > .age_tab > div.age_tab-content a { color: #fff; display: inline-block; margin-top: 20px; }
+.education_page #students_age .stunents_tabs > .age_tab > div.age_tab-content a span { display: grid; grid-template-columns: 1fr auto; align-items: center; grid-gap: 12px; }
+.education_page #students_age .stunents_tabs > .age_tab:nth-child(1).active:before { display: none; }
+.education_page #students_age .stunents_tabs > .age_tab:nth-child(4).active:after { display: none; }
+.education_page #students_age .stunents_tabs > .age_tab.active { width: 55%; transition: 0.3s all; position: relative; grid-template-columns: 230px 1fr; grid-gap: 40px; padding: 0 50px; }
+.education_page #students_age .stunents_tabs > .age_tab.active .title h4 span { display: inline-block; }
+.education_page #students_age .stunents_tabs > .age_tab.active:before { height: 100%; width: 5px; position: absolute; content: ''; left: 0; background: #fff; }
+.education_page #students_age .stunents_tabs > .age_tab.active:after { height: 100%; width: 5px; position: absolute; content: ''; right: 0; background: #fff; }
+.education_page #students_age .stunents_tabs > .age_tab.active > div.age_tab-content { opacity: 1; display: block; transition: opacity .3s ease .3s; }
+.education_page #courses_cards .content .cards .card .content .title {grid-column: 2 / 3;grid-row: 1 / 2;color: #000;}
+.education_page #courses_cards .content .cards .card .content .image {grid-row: 1 / 3;}
+.education_page #second_form { padding: 150px 0; }
+.education_page #second_form h2.tc { padding-bottom: 100px; }
+.education_page #second_form h2 span { display: block; }
+.education_page #second_form .text .cont h2 {padding-bottom: 30px;font-weight: bold;max-width: 335px;margin: auto;}
+#home_map { padding: 110px 0; }
+#home_map .content .top-title { display: grid; grid-template-columns: 1fr auto; grid-gap: 30px; align-items: center; }
+#home_map .content .map-frame { margin: 70px 0; }
+#home_map .content .map-frame img { box-shadow: -24.042px 24.042px 73px 0px rgba(0, 0, 0, 0.1); }
+#home_map .content .locations { display: grid; grid-template-columns: repeat(3, 1fr); margin: 0 auto; grid-column-gap: 60px; position: relative; }
+#home_map .content .locations > div { position: relative; }
+#home_map .content .locations > div:before { position: absolute; width: 1px; height: 100%; right: -30px; content: ''; background: #d5dcde; }
+#home_map .content .locations > div:last-child:before { display: none; }
+#home_map .content .locations > div { display: grid; grid-template-columns: 46px 1fr; grid-gap: 35px; }
+#home_map .content .locations > div h5 { margin-bottom: 30px; font-size: 20px; color: #444444;font-family: Gilroy;line-height: 1.5;}
+#home_map .content .locations > div p a { color: #000; }
+#home_map .content .locations > div .loc-icon img { width: 46px; }
+.page-id-9092 #parrents .line-g, .page-id-9464 #parrents .line-g { color: #8c8f81;font-weight: 400;}
+.page-id-9092 .line-g .blue,.page-id-9464 .line-g .blue {color:#678b97; font-weight: 400;}
+.page-id-9092 .line-g,.education_page #first_form .line-g h4,.page-id-9464 .line-g,.education_page #first_form .line-g h4 {font-weight: 500;}
+.education_page #first_form .line-g {color:#8c8f81;font-weight: 400;}
+.education_page #first_form .line-g h4 {font-weight: bold;color: #292929;margin-bottom: 15px;}
+/* .education_page #first_form h4 {margin-bottom: 35px;} */
+.education_page #list_section .tc {margin-bottom: 40px;}
+/* footer.smart-footer .content { grid-template-columns: 1fr 1fr 1fr; }
+footer.smart-footer .content .location-center { display: none; }
+footer.smart-footer .content .location-topol { display: none; }
+footer.smart-footer .content .smart-phones { display: none; }
+footer.smart-footer .content .copr { grid-column: 1/2; grid-row: 1; }
+footer.smart-footer .content .smart-socials { grid-column: 2/3; grid-row: 1; }
+footer.smart-footer .content .smart-prof { grid-column: 3/4; grid-row: 1; text-align: right; }
+footer.smart-footer .content .team-343 { grid-column: 1/4; display: none; } */
+.page-id-9092 #second_form .line-g .blue,.page-id-9464 #second_form .line-g .blue {font-size: 22px;}
+.education_page #head_cover .content .text .title-pre {font-weight: 500;color: #b9b9b9;margin-bottom: 30px;display: block;}
+.education_page #students_age .stunents_tabs .age_tab .age_tab-content {align-items: center;}
+@media (min-width: 992px) and (max-width: 1200px) { .education_page #courses_cards .content .cards { grid-gap: 20px; } }
+@media (max-width: 1200px) { .education_page #do_training .content .title h2 { font-size: 36px; }
+.education_page #courses_cards .content .cards .card .content {
+  grid-template-columns: minmax(100px,115px) 1fr 60px;
+}
+  .education_page #courses_cards .content .cards .card .content .image > div {height: 115px;}
+  .education_page #do_training .content .block h4 { font-size: 24px; line-height: normal; }
+  .education_page #students_age .stunents_tabs { height: 330px; }
+  .education_page #students_age .stunents_tabs > .age_tab.active { grid-template-columns: 150px 1fr; }
+  .education_page #students_age .stunents_tabs > .age_tab .title .years_img img { max-width: 150px; margin: 0 auto; }
+  .education_page #students_age .stunents_tabs > .age_tab > div.age_tab-content p { font-size: 16px; }
+  .education_page #students_age .stunents_tabs > .age_tab > div.age_tab-content h3 { font-size: 24px; }
+  .education_page #courses_cards .content .cards .card .content .foot .btn-popup a.sg-show-popup { font-size: 14px; } }
+@media (min-width: 992px) {
+  .education_page #head_cover .content .text .title-pre {
+    font-size: 26px;
+    font-family: Gilroy;
+    font-weight: 500;
+  }
+  .education_page #second_form .container > .line-g { padding-top: 0; }
+  .education_page #second_form .container > .line-g:before, .education_page #second_form .container > .line-g:after { display: none; }
+}
+@media (max-width: 992px) { .education_page { padding-top: 30px; }
+.page-id-9092 #second_form .line-g .blue, .page-id-9464 #second_form .line-g .blue {display: block;}
+  #home_map .content .locations { grid-template-columns: 1fr; grid-gap: 60px; }
+  #home_map .content .locations > div::before { left: 0; bottom: -30px; width: 100%; height: 1px; }
+  #home_map .content .locations > div h5 { margin-bottom: 15px; }
+  /* footer.smart-footer .content { grid-template-columns: 1fr; }
+  footer.smart-footer .content .team-343 { grid-column: 1/2; }
+  footer.smart-footer .content .smart-prof { grid-column: 1/2; grid-row: 3; text-align: center; } */
+  .education_page #child_age .age_tabs > .age_tab > div.age_tab-content h3 { font-size: 21px; line-height: normal; }
+  .education_page #child_age .age_tabs > .age_tab > div.age_tab-content p { line-height: normal; }
+  .education_page #child_age .age_tabs > .age_tab.active {grid-template-columns: 82px 1fr;padding: 30px;grid-gap: 25px;/* display: flex; *//* flex-wrap: wrap; */align-items: center;justify-content: center;}
+  .education_page #child_age .age_tabs > .age_tab .title h4 { font-size: 20px; }
+  .education_page #child_age .age_tabs > .age_tab.active > div.age_tab-content h3 {margin-bottom: 10px;}
+  .education_page #courses_cards .content .cards { grid-template-columns: 1fr; }
+  .education_page #courses_cards .content .cards { grid-template-columns: 1fr; }
+  .education_page #do_training .content { grid-template-columns: minmax(0, 1fr) minmax(0, 1fr); grid-gap: 40px; }
+  .education_page #list_section .content { grid-template-columns: 1fr 1fr; }
+  .education_page #head_cover .content { min-height: 700px; align-items: start; background-position: bottom center; background-size: 470px; }
+  .education_page #head_cover .content .text { padding: 30px; text-align: center; }
+  .education_page #head_cover .content .text h1 { font-size: 32px; margin-bottom: 30px; }
+  .education_page #head_cover .content .text p { font-size: 18px; margin-bottom: 30px; }
+  .education_page #head_cover .content .block-btn { position: absolute; bottom: 0; left: 50%; transform: translate(-50%, 50%); }
+  .education_page #head_cover .content .text .block-btn .sg-show-popup { background: linear-gradient(to top, #ffc000, #fcff00); box-shadow: -24.758px 18.656px 79px 0px rgba(5, 59, 91, 0.17); color: #292929 !important; }
+  .education_page .sg-show-popup, .education_page .input-btn input.wpcf7-form-control.wpcf7-submit { line-height: 48px !important; }
+  .education_page #students_age .stunents_tabs .age_tab {/*display: grid; grid-template-columns: 1fr 1fr; grid-gap: 20px;*//* align-items: center; *//* min-height: 240px; */ margin: 0 10px;border-radius: 10px;}
+  .education_page #students_age .stunents_tabs .age_tab {display: grid;/* flex-wrap: wrap; *//* grid-gap: 4%; */}
+  .education_page #students_age .stunents_tabs .age_tab .title {align-self: end;/* width: 30%; *//*margin-top: auto;*/}
+  .education_page #students_age .stunents_tabs .age_tab .title .years_img { padding-top: 15px; }
+  .education_page #students_age .stunents_tabs .age_tab .age_tab-content {color: #fff;padding: 20px 0;padding-left: 8%;/* width: calc(100% - 30%); */padding: 20px 5px;font-size: 80%;/* display: flex; *//* flex-wrap: wrap; *//* flex-direction: column; *//* align-self: start; */display: grid;grid-gap: 17px;}
+  .education_page #students_age .stunents_tabs .age_tab .age_tab-content h3 { font-size: 21px; font-weight: 700; }
+  .education_page #students_age .stunents_tabs .age_tab .age_tab-content .age, .education_page #students_age .stunents_tabs .age_tab .age_tab-content a {/* margin: 15px 0px; */}
+  .education_page #students_age .stunents { position: relative; }
+
+  .education_page #students_age .stunents_tabs { height: auto; }
+  .education_page #students_age .stunents .stunents_tabs {left: 0;top: 0;width: 800px;}
+  .education_page #students_age .stunents_tabs .age_tab .age_tab-content a { color: #fff; }
+  .education_page #students_age .arrows { position: absolute; display: inline-block; right: 0; top: 105%; }
+  .education_page #students_age .arrows svg { max-width: 100%; max-height: 100%; display: block; padding: 0; }
+  .education_page #students_age .arrows .slick-arrow.prev__arrow { transform: rotate(180deg) translateX(30px); }
+  .education_page #students_age .arrows .slick-arrow { cursor: pointer; padding: 0; width: 20px; height: 15px; border: 0; background-color: transparent; -webkit-transition: all .4s ease-in-out; -o-transition: all .4s ease-in-out; transition: all .4s ease-in-out; }
+  .education_page #head_cover .content::before { width: 200px; height: 112px; top: 50px; width: 179px; height: 112px; top: 208px; right: auto; left: -41px; }
+  .education_page #second_form .content .text { display: none; }
+  .education_page #second_form .content .home_form .show-mobile.d-none { display: block !important; text-align: center; }
+  .education_page #second_form .content { padding-top: 50px; }
+  .education_page #first_form .content .text .line-g h4 { display: none; }
+  .education_page #first_form .content .text .line-g p { display: none; }
+  .education_page #first_form .content .text .line-g:after { display: none; }
+  .education_page #first_form .content .text .line-g { padding-bottom: 0; display: none;}
+  .education_page #first_form .content { grid-gap: 40px; }
+  .education_page #first_form .content .home_form.green .show-mobile.d-none { display: block !important; text-align: center; color: #fff; }
+  .education_page #first_form .content .home_form.green .show-mobile.d-none h4, .education_page #second_form .content .home_form .show-mobile.d-none h4 { font-weight: 600; }
+  .education_page #first_form .content .home_form.green .show-mobile.d-none p, .education_page #second_form .content .home_form .show-mobile.d-none p { padding: 20px; }
+  .education_page #first_form .content .home_form.green, .education_page #second_form .content .home_form { padding: 44px 40px 80px 40px; }
+  .education_page #second_form .content .home_form { position: relative; }
+  .education_page #second_form .content .home_form:before { position: absolute; content: ''; background: url(https://uaitsmart.com/wp-content/uploads/2020/02/gradient_cube.png) center no-repeat; width: 94px; background-size: contain; height: 95px; top: -61px; right: -36px; z-index: -1; }
+  .education_page #second_form .content .home_form .input-btn input.wpcf7-form-control.wpcf7-submit { background-image: -moz-linear-gradient(-90deg, #ccff00 0%, #a2d106 100%); background-image: -webkit-linear-gradient(-90deg, #ccff00 0%, #a2d106 100%); background-image: -ms-linear-gradient(-90deg, #ccff00 0%, #a2d106 100%); color: #292929; }
+  .education_page #do_training .content .gallery { grid-row: 2; }
+  .education_page #do_training .content .title { grid-row: 1; }
+  .education_page #do_training .content .block .text { position: relative; color: #728b93;}
+  .education_page #do_training .content .block { position: relative; grid-template-columns: 1fr; padding-left: 50px; }
+  .education_page #do_training .content .block span.num { position: absolute; top: -28px; left: 50px; color: #eff3f5; }
+  .education_page #do_training .content .block:before { position: absolute; content: ''; width: 20px; height: 20px; top: 7px; left: 10px; background: url(https://uaitsmart.com/wp-content/uploads/2020/02/hex_list_smart.svg) center no-repeat; }
+  .education_page #do_training .content .block:after { width: 1px; height: 100%; content: ''; position: absolute; top: 36px; border-right: 2px dashed #d0d0d0; left: 19px; }
+  .education_page #do_training .content > .block:last-child:after { display: none; }
+  .education_page #do_training .content .block h4 { font-size: 21px; margin-bottom: 0px; }
+  .education_page #do_training .content .block p { font-weight: 500; }
+  .education_page #parrents .content { grid-gap: 30px; }
+  /* .education_page #parrents .content .text .line-g { padding-bottom: 0;} */
+  /* .education_page #parrents .content .text .line-g:after { display: none; } */
+  .education_page #students_age h2.tc { position: relative; padding-top: 50px; padding-bottom: 36px; }
+  .education_page #students_age h2.tc:before { content: ''; background-image: url(https://uaitsmart.com/wp-content/uploads/2020/01/zig-zag_green.png); background-repeat: no-repeat; background-size: auto; background-position: center; width: 66px; height: 20px; position: absolute; top: 0; left: calc(50% - 33px); }
+  .education_page #second_form .line-g p { font-weight: normal; color: #678b97; line-height: normal; padding-top: 15px; }
+  .education_page #students_age .stunents_tabs > .age_tab.active {grid-template-columns: 79px 1fr;padding: 0 15px;}
+  .education_page #students_age .stunents_tabs > .age_tab .title .years_img img {max-width: 120px;margin: 0 auto;}
+  .education_page #students_age .stunents .stunents_tabs {left: 0;top: 0;width: 800px;max-width: 100%;}
+}
+@media (max-width: 768px) { .education_page #child_age .age_tabs > .age_tab .title .years_img img { max-width: 30px; max-width: 26px; margin: 0 auto 10px auto; }
+  .education_page #child_age .age_tabs > .age_tab .title h4 { font-size: 15px; line-height: 16px; }
+  .page-id-9092 #second_form .line-g .blue, .page-id-9464 #second_form .line-g .blue {font-size: 16px;}
+  .education_page #child_age .age_tabs > .age_tab.active {grid-template-rows: 91px 1fr;padding: 20px;grid-gap: 16px;grid-template-columns: 1fr;}
+  /* .education_page #child_age .age_tabs > .age_tab:not(.active) .title h4 { writing-mode: vertical-rl; position: relative; left: 50%; transform: translateX(-50%); } */
+  .education_page #child_age .age_tabs > .age_tab:not(.active) .title h4 span { display: inline-block; }
+  .education_page #child_age .age_tabs > .age_tab.active > div.age_tab-content h3 { font-size: 18px; }
+  .education_page #child_age .age_tabs > .age_tab.active > div.age_tab-content p { font-size: 14px; }
+  .education_page #students_age .stunents_tabs .age_tab { grid-template-columns: 130px 1fr; }
+  .education_page #students_age .stunents_tabs .age_tab .age_tab-content h3 { font-size: 16px; line-height: normal; }
+  .education_page #students_age .stunents_tabs .age_tab .age_tab-content .age, .education_page #students_age .stunents_tabs .age_tab .age_tab-content a { font-size: 14px; line-height: normal; }
+  .education_page #students_age .stunents_tabs .age_tab .age_tab-content p { font-size: 12px; padding: 10px 0; line-height: normal; }
+  .education_page #students_age .stunents_tabs .age_tab .age_tab-content .age, .education_page #students_age .stunents_tabs .age_tab .age_tab-content a { font-size: 12px; }
+  .education_page #do_training .content { grid-template-columns: minmax(0, 1fr); grid-gap: 40px; }
+  .home-2020.education_page .gallery__arrows { bottom: 0; }
+  .education_page #students_age .stunents .stunents_tabs {width: 100%;}
+  /* .education_page #students_age .slick-list {margin-left: -65px;} */
+  .home-2020.education_page .gallery__dots-list li { padding: 0 3px; }
+  .education_page #parrents .content, .education_page #list_section .content { grid-template-columns: 1fr; }
+  .education_page #head_cover .content { background-size: 300px; min-height: 560px; box-shadow: 0px 20px 60px 0px rgba(115, 129, 147, 0.25); }
+  .education_page #parrents { padding-bottom: 50px; padding-top: 80px; }
+  .education_page #head_cover .content .text h1, .education_page #head_cover .content .text h1 span { font-size: 30px; }
+  .education_page #head_cover .content .text h1 { position: relative; margin-top: 10px;}
+  .education_page #head_cover .content .text p { margin-bottom: 20px; }
+  .education_page #head_cover .content .text h1:before { position: absolute; content: ''; width: 30px; height: 40px; background: url(https://uaitsmart.com/wp-content/uploads/2020/02/Arrow.png) center no-repeat; background-size: contain; bottom: -51px; left: calc(50% - 15px); }
+  .education_page #list_section .content { grid-gap: 30px; }
+  .education_page #students_age { padding-top: 50px; }
+  .education_page #second_form { padding: 80px 0; }
+  .education_page #first_form { padding: 80px 0; }
+  .education_page #courses_cards .content .cards .card .content .image > div { height: 120px; grid-template-columns: 1fr;}
+  .education_page #courses_cards .content .cards .card .content .cont h4 { font-size: 16px; line-height: normal; }
+  .education_page #courses_cards .content .cards .card .content .years .years-old { padding: 10px 0; }
+  /* .education_page #courses_cards .content .cards .card .content {grid-template-columns: auto 1fr 65px;justify-content: center;grid-template-rows: auto 1fr;} */
+  .education_page #courses_cards .content .cards .card .btn-block a { padding: 10px 15px; }
+  .education_page #list_section .content .block h4 { font-size: 18px; margin-bottom: 0; }
+  .education_page #list_section .content .block h4:before { top: 2px; }
+  .education_page #courses_cards .content .cards .card .content .title h4 { margin-bottom: 9px; }
+  .education_page #courses_cards .content .cards { grid-gap: 30px; }
+  .home_form-text_mob { display: none; }
+  .education_page #courses_cards.active { padding: 30px 0 0 0; }
+  .education_page #do_training .content .title h2 { font-size: 30px; }
+  .education_page #child_age .age_tabs.active .age_tab {min-width: 40px;}
+  .education_page #child_age .age_tabs > .age_tab:not(.active) .title h4 {font-size: calc(60% + 1vw);}
+  .education_page #child_age .age_tabs > .age_tab.active {padding: 15px;}
+  .education_page #child_age .age_tabs > .age_tab.active .title .years_img img {margin: auto;margin-right: 13px;}
+  .education_page #child_age .age_tabs > .age_tab.active .years_img {width: 60px;margin-right: 16px;}
+  .education_page #child_age .age_tabs.active .age_tab.active .title {align-self: center;margin-top: 30px;margin-bottom: 15px;/* display: flex; *//* flex-wrap: wrap; *//* align-items: center; *//* width: 100%; *//* justify-content: center; */display: grid;grid-template-columns: 0.9fr 1.1fr;align-items: center;/* margin-bottom: auto; */align-self: end;}
+  .education_page #child_age .age_tabs > .age_tab.active > div.age_tab-content {    align-self: start;}
+  .education_page #child_age .age_tabs > .age_tab .title h4 {/* max-width: calc(100% - 77px); *//* width: auto; */margin-right: auto;}
+  .education_page #child_age .age_tabs > .age_tab:not(.active) .title h4 {font-size: calc(45% + 1vw);}
+  .education_page #child_age .age_tabs.active .age_tab.active .years_img {margin-left: auto;margin-right: 0px;}
+  .education_page #child_age .age_tabs:not(.active) .age_tab .years_img { margin: auto;}
+  .education_page #students_age h2 span {display: inline;}
+}
+@media(max-width: 600px) {
+  .education_page #child_age .age_tabs > .age_tab.active > div.age_tab-content {font-size: calc(72% + 1vw);}
+  .education_page #courses_cards .content .cards .card .content .image > div img {max-width: 46px;margin: auto;}
+  .education_page #courses_cards .content .cards .card .content {
+    grid-template-columns: 100px 1fr 60px;
+  }
+  .education_page #courses_cards .content .cards .card .content .image > div img {
+    max-width: 100%;
+  }
+}
+@media(max-width: 460px) {
+  .education_page #courses_cards .content .cards.cards_age_2 .card .content .image > div {justify-content: center;}
+  .education_page #first_form .content .home_form.green, .education_page #second_form .content .home_form {
+    padding: 44px 25px 80px 25px;
+  }
+}
+@media(max-width: 413px) {
+  .education_page #courses_cards .content .cards .card .content{grid-template-columns: minmax(46px,150px) minmax(165px,150px) 40px;padding: 15px;}
+  .education_page #child_age .age_tabs > .age_tab.active {padding: 15px;font-size: 12px;}
+  .education_page #students_age .slick-list {margin: 0;}
+  .education_page #child_age .age_tabs > .age_tab:not(.active) .title h4 {font-size: calc(45% + 1vw);}
+}
+@media (max-width: 350px) {
+  .education_page #students_age .stunents_tabs .age_tab{grid-template-columns:100px 1fr;}
+}

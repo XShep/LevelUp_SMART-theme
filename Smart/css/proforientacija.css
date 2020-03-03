@@ -1,0 +1,257 @@
+@media (min-width: 1200px) { .page-id-8301 { background: #f9fcff; }
+  .page-id-8301 .container { max-width: 1400px; } }
+.proforientaciya { background: url(https://uaitsmart.com/wp-content/uploads/2019/09/bg_top_page.png) top right no-repeat; }
+.proforientaciya h2, .proforientaciya h3, .proforientaciya h4 { letter-spacing: normal; color: #15acf2; }
+.proforientaciya #prof_slider .content { display: grid; grid-template-columns: 1fr 1fr; align-items: center; }
+.proforientaciya #prof_slider .content .slider_img img { padding: 140px 0; }
+.proforientaciya #prof_slider .content h1 { color: #15acf2; letter-spacing: normal; }
+.proforientaciya #prof_slider .content h1 strong { display: block; }
+.proforientaciya #prof_slider .content .text > p { font-size: 21px; margin: 40px 0 30px 0; max-width: 520px; }
+.proforientaciya #prof_tooltip { position: relative; /*overflow: hidden;*/ }
+.proforientaciya #prof_tooltip .wave { background: url(https://uaitsmart.com/wp-content/uploads/2019/09/wave_top.png) bottom no-repeat; position: absolute; bottom: 0; z-index: 2; width: 100%; }
+.proforientaciya #prof_tooltip .wave img { display: block; }
+.proforientaciya #prof_tooltip .content { position: relative; }
+.proforientaciya #prof_tooltip .content .center_image { position: relative; z-index: 2; }
+.proforientaciya #prof_tooltip .content .center_image .quest_img { display: inline-block; position: relative; }
+.proforientaciya #prof_tooltip .content .center_image .quest_img:before { position: absolute; content: ''; left: -100%; top: 0; height: 100%; width: 100%; background: url(https://uaitsmart.com/wp-content/uploads/2019/09/quest_left.png) center bottom no-repeat; background-size: inherit; background-position: 62px 74%; }
+.proforientaciya #prof_tooltip .content .center_image .quest_img:after { position: absolute; content: ''; right: -100%; top: 0; height: 100%; width: 100%; background: url(https://uaitsmart.com/wp-content/uploads/2019/09/quest_right.png) center bottom no-repeat; background-size: inherit; background-position: 0 74%; }
+.proforientaciya #prof_tooltip .content .prof_tooltip { background-color: white; display: inline-block; border-radius: 15px; padding: 20px 25px; box-shadow: -17.678px 17.678px 35px 0px rgba(4, 183, 255, 0.1); position: absolute; }
+.proforientaciya #prof_tooltip .content .prof_tooltip:before { position: absolute; content: ''; bottom: -35px; right: 20px; border: 20px solid transparent; border-top: 15px solid #fff; border-right: 20px solid #fff; }
+.proforientaciya #prof_tooltip .content .prof_tooltip.one { max-width: 330px; left: 150px; top: -30px; transition: all 800ms; transition-delay: 0s; -webkit-transition-delay: 0ms; -moz-transition-delay: 0ms; -o-transition-delay: 0ms; transition-delay: 0ms; }
+.proforientaciya #prof_tooltip .content .prof_tooltip.one:before { position: absolute; content: ''; bottom: -20px; right: 20px; border: 20px solid transparent; border-top: 15px solid #fff; border-right: 20px solid #fff; }
+.proforientaciya #prof_tooltip .content .prof_tooltip.two { max-width: 330px; right: 175px; transition: all 800ms; transition-delay: 600s; -webkit-transition-delay: 600ms; -moz-transition-delay: 600ms; -o-transition-delay: 600ms; transition-delay: 600ms; }
+.proforientaciya #prof_tooltip .content .prof_tooltip.two:before { position: absolute; content: ''; bottom: -20px; left: 20px; border: 20px solid transparent; border-top: 15px solid #fff; border-left: 20px solid #fff; }
+.proforientaciya #prof_tooltip .content .prof_tooltip.three { max-width: 370px; right: 75px; top: 120px; transition: all 1200ms; transition-delay: 1200s; -webkit-transition-delay: 1200ms; -moz-transition-delay: 1200ms; -o-transition-delay: 1200ms; transition-delay: 1200ms; }
+.proforientaciya #prof_tooltip .content .prof_tooltip.three:before { position: absolute; content: ''; bottom: -20px; left: 20px; border: 20px solid transparent; border-top: 15px solid #fff; border-left: 20px solid #fff; }
+.proforientaciya #prof_tooltip .content .smart_module_img_layer .prof_tooltip { transform: scale3d(0, 0, 0); }
+.proforientaciya #prof_tooltip .content .smart_module_img_layer.img_layer_animate .prof_tooltip { transform: scale3d(1, 1, 1); }
+.proforientaciya #get_answer { background: #fff; padding: 50px 0; position: relative; overflow: hidden; }
+.proforientaciya #get_answer .wave { background: url(https://uaitsmart.com/wp-content/uploads/2019/09/wave_bottom.png) bottom no-repeat; position: absolute; bottom: 0; z-index: 0; width: 100%; }
+.proforientaciya #get_answer .wave img { display: block; }
+.proforientaciya #get_answer h2 { font-weight: bold; text-align: center; }
+.proforientaciya #get_answer h2 span { display: block; }
+.proforientaciya #get_answer .content { display: grid; grid-template-columns: auto 1fr; align-items: center; grid-gap: 40px; position: relative; z-index: 1; }
+.proforientaciya #get_answer .content .text h3 { font-size: 30px; color: #4c4c4c; margin-bottom: 40px; }
+.proforientaciya #get_answer .content .text h4 { font-size: 24px; color: #4c4c4c; }
+.proforientaciya #get_answer .content .text > ul { margin: 20px 0 40px 0; display: grid; grid-row-gap: 10px; }
+.proforientaciya #get_answer .content .text > ul li { display: grid; grid-template-columns: auto 1fr; grid-column-gap: 10px; }
+.proforientaciya #get_answer .content .text > ul li i { margin-top: 4px; }
+.proforientaciya #seven_years { position: relative; padding-top: 100px; z-index: 2; }
+.proforientaciya #seven_years .content { display: grid; grid-template-columns: 1fr auto; position: relative; }
+.proforientaciya #seven_years .content .big_text { font-size: 230px; text-shadow: 0px 0px 40px rgba(32, 172, 252, 0.1); color: #fff; font-weight: 900; position: absolute; top: -120px; line-height: 168px; z-index: -1; left: 23% !important; }
+.proforientaciya #seven_years .content .text h2 { font-size: 30px; line-height: 35px; }
+.proforientaciya #seven_years .content .text h3 { font-size: 28px; color: #4c4c4c; line-height: normal; }
+.proforientaciya #seven_years .content .text ul { display: grid; grid-template-columns: 1fr 1fr; margin: 45px 0; grid-gap: 20px; }
+.proforientaciya #seven_years .content .text ul li { display: grid; grid-template-columns: 61px 1fr; grid-column-gap: 21px; font-weight: 500; align-items: center; }
+.proforientaciya #seven_years .content .text ul li span.hex { position: relative; max-width: 61px; }
+.proforientaciya #seven_years .content .text ul li span.hex img { display: block; }
+.proforientaciya #seven_years .content .text ul li span.hex:before { position: absolute; content: ''; top: 5px; left: 0; height: 55px; z-index: -1; width: 100%; border-radius: 50%; box-shadow: -17px 15px 32px 0px rgba(30, 180, 250, 0.5); }
+.proforientaciya #seven_years .content .text ul li span.hex:after { position: absolute; width: 14px; height: 15px; content: ''; background: url(https://uaitsmart.com/wp-content/uploads/2019/09/hex_icon.png); position: absolute; top: 41px; left: -25px; }
+.proforientaciya #seven_years .content .text ul li:nth-child(1) { margin-left: 24px; }
+.proforientaciya #seven_years .content .text ul li:nth-child(2) { margin-left: 24px; }
+.proforientaciya #seven_years .content .text ul li:nth-child(3) { margin-left: 24px; }
+.proforientaciya #seven_years .content .text ul li:nth-child(3) span.hex:after { left: auto; right: -20px; top: auto; bottom: -5px; }
+.proforientaciya #seven_years .content .text ul li:nth-child(4) { margin-left: 24px; }
+.proforientaciya #seven_years .content .text ul li:nth-child(4) span.hex:after { display: none; }
+.proforientaciya #prof_target { position: relative; }
+.proforientaciya #prof_target .container .big_text { font-size: 230px; text-shadow: 0px 0px 40px rgba(32, 172, 252, 0.1); color: #fff; font-weight: 900; position: absolute; top: 30px; line-height: 168px; z-index: -1; left: 20% !important; }
+.proforientaciya #prof_target .container > h2 { color: #15acf2; padding: 170px; text-align: center; font-weight: 200; position: relative; }
+.proforientaciya #prof_target .container > h2:before { position: absolute; content: ''; width: 100%; height: 100%; left: 0; top: 0; background: url(https://uaitsmart.com/wp-content/uploads/2019/09/circle.png) right center no-repeat; background-size: contain; z-index: -1; }
+.proforientaciya #prof_target .container > h2 strong { display: block; }
+.proforientaciya #prof_target .container .content { display: grid; grid-template-columns: 1fr auto; align-items: center; grid-column-gap: 60px; }
+.proforientaciya #prof_target .container .content .big_word h2 { color: #4c4c4c; text-align: center; }
+.proforientaciya #prof_target .container .content .big_word h2 span { display: block; }
+.proforientaciya #prof_target .container .content .big_word h2 span.word_1 { font-weight: bold; }
+.proforientaciya #prof_target .container .content .big_word h2 span.word_2 { position: relative; padding: 15px 0; color: #fff; margin: 15px 0 5px 0; }
+.proforientaciya #prof_target .container .content .big_word h2 span.word_2:before { content: ''; position: absolute; width: 100%; height: 100%; left: 0; top: 0; background-image: -moz-linear-gradient(0deg, #f25c15 0%, #ffbf13 100%); background-image: -webkit-linear-gradient(0deg, #f25c15 0%, #ffbf13 100%); background-image: -ms-linear-gradient(0deg, #f25c15 0%, #ffbf13 100%); z-index: -1; border-radius: 10px; transform: skewX(-20deg); }
+.proforientaciya #prof_target .container .content ul { display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 70px; grid-row-gap: 35px; }
+.proforientaciya #prof_target .container .content ul li { position: relative; padding-left: 20px; }
+.proforientaciya #prof_target .container .content ul li:before { content: ''; background-image: -moz-linear-gradient(90deg, #f25c15 0%, #ffbf13 100%); background-image: -webkit-linear-gradient(90deg, #f25c15 0%, #ffbf13 100%); background-image: -ms-linear-gradient(90deg, #f25c15 0%, #ffbf13 100%); position: absolute; border-radius: 30px; width: 7px; height: 31px; left: 0; top: 0; }
+.proforientaciya #result_career { position: relative; padding: 75px 0 175px 0; }
+.proforientaciya #result_career .container .content { display: grid; grid-template-columns: auto 1fr; grid-column-gap: 60px; align-items: center; }
+.proforientaciya #result_career .container .content .text > div { border-radius: 10px; background: #fff; padding: 30px 50px; box-shadow: 0px 0px 68px 0px rgba(30, 180, 250, 0.15); }
+.proforientaciya #result_career .container .content .text > div h3 { margin-bottom: 40px; color: #4c4c4c; }
+.proforientaciya #result_career .container .content .text > div ul.check-list { display: grid; grid-row-gap: 30px; }
+.proforientaciya #result_career .container .content .text > div ul.check-list li { display: grid; grid-template-columns: 32px 1fr; grid-column-gap: 20px; align-items: center; }
+.proforientaciya #result_career .container .content .text > div ul.check-list li span.hex { position: relative; }
+.proforientaciya #result_career .container .content .text > div ul.check-list li span.hex img { display: block; }
+.proforientaciya #result_career .container .content .text > div ul.check-list li span.hex:before { position: absolute; content: ''; top: 0px; left: 0; height: 32px; z-index: 0; width: 100%; border-radius: 50%; box-shadow: 7px 7px 10px 0px rgba(251, 172, 43, 0.25); }
+.proforientaciya #result_career .container .content .text > div ul.check-list img { max-width: 32px; }
+.proforientaciya #how_career { position: relative; }
+.proforientaciya #how_career .wave { background: url(https://uaitsmart.com/wp-content/uploads/2019/09/m_wave.png) bottom no-repeat; position: absolute; background-size: contain; left: 0; top: 0; z-index: -1; width: 100%; }
+.proforientaciya #how_career .wave img { display: block; }
+.proforientaciya #how_career .container .content { display: grid; grid-template-columns: 40% 1fr; align-items: center; grid-column-gap: 70px; position: relative; }
+.proforientaciya #how_career .container .content .big_text { font-size: 230px; text-shadow: 0px 0px 40px rgba(32, 172, 252, 0.1); color: #fff; font-weight: 900; position: absolute; top: -120px; left: 7% !important; line-height: 168px; z-index: -1; }
+.proforientaciya #how_career .container .content .quote-block { padding-left: 20px; position: relative; }
+.proforientaciya #how_career .container .content .quote-block:before { content: ''; background-image: -moz-linear-gradient(90deg, #4cde8e 0%, #01b6fc 99%); background-image: -webkit-linear-gradient(90deg, #4cde8e 0%, #01b6fc 99%); background-image: -ms-linear-gradient(90deg, #4cde8e 0%, #01b6fc 99%); position: absolute; border-radius: 30px; width: 7px; height: 100%; left: 0; top: 0; }
+.proforientaciya #how_career .container .content .image img { margin-top: 40px; }
+.proforientaciya #how_career .container .content h3 { font-size: 30px; color: #4c4c4c; margin-bottom: 30px; }
+.proforientaciya #how_career .container .content h3 span.gr { color: #fff; background-image: -moz-linear-gradient(0deg, #46de93 0%, #00b5fc 100%); background-image: -webkit-linear-gradient(0deg, #46de93 0%, #00b5fc 100%); background-image: -ms-linear-gradient(0deg, #46de93 0%, #00b5fc 100%); display: inline-block; white-space: nowrap; padding: 0 10px; border-radius: 7px; }
+.proforientaciya #how_career .container .content ul.list { display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 70px; grid-row-gap: 35px; }
+.proforientaciya #how_career .container .content ul.list li { position: relative; padding-left: 20px; }
+.proforientaciya #how_career .container .content ul.list li:before { content: ''; background-image: -moz-linear-gradient(90deg, #4cde8e 0%, #01b6fc 99%); background-image: -webkit-linear-gradient(90deg, #4cde8e 0%, #01b6fc 99%); background-image: -ms-linear-gradient(90deg, #4cde8e 0%, #01b6fc 99%); position: absolute; border-radius: 30px; width: 7px; height: 31px; left: 0; top: 0; }
+.proforientaciya #how_career .container .content ul.check-list { display: grid; grid-row-gap: 30px; }
+.proforientaciya #how_career .container .content ul.check-list li { display: grid; grid-template-columns: 32px 1fr; grid-column-gap: 20px; align-items: center; }
+.proforientaciya #how_career .container .content ul.check-list li span.hex { position: relative; }
+.proforientaciya #how_career .container .content ul.check-list li span.hex img { display: block; }
+.proforientaciya #how_career .container .content ul.check-list li span.hex:before { position: absolute; content: ''; top: 0px; left: 0; height: 32px; z-index: 0; width: 100%; border-radius: 50%; box-shadow: 7px 7px 10px 0px rgba(38, 173, 94, 0.25); }
+.proforientaciya #how_career .container .content ul.check-list img { max-width: 32px; }
+.proforientaciya #video-reviews { position: relative; }
+.proforientaciya #video-reviews .wave { background: url(https://uaitsmart.com/wp-content/uploads/2019/09/wave_blue_top.png) right bottom no-repeat; position: absolute; bottom: 0; z-index: 2; width: 100%; }
+.proforientaciya #video-reviews .wave img { display: block; }
+.proforientaciya #video-reviews .content { width: 100%; max-width: 1090px; margin: 0 auto; display: grid; grid-template-columns: auto 1fr; grid-column-gap: 0px; align-items: center; position: relative; z-index: 3; }
+.proforientaciya #video-reviews .content h2 { font-size: 46px; text-transform: uppercase; padding: 25px 35px; box-shadow: -17.678px 17.678px 35px 0px rgba(4, 183, 255, 0.1); background: #fff; position: relative; background: #fff; color: #15acf2; font-weight: 600; text-shadow: -10.607px 10.607px 15px rgba(7, 156, 255, 0.25); line-height: 55px; border-radius: 20px; }
+.proforientaciya #video-reviews .content h2 > span { color: #15acf2; }
+.proforientaciya #video-reviews .content h2:after { position: absolute; width: 392px; content: ''; height: 232px; background: url(https://uaitsmart.com/wp-content/uploads/2019/09/hex_video_sec.png); top: -50px; left: -68px; }
+.proforientaciya #video-reviews .content h2:before { position: absolute; content: ''; bottom: -30px; left: 0; border: 25px solid transparent; border-left: 25px solid #fff; border-top: 25px solid #fff; }
+.proforientaciya #video-reviews .content h2 span { display: block; }
+.proforientaciya #video-reviews .content .youtube-player { position: relative; padding-bottom: 74%; border-radius: 20px; overflow: hidden; }
+.proforientaciya #video-reviews .content .youtube-player .play { background: url(https://uaitsmart.com/wp-content/uploads/2019/09/video_play.png) center no-repeat; background-size: contain; }
+.proforientaciya #video-reviews .slick-next, .proforientaciya #video-reviews .slick-prev { background-image: -moz-linear-gradient(0deg, #46de93 0%, #00b5fc 100%); background-image: -webkit-linear-gradient(0deg, #46de93 0%, #00b5fc 100%); background-image: -ms-linear-gradient(0deg, #46de93 0%, #00b5fc 100%); border-radius: 30px; width: 29px; height: 29px; box-shadow: 7px 7px 10px 0px rgba(38, 173, 94, 0.25); border: 3px solid #fff; }
+.proforientaciya #video-reviews .slick-next:before, .proforientaciya #video-reviews .slick-prev:before { color: #fff; font-size: 16px; opacity: 1; }
+.proforientaciya #video-reviews .slick-prev:before { content: "\f060"; font-family: FontAwesome; color: #fff; }
+.proforientaciya #video-reviews .slick-next:before { content: "\f061"; font-family: FontAwesome; color: #fff; }
+.proforientaciya #parents_task { position: relative; background: #daf0ff; z-index: 1; }
+.proforientaciya #parents_task .text { position: relative; padding: 100px 0 0 0; z-index: 3; text-align: center; }
+.proforientaciya #parents_task .text h3 span { display: block; }
+.proforientaciya #prof_feedback { position: relative; }
+.proforientaciya #prof_feedback .wave { background: url(https://uaitsmart.com/wp-content/uploads/2019/09/wave_blue_bottom.png) left top no-repeat; position: absolute; top: 0; z-index: 2; width: 100%; }
+.proforientaciya #prof_feedback .wave img { display: block; }
+.proforientaciya #prof_feedback .content { position: relative; z-index: 3; padding: 130px 0; }
+.proforientaciya #prof_feedback .content .prof_form { border-radius: 10px; background-image: -moz-linear-gradient(39deg, #27b8f1 0%, #addbfa 98%); background-image: -webkit-linear-gradient(39deg, #27b8f1 0%, #addbfa 98%); background-image: -ms-linear-gradient(39deg, #27b8f1 0%, #addbfa 98%); box-shadow: 1.854px 5.706px 76.95px 18.05px rgba(59, 177, 252, 0.32); position: relative; padding: 0 55px; max-width: 900px; margin: 0 auto; width: 100%; }
+.proforientaciya #prof_feedback .content .prof_form .block-messages { /*position: absolute;*/ position: relative; left: 0%; }
+.proforientaciya #prof_feedback .content .prof_form .block-messages .message { background: #fff; box-shadow: -17.678px 17.678px 35px 0px rgba(4, 183, 255, 0.1); border-radius: 15px; padding: 15px 20px; max-width: 320px; position: absolute; font-size: 15px; }
+.proforientaciya #prof_feedback .content .prof_form .block-messages .message:before { position: absolute; content: ''; bottom: -20px; right: 10px; border: 20px solid transparent; border-top: 15px solid #fff; border-right: 20px solid #fff; }
+.proforientaciya #prof_feedback .content .prof_form .block-messages .message.one { width: 320px; left: -155px; top: -90px; transition: all 800ms; transition-delay: 0s; -webkit-transition-delay: 0ms; -moz-transition-delay: 0ms; -o-transition-delay: 0ms; transition-delay: 0ms; }
+.proforientaciya #prof_feedback .content .prof_form .block-messages .message.two { /*top: calc(50% - 45px);*/ top: calc(50% - 126px); transform: translateY(-50%); width: 300px; left: -180px; transition: all 800ms; transition-delay: 0s; -webkit-transition-delay: 1200ms; -moz-transition-delay: 1200ms; -o-transition-delay: 1200ms; transition-delay: 1200ms; }
+.proforientaciya #prof_feedback .content .prof_form .block-messages .message.three { top: auto; bottom: 21px; width: 250px; left: -112px; transition: all 800ms; transition-delay: 0s; -webkit-transition-delay: 600ms; -moz-transition-delay: 600ms; -o-transition-delay: 600ms; transition-delay: 600ms; }
+.proforientaciya #prof_feedback .content .prof_form .block-messages .message.three:before { bottom: auto; top: -20px; border: 20px solid transparent; border-right: 20px solid #fff; }
+.proforientaciya #prof_feedback .content .prof_form .block-messages .smart_module_img_layer .message { transform: scale3d(0, 0, 0); }
+.proforientaciya #prof_feedback .content .prof_form .block-messages .smart_module_img_layer.img_layer_animate .message { transform: scale3d(1, 1, 1); }
+.proforientaciya #prof_feedback .content .prof_form .cont { display: grid; grid-template-columns: 1fr 1fr; align-items: center; grid-column-gap: 40px; }
+.proforientaciya #prof_feedback .content .prof_form .cont .image { align-self: end; }
+.proforientaciya #prof_feedback .content .prof_form .cont .image .image-grid { display: grid; grid-template-columns: auto 276px; }
+.proforientaciya #prof_feedback .content .prof_form .cont .image img { display: block; position: relative; right: 0; float: right; }
+.proforientaciya #prof_feedback .content .prof_form .cont > div.content { padding: 50px 0; }
+.proforientaciya #prof_feedback .content .prof_form .cont > div > h4 { letter-spacing: normal; font-size: 30px; color: #fff; text-shadow: 1.854px 5.706px 12.96px rgba(59, 177, 252, 0.32); line-height: normal; margin-bottom: 20px; font-weight: 400; }
+.proforientaciya #prof_feedback .content .prof_form .cont > div > p { font-size: 20px; color: #525252; margin-bottom: 20px; }
+.proforientaciya #prof_feedback .content .prof_form .cont > div > p a { color: #009bfe; }
+.proforientaciya #prof_feedback .content .prof_form .cont > div .feed-form .form { display: grid; grid-row-gap: 15px; }
+.proforientaciya #prof_feedback .content .prof_form .cont > div .feed-form .form > div { position: relative; }
+.proforientaciya #prof_feedback .content .prof_form .cont > div .feed-form .form > div.last { display: grid; grid-template-columns: 1fr auto; grid-column-gap: 15px; position: relative; }
+.proforientaciya #prof_feedback .content .prof_form .cont > div .feed-form .form > div.last > p { display: none; }
+.proforientaciya #prof_feedback .content .prof_form .cont > div .feed-form .form input { background: none; border-radius: 30px; height: 42px; color: #fff; font-size: 16px; border: 1px solid #fff; padding-left: 16px; padding-right: 16px; }
+.proforientaciya #prof_feedback .content .prof_form .cont > div .feed-form .form input[type="submit"] { background: #fb9a29; box-shadow: -2.588px 9.659px 12.6px 2.4px rgba(251, 154, 41, 0.35); color: #fff; border: none; text-shadow: 0.707px 0.707px 8.37px rgba(0, 0, 0, 0.36); box-shadow: none; }
+.proforientaciya #prof_feedback .content .prof_form .cont > div .feed-form .form input::placeholder { color: #fff; }
+.proforientaciya #prof_feedback .content .prof_form .cont > div .feed-form .form .ajax-loader { padding: 19px 0; position: absolute; left: 50%; margin: 0; top: 50%; transform: translate(-50%, -50%); background-color: #6502fc; border-radius: 30px; width: 90%; background-repeat: no-repeat; background-position: center; background-image: url(../img/loading_white.svg); background-size: 36px 36px; }
+.proforientaciya #prof_feedback .content .prof_form .cont > div .feed-form span.wpcf7-not-valid-tip { margin: 0; top: 0; position: absolute; right: 15px; color: #fff; font-size: 12px; border-radius: 0 10px 10px 0; padding-right: 8px; }
+.proforientaciya #prof_feedback .content .prof_form .cont > div .feed-form div.wpcf7-mail-sent-ok { display: block; background: #398f14f0; color: #fff; bottom: -52px; margin: 0; width: 100%; padding: 14px 15px; font-size: 11px; border: 0; }
+.proforientaciya #prof_feedback .content .prof_form:before { content: ''; position: absolute; top: 50%; transform: translateY(-50%); left: 115px; width: 345px; height: 424px; background: url(/wp-content/uploads/2019/09/hex_form.png) no-repeat; }
+
+@media (max-width: 1440px) { .page-id-8301 .container { max-width: 1200px; }
+  .proforientaciya #prof_target .container .big_text { font-size: 180px; top: 60px; }
+  .proforientaciya #prof_target .container > h2 { padding: 150px; }
+  .proforientaciya #prof_target .container > h2::before { top: -25px; }
+  .proforientaciya #how_career .container .content .big_text { font-size: 200px; top: -100px; }
+  .proforientaciya #seven_years .content .big_text { left: 12% !important; }
+  .proforientaciya #prof_target .container .big_text { left: 0% !important; }
+  .proforientaciya #how_career .container .content .big_text { left: 16% !important; }
+  .proforientaciya #seven_years .content .text h3 { font-size: 21px; }
+  .proforientaciya #video-reviews .content h2 { font-size: 42px; line-height: 51px; }
+  .proforientaciya #parents_task .text { padding-top: 70px; }
+  .proforientaciya #how_career .wave { background-size: inherit; } }
+@media (max-width: 1200px) { .proforientaciya #prof_tooltip .content .prof_tooltip.one { left: 110px; }
+  .proforientaciya #prof_tooltip .content .prof_tooltip.three { right: 15px; }
+  .proforientaciya #seven_years .content { grid-template-columns: 1fr 450px; }
+  .proforientaciya #result_career .container .content { grid-template-columns: 400px 1fr; }
+  .proforientaciya #prof_target .container > h2 { padding: 110px 60px; font-size: 34px; line-height: 42px; }
+  .proforientaciya #how_career .container .content ul.list { grid-column-gap: 30px; }
+  .proforientaciya #prof_feedback .content .prof_form .block-messages .message.two { top: calc(50% - 118px); left: -97px; }
+  .proforientaciya #prof_feedback .content .prof_form .block-messages .message.one { top: -96px; left: -60px; }
+  .proforientaciya #prof_feedback .content .prof_form .block-messages .message.three { left: -100px; }
+  .page-id-8301, .proforientaciya #seven_years { background: #f9fcff; }
+  .proforientaciya #prof_target .container > h2 strong { white-space: nowrap; }
+  .proforientaciya #how_career .container .content { grid-row-gap: 30px; }
+  .proforientaciya #prof_feedback .content .prof_form .block-messages .message { font-size: 14px; max-width: 250px; } }
+@media (max-width: 1100px) { .proforientaciya #prof_tooltip .content .prof_tooltip.one { left: 0; }
+  .proforientaciya #prof_tooltip .content .prof_tooltip.three { max-width: 270px; }
+  .proforientaciya #prof_tooltip .content .prof_tooltip.two { right: 75px; }
+  .proforientaciya #get_answer .wave { background-size: contain; }
+  .proforientaciya #prof_slider .content h1 { font-size: 38px; }
+  .proforientaciya #get_answer .content .text h3 { font-size: 24px; line-height: 32px; }
+  .proforientaciya #seven_years .content .text ul { grid-template-columns: 1fr; }
+  .proforientaciya #prof_target .container .content ul { grid-template-columns: 1fr; }
+  .proforientaciya #how_career .container .content ul.list { grid-template-columns: 1fr; }
+  .proforientaciya #video-reviews .content h2 { font-size: 36px; line-height: 46px; }
+  .proforientaciya #how_career .container .content h2 { font-size: 36px; } }
+@media (max-width: 992px) { .proforientaciya #prof_slider .content { grid-template-columns: 1fr; }
+  .proforientaciya #prof_slider .content .text > p { display: block; margin: 30px auto; }
+  .proforientaciya #prof_slider .content .text { grid-row: 2; text-align: center; }
+  .proforientaciya #prof_slider .content .slider_img { grid-row: 1; }
+  .proforientaciya #prof_slider .content .slider_img img { max-width: 380px; padding: 0; display: block; margin: 0 auto; }
+  .proforientaciya #prof_tooltip .content .center_image .quest_img { max-width: 300px; }
+  #prof_slider { padding-bottom: 50px; }
+  .proforientaciya { background-size: contain; }
+  .proforientaciya #prof_tooltip .content .prof_tooltip { position: relative; }
+  .proforientaciya #prof_tooltip .content .prof_tooltip.one { top: 0; }
+  .proforientaciya #prof_tooltip .content .prof_tooltip.two { top: 30px; right: -50px; }
+  .proforientaciya #prof_tooltip .content .prof_tooltip.three { top: 60px; right: -30px; }
+  .proforientaciya #prof_tooltip .content .center_image { margin-top: 90px; }
+  .proforientaciya #get_answer .content { grid-template-columns: 1fr; }
+  .proforientaciya #get_answer .content .image img, .proforientaciya #seven_years .content .image img { max-width: 300px; display: block; margin: 30px auto 0 auto; }
+  .proforientaciya #seven_years .content { grid-template-columns: 1fr; }
+  .proforientaciya #prof_target .container .content { grid-template-columns: 1fr; }
+  .proforientaciya #prof_target .container .content { grid-row-gap: 30px; }
+  .proforientaciya #result_career .container .content { grid-template-columns: 1fr; }
+  .proforientaciya #how_career .container .content { grid-template-columns: 1fr; }
+  .proforientaciya #video-reviews .content { grid-template-columns: 1fr; grid-gap: 40px; }
+  .proforientaciya .reviews-video-home { max-width: 320px; }
+  .proforientaciya #video-reviews .content h2 { font-size: 26px; line-height: normal; }
+  .proforientaciya #video-reviews .wave { background: url(https://uaitsmart.com/wp-content/uploads/2019/09/wave_blue_top.png) center bottom no-repeat; }
+  .proforientaciya #prof_feedback .content .prof_form .cont { grid-template-columns: 1fr; }
+  .proforientaciya #prof_feedback .content .prof_form .cont > div.content { background: #fff; padding: 40px; }
+  .proforientaciya #prof_feedback .content .prof_form { padding: 0; }
+  .proforientaciya #prof_feedback .content .prof_form .cont > div > h4 { color: #15acf2; }
+  .proforientaciya #prof_feedback .content .prof_form .cont > div .feed-form .form input { border: 1px solid #21b6fa; color: #000; }
+  .proforientaciya #prof_feedback .content .prof_form .cont > div .feed-form .form input::placeholder { color: #000; }
+  .proforientaciya #prof_feedback .content .prof_form .cont .image img { max-width: 180px; }
+  .proforientaciya #prof_feedback .content .prof_form .block-messages { left: 100px; }
+  .proforientaciya #prof_tooltip .content .center_image .quest_img::before { display: none; }
+  .proforientaciya #prof_tooltip .content .center_image .quest_img::after { display: none; }
+  .proforientaciya #seven_years .content .big_text { font-size: 100px; }
+  .proforientaciya #seven_years .content .big_text { left: 21% !important; }
+  .proforientaciya #prof_target .container > h2 { padding: 65px 0px; font-size: 20px; line-height: 31px; }
+  .proforientaciya #prof_target .container > h2::before { display: none; }
+  .proforientaciya #result_career { padding-top: 40px; padding-bottom: 75px; }
+  .proforientaciya #result_career .container .content .image img { max-width: 300px; display: block; margin: 0 auto; }
+  .proforientaciya #how_career .container .content .big_text { font-size: 100px; }
+  .proforientaciya #prof_target .container .big_text { font-size: 110px; } }
+@media (max-width: 768px) { .proforientaciya #prof_feedback .content .prof_form .cont > div .feed-form .form > div.last { grid-template-columns: 1fr; grid-gap: 15px; }
+  .proforientaciya #prof_feedback .content .prof_form .cont > div .feed-form .form input[type="submit"] { width: 100%; }
+  .proforientaciya #prof_feedback .content .prof_form .block-messages .message.one { top: -119px; }
+  .proforientaciya #prof_feedback .content .prof_form .block-messages .message { font-size: 12px; }
+  .proforientaciya #prof_feedback .content .prof_form .cont > div.content { border-radius: 20px; }
+  .proforientaciya #prof_feedback .content .prof_form { border-radius: 10px 10px 40px 40px; }
+  .proforientaciya #prof_feedback .content { padding: 150px 0 70px 0; }
+  .proforientaciya #parents_task .text { padding-top: 0; }
+  .proforientaciya #result_career .container .content .text > div h3 { line-height: normal; }
+  .proforientaciya #result_career .container .content .text > div { padding: 30px; }
+  .proforientaciya #parents_task .text h3 { line-height: normal; }
+  .proforientaciya #how_career .container .content h3 { font-size: 24px; line-height: normal; }
+  .proforientaciya #get_answer { padding-bottom: 30px; }
+  .proforientaciya #seven_years .content .big_text { top: -60px; line-height: 88px; }
+  .proforientaciya #seven_years { padding-top: 50px; }
+  .proforientaciya .btn-blue-g a.sg-show-popup { box-shadow: none !important; }
+  .proforientaciya .btn-blue-g a.sg-show-popup:hover { box-shadow: none !important; }
+  .proforientaciya #prof_feedback .content .prof_form .cont > div.content { box-shadow: 1px 1px 50px #00000026; width: calc(100% - -20px); left: -10px; }
+  .proforientaciya #prof_feedback .content .prof_form .block-messages .message.two { left: -115px; } }
+@media (max-width: 420px) { .proforientaciya #prof_slider .content h1 { font-size: 30px; }
+  .proforientaciya #prof_slider .content .slider_img img { width: 100%; }
+  .proforientaciya #prof_slider .content .text > p { margin-top: 20px; font-size: 18px; }
+  .proforientaciya #get_answer .content { grid-gap: 20px; }
+  .proforientaciya #seven_years .content .text h2 { font-size: 24px; }
+  .proforientaciya #seven_years .content .big_text { font-size: 80px; }
+  .proforientaciya #prof_target .container .big_text { line-height: 80px; top: 20px; }
+  .proforientaciya #result_career .container .content .text > div h3 { margin-bottom: 20px; }
+  .proforientaciya #how_career .container .content .image img { margin-top: 10px; }
+  .proforientaciya #seven_years .content .text h3 { font-size: 18px; line-height: 27px; } }

@@ -1,0 +1,2531 @@
+/* СЛАЙДЫ */
+@media (min-width:768px) {.classic-slide-btn {padding-top: 30px;}
+.text_course_1 { padding-bottom: 20px; } }
+
+@media (max-width:768px){
+.text_course_1{padding-bottom: 40px}
+.classic-slide-btn {padding-top: 50px;}
+ .classic-slide-btn {padding-top: 50px;}
+.Slider_courses_block .col-12 {display: grid;align-self: center;height: 100%}
+.Slider_courses_block .col-sm-12 {display: grid;align-self: center;height: 100%}
+.Slider_courses_block .col-12.empty{display: none} }
+
+.Slider_courses_block{ min-height:83vh;  }
+.Slider_courses_block .row {align-items: center;}
+
+@media (max-width:768px){
+.Slider_courses_block .empty {display: none;}
+.Slider_courses_block .row {align-items: normal;}
+.course_slide {text-align: center; padding-top: 50px;padding-bottom: 30px;}
+.Slider_courses_block{min-height:90vh;}
+.start_slide {text-align: center;}
+.classic-slide-btn {text-align: center;}
+.start_slide {font-size: 18px; line-height: 22px; padding: 10px 0 20px 0;}
+}
+
+.video-slider-text { position: absolute; top: 0; left: 0; width: 100%; text-align: center; }
+.video-slider-text:before {	position: absolute;	content: '';	top: 0;	left: 0;	width: 100%;	height: 100%;	background: #00000091;	z-index: 0; }
+
+.video-slider h1 { color: #fff; font-family: "radomir-tinkov-gilroy-light"; font-weight: bold; font-size: 37px; }
+.video-slider h1 span { display: block; font-weight: bold; font-size: 80px; font-family: 'radomir-tinkov-gilroy-extrabold'; }
+.video-slider video { display: block; }
+
+@media (max-width: 1100px) {
+	.video-slider h1 { font-size: 27px; }
+	.video-slider h1 span { font-size: 60px;  }
+}
+
+.video-slider { position: relative; }
+.php-title-3 { color: #fff; margin-bottom: 10px; }
+/* @media (min-width:768px){ */
+
+@media (max-width:768px){
+.Slider_courses_block.desktop{display:none;}}
+
+@media (min-width:769px){
+.Slider_courses_block.mobile{display:none;}}
+
+@media (max-width:768px){
+.text_course_3 {text-align: center;}  }
+
+/* Робототехника в
+IT-школе СМАРТ */
+@media (min-width:768px){.Slider_courses_block.robototech { background-image: url(/wp-content/uploads/2018/08/robo-glavnaya.jpg); }}
+@media (max-width:768px){  .Slider_courses_block.robototech {background-image: url(/wp-content/uploads/2018/08/Mobile-5-7years-Malina-1.jpg);}}
+/* КОНЕЦ Робототехника в
+IT-школе СМАРТ */
+
+/* Мастер-классы*/
+@media (min-width:768px){ .Slider_courses_block.sotsproekt { background-image: url(/wp-content/uploads/2018/08/master-klsa-robotex.jpg); }}
+@media (max-width:768px){  .Slider_courses_block.sotsproekt {background-image:     url(/wp-content/uploads/2018/08/Mobile-8-11years-Orange.jpg);} }
+/* КОНЕЦ Мастер-классы */
+
+
+/* robototehniki */
+@media (min-width:768px){ .Slider_courses_block.robototehniki { background-image: url(/wp-content/uploads/2018/08/robototehnika.jpg); } }
+@media (max-width:768px){  .Slider_courses_block.robototehniki {    background-image: url(/wp-content/uploads/2018/08/Mobile-8-11years-Orange.jpg);}}
+/* robototehniki */
+
+/* t-kursy */
+@media (min-width:768px){ .Slider_courses_block.it-kursy { background-image: url(/wp-content/uploads/2018/09/banner-1.png); }}
+@media (max-width:768px){  .Slider_courses_block.it-kursy {    background-image: url(/wp-content/uploads/2018/08/Mobile-11-13years-Salat-1.jpg);}}
+@media (max-width:768px){  .Slider_courses_block.robolab {    background-image: url(/wp-content/uploads/2018/08/Mobile-Robolab.jpg);}}
+/* t-kursy */
+
+
+@media (min-width:768px){ .slider_courses_block{background-size: cover;  background-repeat: no-repeat; }}
+
+.course_slide{margin-top:-20px;}
+@media (max-width:768px){.course_slide{margin-top:0px;}}
+.text_course{ font-family: Montserrat; display: block; letter-spacing: 0px;font-weight: 300;font-size: 45px; color: #fff; margin: 0px; padding:30px 0px 0px 0px; text-transform: uppercase;text-shadow: 1px 1px 3px rgba(63, 110, 176, 0.5); }
+@media (max-width:768px){.text_course{  font-size: 22px; line-height: 22px; display: block;padding-top:30px;} }
+.text_course_1{ text-shadow: 1px 1px 3px rgba(63, 110, 176, 0.5); transition: none; line-height: normal; border-width: 0px;display: block; margin: 0px; padding: 0px; letter-spacing: 0px; font-weight: 200;    font-size: 45px; color: rgb(255, 255, 255);  font-family: Montserrat; }
+@media (max-width:768px){.text_course_1{font-size: 25px; line-height: 25px;padding: 10px 0;    display: block;}}
+
+.text_course_2{font-family: Montserrat;color: #eaff00;display: block;text-shadow: 1px 1px 3px rgba(63, 110, 176, 0.5);  transition: none;  line-height: 60px;  border-width: 0px;  margin: 0px;  padding: 0px;  letter-spacing: 1px;  font-weight: 700;  font-size: 40px;    text-transform: uppercase; }
+@media (max-width:768px){.text_course_2{font-size: 25px; line-height: 25px;display: block;}}
+
+.text_course_3{text-align: left;text-shadow: 1px 1px 3px rgba(63, 110, 176, 0.5);color: #fff;  font-family: Montserrat;  transition: none;  line-height: 30px;  border-width: 0px;  margin: 0px;  padding: 0px;  letter-spacing: 0px;  font-weight: 100;font-size: 22px;}
+@media (min-width:768px){
+.alex_date{font-weight:200;font-size:28px;}}
+.start_slide{ text-shadow: 1px 1px 3px rgba(63, 110, 176, 0.5); line-height: 30px; border-width: 0px; margin: 0px; padding: 0px; letter-spacing: 0px; font-size: 28px; color: rgb(255, 255, 255);  font-family: Montserrat;  padding: 40px 0 60px 0; }
+.slider_vertical_center{ -webkit-box-pack: center; -webkit-justify-content: center; -ms-flex-pack: center; justify-content: center; }
+/* СЛАЙДЫ */
+
+
+@media (max-width:1100px){ .text_course_1 { font-size: 30px; } }
+
+@media (min-width: 992px) and (max-width: 1140px) {
+.text_course_1.oop { font-size: 34px; }
+.text_course_2.oop { font-size: 34px; } }
+
+@media (min-width: 768px) and (max-width: 992px) {
+.text_course_1.oop { font-size: 28px; }
+.text_course_2.oop { font-size: 28px; }
+.text_course_1 { font-size: 28px; }
+.text_course_2 { font-size: 28px; }
+.text_course_1.inkubator_text { font-size: 18px; } }
+
+
+.course.structure .list-group p{margin: 0;}
+._offer .btn {text-align: left}
+
+@media (max-width: 768px) { ._offer .btn {text-align: center} }
+/*End slides styles*/
+
+
+
+
+.list-img-icon-1:after{background: url(/wp-content/uploads/2018/08/Icon-Hexagon-1.png);background-size: 50px;}
+.list-img-icon-2:after{background: url(/wp-content/uploads/2018/08/Icon-Hexagon-2.png);background-size: 50px;}
+.list-img-icon-3:after{background: url(/wp-content/uploads/2018/08/Icon-Hexagon-3.png);background-size: 50px;}
+.list-img-icon-4:after{background: url(/wp-content/uploads/2018/08/Icon-Hexagon-4.png);background-size: 50px;}
+.list-img-icon-5:after{background: url(/wp-content/uploads/2018/08/Icon-Hexagon-5.png);background-size: 50px;}
+.list-img-icon-6:after{background: url(/wp-content/uploads/2018/08/Icon-Hexagon-6.png);background-size: 50px;}
+
+
+
+.list-img-robolab-1:after{background: url(/wp-content/uploads/2018/08/electric.png);background-size: 50px;}
+.list-img-robolab-2:after{background: url(/wp-content/uploads/2018/08/osvaivaut-rabotu.png);background-size: 50px;}
+.list-img-robolab-3:after{background: url(/wp-content/uploads/2018/08/programirovanie.png);background-size: 50px;}
+.list-img-robolab-4:after{background: url(/wp-content/uploads/2018/08/ychatsya-construirovat-robotov.png);background-size: 50px;}
+
+.list-img-robototehnika-1:after{background: url(/wp-content/uploads/2018/08/sozdanie-robotov-1.png);background-size: 50px;}
+.list-img-robototehnika-2:after{background: url(/wp-content/uploads/2018/08/projetiruem.png);background-size: 50px;}
+.list-img-robototehnika-3:after{background: url(/wp-content/uploads/2018/08/sobiraem-robotov.png);background-size: 50px;}
+.list-img-robototehnika-4:after{background: url(/wp-content/uploads/2018/08/program-robot.png);background-size: 50px;}
+
+.list-img-robototehniki-1:after{background: url(/wp-content/uploads/2018/08/logicheskoe-mushlenie.png);background-size: 50px;}
+.list-img-robototehniki-2:after{background: url(/wp-content/uploads/2018/08/znakomyan-s-principami.png);background-size: 50px;}
+.list-img-robototehniki-3:after{background: url(/wp-content/uploads/2018/08/razvivaem-motoriky.png);background-size: 50px;}
+.list-img-robototehniki-4:after{background: url(/wp-content/uploads/2018/08/osnovu-postroenie.png);background-size: 50px;}
+.list-img-robototehniki-5:after{background: url(/wp-content/uploads/2018/08/abstractnoe-mushlenie.png);background-size: 50px;}
+.list-img-robototehniki-6:after{background: url(/wp-content/uploads/2018/08/leader-cachestva.png);background-size: 50px;}
+
+.list-img-icon-orange-1:after{background: url(/wp-content/uploads/2018/08/1-1.png);background-size: 50px;}
+.list-img-icon-orange-2:after{background: url(/wp-content/uploads/2018/08/2-1.png);background-size: 50px;}
+.list-img-icon-orange-3:after{background: url(/wp-content/uploads/2018/08/3-1.png);background-size: 50px;}
+.list-img-icon-orange-4:after{background: url(/wp-content/uploads/2018/08/4-1.png);background-size: 50px;}
+.list-img-icon-orange-5:after{background: url(/wp-content/uploads/2018/08/5-1.png);background-size: 50px;}
+
+.list-img-icon-green-1:after{background: url(/wp-content/uploads/2018/08/1grin.png);background-size: 50px;}
+.list-img-icon-green-2:after{background: url(/wp-content/uploads/2018/08/2grin.png);background-size: 50px;}
+.list-img-icon-green-3:after{background: url(/wp-content/uploads/2018/08/3grin.png);background-size: 50px;}
+.list-img-icon-green-4:after{background: url(/wp-content/uploads/2018/08/4grin.png);background-size: 50px;}
+.list-img-icon-green-5:after{background: url(/wp-content/uploads/2018/08/5grin.png);background-size: 50px;}
+
+.list-img-icon-pink-1:after{background: url(/wp-content/uploads/2018/08/1-4.png);background-size: 50px;}
+.list-img-icon-pink-2:after{background: url(/wp-content/uploads/2018/08/2-4.png);background-size: 50px;}
+.list-img-icon-pink-3:after{background: url(/wp-content/uploads/2018/08/3-4.png);background-size: 50px;}
+.list-img-icon-pink-4:after{background: url(/wp-content/uploads/2018/08/4-2.png);background-size: 50px;}
+.list-img-icon-pink-5:after{background: url(/wp-content/uploads/2018/08/5-2.png);background-size: 50px;}
+
+.list-img-icon-yellow-1:after{background: url(/wp-content/uploads/2018/08/Icon-Hexagon-Map.png);background-size: 50px;}
+.list-img-icon-yellow-2:after{background: url(/wp-content/uploads/2018/08/Icon-Hexagon-IT-Meetings.png);background-size: 50px;}
+.list-img-icon-yellow-3:after{background: url(/wp-content/uploads/2018/08/Icon-Hexagon-Trainings.png);background-size: 50px;}
+.list-img-icon-yellow-4:after{background: url(/wp-content/uploads/2018/08/Icon-Hexagon-Award.png);background-size: 50px;}
+.list-img-icon-yellow-5:after{background: url(/wp-content/uploads/2018/08/Icon-Hexagon-Games.png);background-size: 50px;}
+
+.list-img-icon-orange-number-1:after{background: url(/wp-content/uploads/2018/08/Icon-Hexagon-Orange-1.png);background-size: 50px;}
+.list-img-icon-orange-number-2:after{background: url(/wp-content/uploads/2018/08/Icon-Hexagon-Orange-2.png);background-size: 50px;}
+.list-img-icon-orange-number-3:after{background: url(/wp-content/uploads/2018/08/Icon-Hexagon-Orange-3.png);background-size: 50px;}
+.list-img-icon-orange-number-4:after{background: url(/wp-content/uploads/2018/08/Icon-Hexagon-Orange-4.png);background-size: 50px;}
+.list-img-icon-orange-number-5:after{background: url(/wp-content/uploads/2018/08/Icon-Hexagon-Orange-5.png);background-size: 50px;}
+.list-img-icon-orange-number-6:after{background: url(/wp-content/uploads/2018/08/Icon-Hexagon-Orange-6.png);background-size: 50px;}
+.list-img-icon-orange-number-6:after{background: url(/wp-content/uploads/2018/08/Icon-Hexagon-Orange-7.png);background-size: 50px;}
+.list-img-icon-orange-number-6:after{background: url(/wp-content/uploads/2018/08/Icon-Hexagon-Orange-8.png);background-size: 50px;}
+
+.list-img-icon-orange-checkbox:after{background: url(/wp-content/uploads/2018/08/Icon-Checkbox-Orange.png);background-size: 50px;background-repeat: no-repeat;}
+.list-img-icon-blue-checkbox:after{background: url(/wp-content/uploads/2018/08/Icon-Checkbox-Blue-1.png);background-size: 50px;}
+.list-img-icon-yellow-checkbox:after{background: url(/wp-content/uploads/2018/08/Icon-Checkbox-yelow.png);background-size: 50px; background-repeat: no-repeat;}
+.list-img-icon-black-chess:after{background: url(/wp-content/uploads/2018/09/Chess-marker.png);background-size: 50px;}
+.list-img-icon-pink-checkbox:after{background: url(/wp-content/uploads/2018/08/checkbox-purple.png);background-size: 50px; background-repeat: no-repeat;}
+.list-img-icon-green-checkbox:after{background: url(/wp-content/uploads/2018/08/2018-08-21-15.05.05-1.png);background-size: 50px;background-repeat: no-repeat;}
+
+
+@media (max-width:768px) {
+	.prepod-text-block {padding: 20px;box-shadow: 0 4px 10px 0 rgba(0,0,0,.1);}
+	.bg-mountains {background: none;}
+	.result-of-the-course .list-group-item::before {content: '';height: 100%;width: 1px;position: absolute;background: #15acf2;top: 12px;left: 25px;}
+	.result-of-the-course .list-group-item {position: relative;}
+	.result-of-the-course .col-sm-12:last-child
+	.list-group-item:last-child::before { display: none; }
+	.mob-pt30 {padding-top: 30px;}
+	.Slider_courses_block{min-height:90vh;}
+}
+
+.result-of-the-course .list-group-item::after {width: 60px;height: 60px;}
+.list-img-icon-1::after, .list-img-icon-2::after ,.list-img-icon-3::after ,.list-img-icon-4::after ,
+.list-img-icon-5::after ,.list-img-icon-6::after ,.list-img-icon-7::after ,.list-img-icon-8::after ,
+.list-img-icon-9::after ,.list-img-icon-10::after {position: absolute;}
+
+
+.speacker-grid { display: grid; grid-template-columns: 150px 1fr; align-items: center; grid-column-gap: 30px; padding: 0 10px;}
+.list-img-white-check {background: none; border:none; padding-left: 50px;position: relative;padding-bottom: 10px;}
+.list-img-icon-blue {background: none; border:none; padding-left: 70px; position: relative;}
+.list-img-icon-yellow {background: none; border:none; padding-left: 70px; position: relative;}
+
+
+.programs-two-rows .list-group-item:after {background-size: contain;}
+.programs-two-rows .list-group-item {border-bottom: 1px solid #fff3;}
+.programs-two-rows .mb-1 {color: #fff}
+.pt30 {padding-top: 30px;}
+
+.va-b {vertical-align: bottom;}
+.bg-blue { background-image: linear-gradient(to right, #09a1ff , #00ccff);}
+.w-fix {max-width: 1140px;}
+
+.title_achivments {padding-bottom: 50px;}
+.welcome_box {padding: 40px 0;}
+
+
+.Slider_courses_block{background-position: center; background-repeat: no-repeat; background-size: cover;}
+.Slider_courses_block .row {min-height: 83vh;}
+
+/*Конец Общие стили*/
+
+#enroll_on_course  input.wpcf7-form-control.wpcf7-submit:hover { background: #ff1569; border: 0; }
+#enroll_on_course  input.wpcf7-form-control.wpcf7-text:focus { border: 2px solid #ff1569; }
+.form_input_enroll_on_course span.wpcf7-not-valid-tip{position: absolute;left: 111px;top: 16px;font-size: 12px;}
+.paidPlace {font-weight:600;}
+.pickImagesBOX {background: url(/wp-content/uploads/2018/11/angle_final.jpg) top center no-repeat;}
+  /* #enroll_on_course {padding-bottom:20px;} */
+
+
+.SliderMainbox {padding-bottom: 8px;}
+.p_Courses {display:block}
+#clockdiv span.days, #clockdiv span.hours, #clockdiv span.minutes, #clockdiv span.seconds {font-size: 24px; color: #eaff00}
+.checked {position:relative;}
+#clockdiv span {color: #eaff00;font-size: 24px;}
+#enroll_on_course input.wpcf7-form-control.wpcf7-submit, #enroll_on_course input.wpcf7-form-control.wpcf7-submit:focus, #enroll_on_course input.wpcf7-form-control.wpcf7-submit:hover {outline: none !important;}
+.name_Courses::first-letter { text-transform: lowercase; }
+.borderTwo {display: inherit; padding: 20px; background: #fff5; border-radius: 10px; margin: 0; height: auto; }
+.borderOne {display: inline-block;padding: 20px;background:#fff3;border-radius:10px;}
+.BlueROW {border-radius: 8px 8px 0 0;background: #15acf2;overflow: hidden;}
+.slideTitle {padding: 20px 20px 0 20px;}
+.p_Courses {font-weight: 400;font-size: 20px;color: #fff;margin-bottom: 0;}
+.name_Courses {font-weight: 400;font-size: 30px;color: #eaff00;margin-bottom: 0;line-height: 30px;display: block;padding-bottom: 8px;}
+.p_courses, .p_date_title {line-height: 20px;font-size: 12px;color: #fff;margin-bottom: 0;padding-top: 5px;}
+/* .slideInfoTopLeft {width: 50%;position: relative;display: inline-block;float: left;text-align: center;}
+.slideInfoTopRight {width: 50%;position: relative;display: inline-block;float: right;text-align: center;} */
+.ShowShedulle {overflow: hidden;background: #c5ecfb}
+.name_courses {font-size: 24px;color: #eaff00;margin-bottom: 0;padding-bottom: 10px;}
+.shedulle_text {margin-bottom: 0;text-align:  center;color: #575656;padding: 10px 0;}
+.totalTitle {margin-bottom: 0;color: #ec008c;font-size: 12px;text-align: center;line-height: 20px;padding-top: 30px;padding-bottom: 10px;}
+.pickImagesBOX {background: #fff}
+#clockdiv div {display: inline-block;}
+#clockdiv span.smalltext {font-size: 14px; color: #eaff00}
+
+
+@media (max-width:768px) {
+	.p_date_title {font-size: 16px;line-height: 20px;font-weight: 400;}
+	.p_courses {font-size: 16px;line-height: 20px;font-weight: 400;}
+	.name_courses {  font-size: 16px;line-height: 20px;font-weight: 400;}
+	#clockdiv span.smalltext {font-size: 10px;}
+	.slideTitle {padding: 10px 20px 0 20px;}
+	.borderOne {padding:0;border:0;margin: 0;margin-top: 0px;background: none;}
+	.name_Courses {font-size: 22px;}
+	.newBannerSlide {line-height:22px;}
+	 #clockdiv span:first-child {font-size: 17px;}
+	.slideInfoBottom  p{font-size: 12px;}
+	img.align-bottom { margin-top: 20px; max-width: 100%; }
+}
+
+.who-are-need-a-course p {color: #ddd;}
+.who-are-need-a-course h4 {color: #fff;}
+.who-are-need-a-course h2 {padding: 40px 0;}
+/*Конец Кому нужен курс*/
+
+
+/*В результате курса вы:*/
+.result-of-the-course .list-group-item:after { content: ""; width: 50px; height: 55px; position: absolute; left: 0; top: 7px; background-repeat: no-repeat;}
+.result-of-the-course .list-group-item {background: none;border: none;padding-left: 65px;justify-content: left; display: grid; text-align: left; min-height: 65px;}
+/*Конец В результате курса вы:*/
+
+
+/*Преподаватель курса:*/
+@media (min-width: 768px) {
+ .solo-prepod-img {text-align: right;}
+ .social_prepod_block {text-align: right;padding-top: 30px; margin: 0 auto;}
+}
+
+.prepod-course img {max-width:250px;}
+.prepod-course .data { background-position-x: 0%; background-position-y: 0%; background-repeat: no-repeat; background-size: 80%}
+.prepod-course {background: #fafafa;}
+.prepod-course .prepod_descr {color: #959595;}
+.prepod-course .prepod_descr {padding-bottom: 20px;}
+.prepod-course .data { margin:  0 auto; display: inline-block;}
+.prepod-course .rotate-anim img {vertical-align:   middle;}
+
+@media (max-width: 768px) {
+  .prepod-course .data { background-size: 40%; background-position-x: 9px; background-position-y: 11px; margin-bottom: 20px;}
+  .prepod-course .data img {width: 45%;float: left;}
+  .social_prepod_block {text-align: left;}
+}
+
+.social_prepod_block {margin-top: 0px;width: 50%;position: relative;}
+.social_prepod {display: inline-block;}
+/*Конец Преподаватель курса:*/
+
+
+/*Пропустили занятие?*/
+.leave-lesson { background: #15acf2; }
+.recordTitle { font-size: 40px; color: #eaff00; line-height: normal; }
+.recordDescr { font-size: 20px; padding-top: 20px; line-height: normal; color: #fff; font-weight: 300; }
+@media (max-width:768px){ .recordTitle{ font-size: 25px; padding-bottom: 20px; } .recordDescr{font-size: 16px;} }
+/*Конец Пропустили занятие?*/
+
+/*Учеба в Level Up — это:*/
+.study-levelup .list-group-item {background: none; border:none;padding-left: 70px;}
+.study-levelup .list-group-item:after {content: ""; width: 60px; height: 60px; position: absolute;left: 0; top: 19px; background-repeat: no-repeat; background-size: contain;}
+/*Конец Учеба в Level Up — это:*/
+
+
+/*Зачем изучать основы дизайна?*/
+.who-do-you-want-study {background: #f1f5f9;}
+.button-study {padding-top: 40px;padding-bottom: 50px;}
+.who-do-you-want-study.course {padding-bottom: 0}
+@media (max-width:768px){ .who-do-you-want-study .row {flex-direction: column-reverse;} }
+/*Конец Зачем изучать основы дизайна?*/
+
+
+
+/*Видео презентация курса*/
+.VideoButton img { box-shadow: none; border: 0; max-width: 100%; display: block; line-height: 100px; top: calc(50% - 32px); left: 3px;
+  position: relative; z-index: 999; background: url(/wp-content/uploads/2018/05/music-player-play.png);
+  background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto auto;
+  background-size: 30px 30px; background-repeat: no-repeat; background-position: center;}
+.VideoButton::before {content: ''; width: 140px; height: 140px; border-radius: 50%; border: 2px solid #fff; opacity: .1; position: absolute; left: 50%; top: 50%;
+  -webkit-transform: translate(-50%, -50%); transform: translate(-50%, -50%); -webkit-animation: pulsingVideo 1s ease-in-out infinite alternate; animation: pulsingVideo 1s ease-in-out infinite alternate;}
+.VideoButton { line-height: 100px; border: 2px solid #fff; width: 100px; height: 100px; text-align: center; margin: 0; line-height: 100px; border-radius: 50px; top: 22px; position: relative; transition: .3s ease-in-out; }
+img.ult-align-center {margin: 0 auto;}
+
+
+@keyframes pulsingVideo {
+	0% { -webkit-transform: translate(-50%, -50%) scale(0.9); transform: translate(-50%, -50%) scale(0.9); }
+	60% { -webkit-transform: translate(-50%, -50%) scale(1); transform: translate(-50%, -50%) scale(1); }
+	100% { -webkit-transform: translate(-50%, -50%) scale(0.8); transform: translate(-50%, -50%) scale(0.8); z-index: 1; }
+}
+
+.video-present { background-position-x: center; background-image: url(/wp-content/uploads/2018/06/BG-Homepage-Yankula-Anton-Black-1.jpg);}
+.VideoButton:hover {border: 2px solid #15acf2; background: rgba(255, 255, 255, 0.01); border-color: #15acf2;transform: scale(1.1); cursor: pointer;}
+.video-present .row {min-height: 400px;}
+.video-present h2 {color: #fff;text-align: center;}
+.video-present .text-bottom {padding-top: 50px;color: #f3f3f3;text-align: center;}
+/*Конец Видео презентация курса*/
+
+
+/*Карусель Преподаватель */
+.prepod-carusel {background: #fafafa;}
+.prepod-carusel img {max-width:250px;}
+/*Конец Карусель Преподаватель*/
+
+/*ФОТОГАЛЛЕРЕя*/
+.grid, .grid2 { display: grid; grid-template-columns:repeat(3, 1fr); grid-template-rows: repeat(3, 1fr); grid-gap:10px; }
+.grid div:nth-child(1) { grid-column: 1/3; grid-row: 1/3; }
+.grid2 div:nth-child(2) { grid-column: 2/4; grid-row: 1/3;}
+.grid img,.grid2 img {max-width: 100%;}
+.grid div, .grid2 div { border-radius:10px; }
+
+.student-portfolios3d div {background-size: cover;}
+.wrapper-grid div { background: #15acf2; padding: 1em; border-radius: 10px; color: #fff; }
+
+@media (min-width: 992px) {
+	.wrapper-grid { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr; grid-gap: 1em; }
+	.wrapper-grid div:nth-child(2) { grid-column: 2/4; grid-row: 1/3; }
+	.wrapper-grid div:nth-child(4) { grid-column: 4/6; grid-row: 1/3; }
+}
+
+@media (max-width: 992px) {
+  .wrapper-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; grid-gap: 1em; }
+  .wrapper-grid div:nth-child(1) { grid-column: 2/4; grid-row: 1/3; }
+  .wrapper-grid div:nth-child(11) { grid-column: 1/3; grid-row: 4/6; }
+}
+
+/*ФОТОГАЛЛЕРЕя*/
+.reviews-row {box-shadow: 0 4px 10px 0 rgba(0,0,0,.1);padding: 10px;margin: 10px;display: grid; grid-template-columns: 1fr 2fr;grid-template-rows: 2fr;}
+.reviews_photo {grid-row: 1/3;}
+.reviews_photo img {border-radius: 50%;width: 80%;margin: 0 auto;}
+.modal .reviews-row {box-shadow: none; margin:0; padding:0;}
+.reviews_descr .abc {padding: 20px 0;}
+.reviews_name {font-size: 18px;}
+.btn-reviews {background: none;color: #15acf2;border: none;padding: 0;}
+.btn-reviews:hover {background: none;color: #4c4c4c;border: none;padding: 0;}
+.btn-reviews:focus {box-shadow: none;}
+.btn-reviews:active {background: none;color: #4c4c4c;border: none;outline: none;}
+/* Конец ФОТОГАЛЛЕРЕя*/
+
+.eng-programs .accordion {max-width: 100%; }
+
+
+.last-list {padding-bottom:40px;}
+
+.qa h5{color: #fff}
+.who-are-need-a-course.none-title .list-group-item::after {top: 7px;}
+@media (min-width:768px){ .loading-padding-bottom {padding-bottom:30px;} }
+.course_details.mobile .col-sm-12 {text-align: center;}
+.course_details.mobile .list-group {display: inline-block;position: relative;text-align: left;}
+@media (max-width:768px){ .course_details .buttonLight, .course_details .sg-show-popup {margin-top: 0px;} }
+.english-dtls h3 {font-size: 27px;}
+
+
+@media (min-width:769px){
+	.prepod-carusel .carusel-img {text-align: right;}
+	.prepod-carusel .carusel-img img{display: inline-block;}
+}
+
+.bg-mountains {background: url(/wp-content/uploads/2019/01/bg-pattern-dotted.jpg); background-position-x: 0%; background-position-y: 0%; background-size: auto auto; background-position: center; }
+.list-img-icon-10::after {background-size: contain;}
+
+
+@-webkit-keyframes run2 {
+  0% { transform: translate(0%); }
+  25% { transform: translate(120%) scale(0.8); }
+  50% { transform: translate(120%, 150%); }
+  75% { transform: translate(0%, 120%) scale(0.8); }
+}
+@keyframes run2 {
+  0% { transform: translate(0%); }
+  25% { transform: translate(120%) scale(0.8);  }
+  50% { transform: translate(120%, 120%); }
+  75% { transform: translate(0%, 120%) scale(0.8); }
+}
+
+.iconRound{ width: 100px; height: 100px; transform: translate(-50%, -50%); position: absolute; top: 128%; left: 55%; }
+span.five,span.one,span.two,span.three,span.four { display: block; position: absolute; width: 100%; height: 100%;  -webkit-animation: run 4s infinite ease-in-out; animation: run 4s infinite ease-in-out; }
+
+.JavaScript .course_includes-block p {padding: 20px 0;}
+.JavaScript .second-row {padding-top: 20px;}
+
+/*Level Up — рассылка*/
+.email-subscribe {color:#fff;}
+.email-subscribe img{align-self: end;display: block;}
+.email-subscribe .form {padding: 40px 0;}
+
+.subscribe {padding: 30px 0 0 0;}
+
+.subscribe input[type="email"] {border: 1px solid #ffffff80;border-radius: 50px;}
+.wpcf7-form .subscribe p {margin-bottom: 0px}
+.subscribe .qbtn {margin-top:0px;}
+.subscribe .container {padding: 0px;}
+.subscribe input::placeholder { color: #fff; }
+.subscribe input {color: #ffffffb3; height: 54px;}
+.subscribe .qbtn {padding: 9px 52px;font-size: 16px;}
+
+.subscribe  span.wpcf7-not-valid-tip {font-weight: normal; display: inline-block; position: absolute; right: 10px; background: #ff1569; font-size: 12px;
+  color: #fff; padding: 2px 5px; top: 0; border-radius: 0 10px 10px 0; border: none; outline: none; margin: 0px; }
+.subscribe > .container > .row > div {padding: 0px}
+.subscribe .wpcf7-not-valid-tip::before { content: ''; border: 11px solid transparent; border-right: 10px solid #ff1569; position: absolute; left: -21px; top: 0; }
+.subscribe input[type="email"] {text-align: center; padding: 0;}
+
+.email-subscribe .wpcf7-mail-sent-ok {display: inline-block;border: none; margin: 0;width: auto;background: green;font-size: 12px;}
+.email-subscribe .wpcf7-response-output.wpcf7-display-none.wpcf7-mail-sent-ok::after {content: ''; border: 11px solid transparent; border-bottom: 10px solid #006c00; position: absolute; left: 0px; top: -21px;}
+
+
+@media (max-width: 992px) {
+  .email-subscribe > .container > .row {flex-direction: column-reverse;}
+  .email-subscribe .form {padding: 40px 20px;}
+  .subscribe input {margin-bottom: 10px;width: 100%;}
+  .subscribe span.wpcf7-not-valid-tip {top: -4px;}
+  .subscribe .ajax-loader {display: none;}
+}
+.subscribe input.wpcf7-form-control.wpcf7-submit:hover {background: #eaff00; border: 1px solid #eaff00; font-size: 16px; color: #4c4c4c;}
+/*Конец Level Up — рассылка*/
+
+
+/*консультацию по профориентации*/
+.consultation-block {padding: 40px 0;}
+.consultation-block p {padding: 0px;}
+.consultation-block h2 {color: #fff;text-align: center;}
+.consultation-block .title-2 {padding-top:10px;text-align: center;}
+.consultation .form_input_cf {width: 100%;border-bottom: 1px solid #fff6;}
+.consultation input::placeholder {color: #fff;}
+.consultation input {color: #ffffffb3;padding-left: 30px;width: 100%;}
+.consultation input.wpcf7-form-control.wpcf7-submit:hover {border: 1px solid #eaff00;}
+.consultation .submit_cf {padding: 20px 0px 0 0px;}
+.consultation .wpcf7-submit {width:  auto;}
+.consultation input.wpcf7-form-control.wpcf7-submit {background: #eaff00;border: 1px solid #eaff00; font-size: 16px;color: #4c4c4c;}
+.consultation  span.wpcf7-not-valid-tip {font-weight: normal; display: inline-block; position: absolute; right: 10px; background: #ff1569; font-size: 12px; color: #fff; padding: 2px 5px; top: 0; border: none; outline: none; margin: 0px; }
+.consultation  span.wpcf7-not-valid-tip::before { content: ''; border: 11px solid transparent; border-right: 10px solid #ff1569; position: absolute; left: -21px; top: 0; }
+.consultation-block .wpcf7-mail-sent-ok {display: inline-block;border: none; margin: 0;width: auto;background: green;font-size: 12px;width: 170px;color: #fff; bottom: auto ;left: calc(50% - 85px);}
+.consultation-block .wpcf7-response-output.wpcf7-display-none.wpcf7-mail-sent-ok::after {content: ''; border: 11px solid transparent; border-bottom: 10px solid #006c00; position: absolute; left: calc(50% - 11px); top: -21px;}
+.consultation .ajax-loader {display: none;}
+.consultation input.wpcf7-form-control.wpcf7-submit {padding: 9px 40px;}
+/*Конец консультацию по профориентации*/
+
+
+/*Все курсы */
+.all-courses .course_card_block{box-shadow: 0 10px 30px rgba(82,106,194,.28);transition: box-shadow .5s ease-out;margin-bottom: 25px;}
+/*Конец Все курсы*/
+
+
+.tabs_courses .nav-tabs .nav-link { padding: 14px 0; font-size: 16px; flex-grow: 1; text-align: center; }
+.nav-tab {display: flex;}
+
+.tabs_courses .nav-tabs .nav-link.active {color: #15acf2;}
+.tabs_courses .nav-tabs .nav-link {color: #4c4c4c;}
+.tabs_courses.course {padding-bottom: 0px;}
+
+.course_card_title {min-height: 80px;display: grid;align-items: center;}
+#courses_schedulle_tbl > tbody > tr > td.title > a {position: relative; font-size: 16px; font-weight: 600; white-space: nowrap;}
+
+@media (min-width: 992px ) {.sc-table td:first-child span {padding-left: 80px;}}
+
+
+
+
+
+
+/*Страница О нас*/
+
+/*Блок заголовок*/
+.title_page {color: #fff;}
+@media (max-width: 768px) { .title_page {text-align:center;padding-top:39px;} }
+@media (min-width: 768px) { .title_page {color: #fff; font-size: 62px; text-align:center;} }
+/*End Блок заголовок*/
+
+
+
+/*START Наш опыт работы*/
+.p_our_skill_works {color: #fff;font-weight: 300;position: relative;}
+.title_our_skill_works {color:#fff;}
+@media (max-width: 768px) {
+    .title_our_skill_works {text-align:left;}}
+    .our_skill_works_block {padding-top:30px !important;}
+
+@media (min-width: 768px) {
+.title_our_skill_works {text-align:left;}
+.our_skill_works_block {padding-top: 69px !important;}
+}
+
+@media (min-width: 992px) {
+.p_our_skill_works {padding-bottom: 180px;}
+}
+@media (min-width: 768px) and (max-width: 992px) {
+.p_our_skill_works { padding-bottom: 64px; }
+}
+
+/*END Наш опыт работы*/
+
+
+.p_our_skill_works {padding-top: 10px;}
+
+/*START Миссия Level Up*/
+.our_mission_block {overflow: visible;}
+
+@media (min-width: 768px) {
+  .bg_blue_gradient {width: 80%;margin: 0 auto;top: -150px;}
+  .title_mission_blue_box {color: #fff;padding-top: 40px;text-align: center;}
+  .p_mission_blue_box {line-height: normal;padding-top: 20px;width: 66%;margin: 0 auto;text-align: center;font-size: 20px;color: #fff;font-weight: 300;padding-bottom: 40px;}
+  .p_mission {width: 80%; position: relative; }
+  .vc_row_mission {top: -30px;padding-bottom:59px;}
+}
+
+@media (max-width: 768px) {
+    .p_our_skill_works {color: #fff;font-weight: 300;padding-bottom: 150px;}
+    .bg_blue_gradient.our_mission {top: -150px;width: 90%;margin: 0 auto;}
+    .title_mission_blue_box {padding-top: 30px;color: #fff;}
+    .p_mission_blue_box{padding-bottom: 20px;color: #fff;}
+    .bg_blue_gradient.our_mission div.vc_column-inner {padding: 0 0 0 30px;}
+    .vc_row_mission {margin-top: -120px;padding-bottom: 20px;}
+}
+/*END Миссия Level Up*/
+
+
+/*START Наши преподаватели*/
+@media (min-width: 768px) { .vc_row_prepod {padding-top: 80px;padding-bottom: 80px;} }
+@media (max-width: 768px) { .vc_row_prepod {padding-top: 10px;padding-bottom: 20px;} }
+
+.p_prepod {color: #fff;font-weight: 300;}
+/*END Наши преподаватели*/
+
+
+/*START Кураторы наших курсов*/
+@media (min-width: 768px) { .vc_row_kurator {padding-top: 80px;padding-bottom: 80px;} }
+@media (max-width: 768px) { .vc_row_kurator {padding-top: 20px;padding-bottom: 20px;} }
+/*END Кураторы наших курсов*/
+
+/*START Первая работа выпускников*/
+.title_vipusknik {color:#fff;}
+.p_vipusknik {color:#fff;}
+@media (min-width: 768px) {.vc_row_vipusknik {padding-top: 80px;padding-bottom: 80px;} }
+@media (max-width: 768px) {
+    .vc_row_vipusknika {padding-top: 20px;padding-bottom: 20px;}
+    .vc_row_vipusknik { padding-bottom: 30px;padding-top: 30px;}
+}
+/*END Первая работа выпускников*/
+
+.achivments img {width:60px!important;}
+.achivments div.icon_list_icon img {width:60px;}
+
+@media (max-width: 768px) {
+.title_achivments { text-align: center; }
+.vc_row_infrastruct {padding-top: 30px !important;} }
+
+@media (min-width: 768px) {
+.title_achivments {text-align:center; }
+.vc_row_achivments{ padding-bottom:50px;}
+}
+
+
+
+.achivments ul.smile_icon_list {padding-left:0px;}
+.achivments div.icon_description_text {color:#fff;}
+
+/*END Достижения, которыми мы гордимся*/
+
+
+/*Контакты*/
+.managers {background-color: #f5f5f5;}
+.profile .name {color: #000000;font-size: 24px;text-align: center;}
+.profile .position {text-align: center;font-size: 16px;color: #adadad; padding: 0 12px; }
+.profile .description {padding:10px 30px 20px 30px;}
+.profile {background:#fff;}
+
+.img-social img {width: 30px;border-radius: 5px; box-shadow: 0px 0px 6px 0px rgba(0, 54, 79, 0.35);margin: 0 7px;}
+.img-social {display: inline-block;}
+.profile .social {text-align: center;display: inline-block;width: 100%;}
+.profile .position {padding-bottom: 10px;}
+
+@media (max-width: 768px) {
+.welcome .content {padding-bottom: 15px;display: grid; grid-template-columns: minmax(100px, 100px) 1fr; align-self: center;}
+.welcome .content img { max-width: 80px; float: left;} }
+.titleNew{font-size:36px;line-height: 38px;}
+
+@media (max-width:700px){.titleNew{font-size:28px;}
+    .partnes-left {width: 40%;float: left;}
+    .partnes-right {width: 60%;float: right;}
+    .partnersTitle, .partnersDescr {text-align:left;padding-left:10px;}
+}
+
+
+.partnersTitle {font-weight: 600;font-size: 21px;text-align: center;}
+.partnersDescr {font-size: 16px;line-height: 24px;text-align: center;}
+/*Конец Контакты*/
+
+.welcome .img {text-align: center;}
+@media (min-width: 768px) and (max-width: 1140px) { .welcome .img img { max-width: 80%; } }
+.titleNew {padding-bottom: 30px;}
+.profile .description {min-height: 300px}
+.jobs {background-image: url(/wp-content/uploads/2018/02/BG-Blog-Header.jpg);}
+
+@media (max-width: 992px) {
+  .prepod-course img {max-width:100%;}
+}
+
+@media (min-width: 768px) {
+	.welcome img {width: 60%; border-radius: 50%; border: 15px solid #1212121a; text-align: center;}
+	.welcome .aboutus-btn {text-align: center;}
+}
+
+
+
+@media (max-width: 768px) {
+.welcome .sg-show-popup {width: 100%;text-align: center;}
+.welcome .aboutus-btn {grid-column: 1/3;}
+.aboutus-block2 .col-10 { width: 100%; flex: 0 0 100%; max-width: 100%; }
+.p_mission_blue_box { padding-top: 12px; padding-bottom: 32px;}
+.title_achivments { padding-bottom: 20px; }
+.who-are-need-a-course h2 { padding-bottom: 20px; }
+}
+
+@media (min-width: 769px) {
+.home-news-slider.mobile {display: none;}
+}
+
+@media (min-width: 769px) {
+.mobile {display: none !important;}
+}
+
+.mobile-home-slide-two img { max-width: 350px; margin: 0 auto; padding: 30px; }
+.home-news-slider.mobile .tc {padding: 20px; margin-bottom: 40px;}
+.home-desktop-slide-one .container {position: absolute;}
+.home-desktop-slide-one .row {padding: 40px}
+.home-desktop-slide-one a {margin-top: 40px}
+@media (min-width: 768px) and (max-width: 1400px) {
+  .home-desktop-slide-one .container img {max-width: 250px;}
+}
+
+
+/*Мобилка*/
+
+
+/*Открыт набор таблица*/
+.price-table-portfolios{ font-size: 21px; color: #15acf2; font-weight: 400;}
+.price-table-portfolios-uah{ white-space: nowrap; font-size: 16px; color: #15acf2; font-weight: 300;}
+
+@media (max-width: 768px){
+	.sc-table-responsive .tabletolist{text-align: center;}
+	.shadow-box a{ font-size: 20px; color: #121212;}
+	.price-table-portfolios-mob{ font-size:20px; color:#15acf2; }
+    .shadow-box img{ display: flex; margin: 0 auto 10px auto; }
+	.buttonSlider-nabor{ color:#15acf2; border-color: #15acf2; }
+}
+
+.price-table-portfolios{    white-space: nowrap;}
+.price-now-bottom{padding-bottom: 15px;}
+.price-table-portfolios-uah{ font-size: 16px; color: #15acf2; font-weight: 300;}
+.price-new-top  { text-align: center; text-shadow: 0 0px 0px #e61876; color: rgba(0, 0, 0, .009); font-size:12px; margin-bottom: 0; }
+.price-new-bottom { text-shadow: 0 0px 0px #e61876; color: rgba(0, 0, 0, .009); font-weight: 700; font-size:12px; padding-bottom:0px; }
+.price-new-bottom-q{ text-align: center; line-height: 15px; padding-top:15px; padding-bottom: 15px; }
+
+@media (min-width:900px){
+.zoom-fade, .price-new-top, .price-new-bottom { -webkit-transition: 0.25s ease-in-out; -moz-transition: 0.25s ease-in-out; -ms-transition: 0.25s ease-in-out;
+  -o-transition: 0.25s ease-in-out; transition: 0.25s ease-in-out; -webkit-text-shadow: 0 30px 0px transparent; -moz-text-shadow: 0 30px 0px transparent;
+  -ms-text-shadow: 0 30px 0px transparent;  -o-text-shadow: 0 30px 0px transparent; text-shadow: 0 30px 0px transparent; color: rgba(0, 0, 0, .009); overflow: visible;
+}}
+@media (max-width:1000px){
+	.zoom-fade, .price-new-top, .price-new-bottom{ color:#e61876; }
+}
+.portfolios:hover .price-new-top, .portfolios:hover .price-new-bottom,#courses_schedulle_tbl tr:hover .price-new-top, #courses_schedulle_tbl tr:hover .price-new-bottom {
+  -webkit-text-shadow: 0 0px 0px #e61876;
+  -moz-text-shadow: 0 0px 0px #e61876;
+  -ms-text-shadow: 0 0px 0px #e61876;
+  -o-text-shadow: 0 0px 0px #e61876;
+  text-shadow: 0 0px 0px #e61876;
+}
+
+.table-price {white-space: nowrap;}
+.price-table-portfolios-mob { display: inline-block;     font-size: 21px; color: #15acf2; padding-right: 5px; font-weight: 400; margin: 0;}
+.price-table-portfolios-uah { display: inline-block; }
+.price-new-bottom {white-space: nowrap;}
+.price-table-portfolios-uah-new {display: inline-block;}
+.price-table-portfolios-new { display: inline-block;}
+
+
+/*Для блока акции on/off*/
+.course_card_block .buttonLight, .course_card_block .sg-show-popup {    margin-top: 5px;}
+/*Конец Открыт набор таблица*/
+
+
+.write-reviews {padding: 40px 0;}
+/*.popup-reviews {padding:0 40px;}*/
+
+.container-fluid.reviews-container {border-radius: 10px 10px 0 0 ;}
+
+.wpb_column.vc_column_container.col-12.col-sm-6.col-md-6.col-lg-6 { padding-bottom: 30px;}
+.alignleft {display: block; float: left;}
+img.alignleft {    margin: 3px;}
+.single h3 {padding: 0px 0 5px 0;}
+.wpb_wrapper h4, .single h4{padding: 10px 0 5px 0; }
+.meetup-form p {padding-bottom: 0px }
+.quoteb {font-style: italic; padding-left: 20px; border-left: 4px solid #15acf2; padding-top: 7px; padding-bottom: 7px;}
+.smile_icon_list .list-img-icon {width: 45px;display: block; margin: 0 auto; max-height: 100%; max-width: 100%; border-radius: 0; box-shadow: none;
+    top: 50%; position: absolute;left: 50%; transform: translate(-50%,-50%);}
+.block_info_reg {    padding-top: 30px;}
+.wpb_wrapper p {padding-bottom:10px;}
+.icon_description { font-size: 16px;}
+.saleTop {text-transform: lowercase;}
+.saleRow { display: none;}
+
+/* Новая цена на всех курсах  */
+.saleBottom {text-align: center;background: #eaff00;color: #4c4c4c;}
+.saleTop {font-weight: 500;color:#eaff00;display: inline-block;margin-bottom: 0;}
+.saleRow {color: #eaff00;position: relative;display: inline-block;margin: 0 auto;}
+
+
+.saleRow.animate{-webkit-animation-name:ripple;animation-name:ripple;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite;-webkit-animation-duration:5s;animation-duration:5s}
+
+@-webkit-keyframes ripple{0%{-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}10%{-webkit-transform:scale3d(.9,.9,.9) rotate3d(0,0,1,-3deg);transform:scale3d(.9,.9,.9) rotate3d(0,0,1,-3deg)}15%,25%,35%,45%{-webkit-transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,3deg);transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,3deg)}20%,30%,40%{-webkit-transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,-3deg);transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,-3deg)}50%{-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}}@keyframes ripple{0%{-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}10%{-webkit-transform:scale3d(.9,.9,.9) rotate3d(0,0,1,-3deg);transform:scale3d(.9,.9,.9) rotate3d(0,0,1,-3deg)}15%,25%,35%,45%{-webkit-transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,3deg);transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,3deg)}20%,30%,40%{-webkit-transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,-3deg);transform:scale3d(1.1,1.1,1.1) rotate3d(0,0,1,-3deg)}50%{-webkit-transform:scale3d(1,1,1);transform:scale3d(1,1,1)}}
+
+
+.saleWrapper .wpb_wrapper {text-align:center;}
+.saleBottom2 {text-align: center;margin-top: -20px;font-weight: 200;font-size: 14px;}
+.saleTop {text-transform: lowercase;}
+
+.saleBottom .units {font-size: 12px;}
+@media (min-width:700px){
+.saleWrapper {padding-bottom: 20px;}
+}
+
+
+@media (max-width:700px){
+  .dtls_block {margin: 0 auto;margin-bottom: 0px;position: relative;width: 90%;}
+  .saleWrapper {padding-top:10px}
+}
+
+@media (min-width:998px){
+  .saleRow {padding-top: 20px; display: none !important}
+}
+
+
+.meetup-form label {display: grid;grid-template-columns: minmax(20px, 20px) 1fr;align-items: center;}
+.meetup-form label input {  -moz-appearance: radio;appearance: border-radiusio;-webkit-appearance: radio;}
+
+
+ .meetup-form span.wpcf7-list-item {display: block;}
+ .ul-programs {padding: 20px 0}
+
+.sale-block {display:none;}
+
+#footer div.wpcf7 {position: relative;}
+.opendoor-slide img {margin: 0 auto;}
+.pt20 {padding-top: 20px;}
+.about-course h3::after{ content: ""; position: absolute; width: 50%; height: 1px; background: #15acf2; right: 0; top: 17px; }
+.about-course h3{text-align: center;font-weight: 500;}
+.about-course h3 span {color: #15acf2;background: #fff; z-index: 2; position: relative;}
+
+.mobile.who-are-need-a-course {text-align: center;}
+.mobile.who-are-need-a-course .course {background: #15acf2; clip-path: polygon(0 31%, 100% 0, 100% 100%, 0% 100%); padding-top: 150px; text-align: left;}
+.mobile.who-are-need-a-course img {max-width: 70%;margin-bottom: -200px; z-index: 2; position: relative;}
+.mobile.who-are-need-a-course .course{background: #15acf2; -webkit-clip-path: polygon(0 20%, 100% 0, 100% 100%, 0% 100%); background-clip: polygon(0 20%, 100% 0, 100% 100%, 0% 100%); clip-path: polygon(0 20%, 100% 0, 100% 100%, 0% 100%); padding-top: 180px;}
+.mobile.who-are-need-a-course p {color: #fff; font-weight: 300;}
+
+
+
+
+@media (max-width:768px) {
+  .prepod-carusel .carusel-img:after {content: "";height: 1px;width: 100%;left: 0;border-bottom: 1px dashed #ddd; position: absolute;z-index: 1;top: 53px;}
+  .prepod-carusel  .carusel-img img {margin: 0 auto;}
+  .prepod-carusel .carusel-img img {z-index: 99;position: relative;}
+  .about-course h3 span::after {content: '';height: 20px;width: 10px;background: #fff;right: -10px;position: absolute;}
+}
+
+@media (max-width: 768px) {
+  .second-list-info {padding-top: 20px;}
+  .news-details .details {width: 80%;margin: 0 auto;padding-top: 20px;}
+
+}
+
+
+.page-id-406 .result-of-the-course .list-group-item::before, .page-id-409 .result-of-the-course .list-group-item::before {display: none;}
+
+@media (min-width: 768px) {
+.patern-cicle-1, .patern-cicle-2 { display:  none; }
+.footer-menu-third.mon span {color: #eaff00;}
+  .first-block-footer .fa {color: #eaff00;padding-right: 10px;font-size: 14px;}
+  .footer-place-adress {color: #eaff00;}
+  .footer-title-adress {color: #fff;font-size: 18px;vertical-align: middle;font-weight: 600;padding-top: 20px;padding-bottom: 15px;}
+  .list-contact.mon {padding: 0;}
+  .adress-footer-2 {padding-top:  10px;}
+  .first-block-footer .fa {color: #fff;}
+  .footer-menu-third.mon span {color: #fff;}
+  .footer-place-adress {color: #fff;}
+  .phone-footer-first a {color: #eaff00;}
+  .phone-footer-second a {color: #eaff00;}
+  .footer-menu-title-post span, .footer-title-adress, .footer-menu-title.title3 {font-weight: 400;}
+}
+footer .footer-title-adress {font-weight: 600;}
+footer .timing {padding-top: 15px;}
+
+@media (max-width: 768px) {
+	footer .timing { padding-top: 0; }
+	footer.site-footer .contacts_footer { display: grid; grid-template-columns: 1fr !important; grid-gap: 20px !important; font-size: 14px; margin-top: 20px; }
+	footer .footer-title-adress {font-weight: 600; padding: 15px 0 10px 0;font-size: 18px; }
+}
+
+.patern-cicle-1 {top: -150px;overflow: hidden;left: 250px;width: 200px;height: 200px;}
+.patern-cicle-2 {top: 250px;overflow: hidden;right: 250px;width: 200px;height: 200px;}
+.patern-cicle-1, .patern-cicle-2 {position: absolute;opacity: 0.2;}
+
+
+.course p {margin: 0 0 1.421em;}
+
+._about_course h3{text-align: center;}
+
+.sg-show-popup{color: #fff !important;
+}
+
+.course._about_course p:last-child {margin: 0;}
+  ._offer{ background: linear-gradient(to left, #09a1ff, #0cf);
+}
+
+
+._offer ._child {display: grid;align-items: end;width: 80%;margin-top: -20px;}
+._offer .btn { padding: 20px 0 0 0; }
+._offer ._align-text {display: grid; align-self: center; display: grid; align-self: center; padding: 20px 10px;}
+._offer h3 {color: #fff;padding-bottom: 20px;font-weight: 200;}
+@media (max-width: 768px) {
+  ._offer ._align-text {padding-top: 40px;text-align: center; }
+  ._offer ._child {margin: 0 auto;width: 40%;}
+}
+._offer p {color: #fff}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  ._offer ._child {width: 100%}
+  ._offer h3 {font-size: 24px;line-height: normal;}
+}
+
+.course.robototehnika-cc .buttonLight.black { color: #fff; }
+.course.robototehnika-cc .buttonLight.black::after { background-image: url("/wp-content/uploads/2018/07/Icon-Button-Arrow-White.svg"); }
+.course.robototehnika-cc .buttonLight.black:hover { color: #000; }
+.course.robototehnika-cc .buttonLight.black:hover::after { background-image: url("/wp-content/uploads/2018/07/Icon-Button-Arrow-Black.svg"); }
+.course.robototehnika-cc p { margin-bottom: 0;  }
+.course.robototehnika-cc p:last-child { margin-top: 20px; }
+
+._programms-block { border-radius: 10px 10px 0 0; }
+
+._programms ._descr { background: #fff; box-shadow: 0 10px 30px rgba(82,106,194,.18); border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; }
+._programms ._head { background: #f69b16; border-radius: 10px 10px 0 0; text-align: center; padding: 10px; color: #fff; font-weight: 300; }
+
+._programms .orange-li li::before { content: "• ";color: #ffa200;font-family: none inherit; }
+._programms .orange-li {padding: 10px 20px 10px 30px;font-weight: 200;}
+._programms .orange-li li {padding-bottom: 5px}
+._programms .orange-li li:last-child {padding: 0}
+
+
+._programms .col {column-count: 3;column-gap: 40px;}
+._programms ._block { page-break-inside: avoid;break-inside: avoid; margin-bottom: 40px}
+._programms ._block:last-child {margin: 0}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  ._programms .col {column-count: 2;column-gap: 40px;}
+}
+
+@media (max-width: 768px) {
+  ._programms .col {column-count: 1;}
+}
+
+
+._take ._left { align-items: center; display: grid;}
+._take .list-group {margin-left: -45px;}
+._take .list-group-item h4 {font-size: 20px;}
+._take h3 {margin: 0 auto; left: 7px; position: relative;width: calc(100% - 14px);; display: inline-block; }
+._take {background-image: url(/wp-content/uploads/2018/08/Pattern-HalfBlue-1pxLine.png?id=37103);background-position: center;}
+._take ._img img {float: right;}
+._offer-min {background: linear-gradient(to right,#f29215, #ffbf13);}
+._offer-min .classic-slide-btn {text-align: center;margin: 0;}
+
+@media (min-width: 768px) {
+	._offer-min h3 {width: 60%;margin: 0 auto;}
+	.result-of-the-course .for-child-list .list-group-item {text-align: right;}
+	.for-parent-list {left: -40px; position: relative;}
+	.advantages .for-child-list {padding-right: 30px;}
+	.result-of-the-course .for-parent-list .list-group-item {padding-left: 85px;}
+}
+
+._offer-min h3 {color: #fff; text-align: center;padding: 0 20px}
+.advantages {background-image: url(/wp-content/uploads/2018/08/Pattern-HalfBlue-1pxLine-Reverse2.png);}
+.result-of-the-course .for-child-list .list-group-item::after {content: none;}
+.course_card_title {color: #313640; font-size: 24px; font-weight: 200; line-height: normal; }
+.course_card_block .buttonLight {background: none; border: 2px solid #e2e2e2;color: #e2e2e2;}
+.course_card_block .buttonLight.black::after {background-image: url("/wp-content/uploads/2018/07/Icon-Button-Arrow-Grey.svg");}
+.course_card_block .icons-block { display: grid;grid-template-columns: minmax(30px, 30px) 1fr;text-align: left;margin: 0 auto;width: auto; }
+.course_card_block .icons-inline-block {display: inline-block;}
+.course_card_block .icons-block p {padding: 0 0 0 10px;margin: 0 0 10px; line-height: 35px}
+
+
+.wrapper-grid.home {grid-template-columns: 1fr 1fr 1fr 1fr;}
+.wrapper-grid.home div:nth-child(4) {grid-column: 4; grid-row: 2;}
+
+
+
+    .student-portfolios-3d.home .img1 {background: url(/wp-content/uploads/2018/10/DSCF6050.jpg);}
+        .student-portfolios-3d.home .img2 {background: url(/wp-content/uploads/2018/10/DSCF6144.jpg);}
+            .student-portfolios-3d.home .img3 {background: url(/wp-content/uploads/2018/10/DSCF5921.jpg);}
+                .student-portfolios-3d.home .img4 {background: url(/wp-content/uploads/2018/10/DSCF5836.jpg);}
+                    .student-portfolios-3d.home .img5 {background: url(/wp-content/uploads/2018/10/DSCF5756.jpg);}
+
+
+    .student-portfolios-3d.home .img1-logoped {background: url(/wp-content/uploads/2018/08/20170711_121033-1.jpg);}
+        .student-portfolios-3d.home .img2-logoped {background: url(/wp-content/uploads/2018/08/19905200_1861221207537928_7972379566873851582_n-1.jpg);}
+            .student-portfolios-3d.home .img3-logoped {background: url(/wp-content/uploads/2018/08/20170712_101024-1.jpg);}
+                .student-portfolios-3d.home .img4-logoped {background: url(/wp-content/uploads/2018/08/20170712_101204-1.jpg);}
+                    .student-portfolios-3d.home .img5-logoped {background: url(/wp-content/uploads/2018/08/20170719_114147-1.jpg);}
+
+
+
+    .student-portfolios-3d.home .img1-english {background: url(/wp-content/uploads/2018/08/untitled-2-of-8.jpg);}
+        .student-portfolios-3d.home .img2-english {background: url(/wp-content/uploads/2018/08/untitled-4-of-8.jpg);}
+            .student-portfolios-3d.home .img3-english {background: url(/wp-content/uploads/2018/08/untitled-2941-1.jpg);}
+                .student-portfolios-3d.home .img4-english {background: url(/wp-content/uploads/2018/08/untitled-4044.jpg);}
+                    .student-portfolios-3d.home .img5-english {background: url(/wp-content/uploads/2018/08/untitled-5937.jpg);}
+
+
+    .student-portfolios-3d.home .img1-sotsproekt {background: url(/wp-content/uploads/2018/08/4.jpg);}
+        .student-portfolios-3d.home .img2-sotsproekt {background: url(/wp-content/uploads/2018/08/5-copy.jpg);}
+            .student-portfolios-3d.home .img3-sotsproekt {background: url(/wp-content/uploads/2018/08/untitled-8473-1.jpg);}
+                .student-portfolios-3d.home .img4-sotsproekt {background: url(/wp-content/uploads/2018/08/untitled-7528.jpg);}
+                    .student-portfolios-3d.home .img5-sotsproekt {background: url(/wp-content/uploads/2018/08/3-2.jpg);}
+
+
+      .student-portfolios-3d.home .img1-robolab {background: url(/wp-content/uploads/2018/08/untitled-1604-1.jpg);}
+        .student-portfolios-3d.home .img2-robolab {background: url(/wp-content/uploads/2018/08/untitled-1616-1.jpg);}
+            .student-portfolios-3d.home .img3-robolab {background: url(/wp-content/uploads/2018/08/untitled-2019-1.jpg);}
+                .student-portfolios-3d.home .img4-robolab {background: url(/wp-content/uploads/2018/08/untitled-5781.jpg);}
+                    .student-portfolios-3d.home .img5-robolab {background: url(/wp-content/uploads/2018/08/IMG_4058-1.jpg);}
+
+
+
+      .student-portfolios-3d.sertificat .img1-sertificat {background: url(/wp-content/uploads/2018/08/Sertifikat_rbt1-2-1024x724-300x212.jpg);}
+        .student-portfolios-3d.sertificat .img2-sertificat {background: url(/wp-content/uploads/2018/08/Sertifikat_rbt2-2-1024x724-1024x724.jpg);}
+            .student-portfolios-3d.sertificat .img3-sertificat {background: url(/wp-content/uploads/2018/08/Sertifikat_rbt3-2-1024x724-1024x724.jpg);}
+                .student-portfolios-3d.sertificat .img4-sertificat {background: url(/wp-content/uploads/2018/08/Sertifikat_rbt4-2-1024x724-1024x724.jpg);}
+
+
+
+
+
+
+
+.student-portfolios-3d.home  .item {background-size: cover;background-position: center;}
+
+.about-smart.first .content {max-width: 80%;padding-left: 80px;padding-top: 60px;}
+
+.about-smart.first .content p {position: relative;}
+
+.about-smart.first .content p::after {content: "";height: 100%;width: 5px; background: linear-gradient(to top, #847db6, #d27dc1);position: absolute;left: -20px;top: 0;}
+.about-smart.first .content p span {font-weight: 500}
+
+._offer.home {background: linear-gradient(to left, #b37ba6, #847db7);margin-top: 50px;}
+._offer.home h3 {padding-bottom: 0;}
+._offer.home .text {line-height: normal; padding: 20px 0 30px 0;color: #fff;}
+
+
+.progress-bar.color-lime {background-color: #8eeb11;}
+.progress-bar.color-violet {background-color: #4d08e2;}
+.progress-bar.color-blue {background-color: #07a5de;}
+.progress-bar.color-orange {background-color: #ff8a00;}
+.progress-bar.color-red {background-color: #ff1f14;}
+.progress-bar.color-yellow {background-color: #ffe552;}
+
+.grid-structure { display: grid; grid-template-columns: 1fr 30px; grid-column-gap: 20px; }
+.course.structure p {font-size: 14px; color: #4c4c4c;margin: 10px 0 5px 0;grid-column: 1/3;}
+.course.structure .row {align-items: center;}
+
+.course.structure .progress {position: relative;overflow: visible;}
+.course.structure .percent {font-size: 20px;line-height: 14px; font-weight: 400;text-align: right;}
+
+.course.structure {background: url(/wp-content/uploads/2019/01/bg-pattern-dotted.jpg);background-size: auto auto; background-position: center;}
+.bg-orange-gradient {background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, rgb(242, 146, 21) 0%, rgb(255, 191, 19) 100%) repeat scroll 0% 0% !important;}
+
+
+._programms._skills ._head::after {content: ""; position: absolute; width: 100px; height: 110px; top: -60px; margin: 0 auto; background-repeat: no-repeat; left: calc(50% - 50px);}
+._programms._skills .Technical ._head:after {background: url(/wp-content/uploads/2018/08/Icon-Programm-TechSkills.png);}
+._programms._skills .Business ._head:after {background: url(/wp-content/uploads/2018/08/Icon-Programm-BusinessSkills.png);}
+._programms._skills .Soft ._head:after {background: url(/wp-content/uploads/2018/08/Icon-Programm-SoftSkills.png);}
+._programms._skills.blue-title .Technical ._head:after {background: url(/wp-content/uploads/2018/08/naster-class.png);}
+._programms._skills.blue-title .Business ._head:after {background: url(/wp-content/uploads/2018/08/lekcii.png);}
+._programms._skills.blue-title .Soft ._head:after {background: url(/wp-content/uploads/2018/08/excursii.png);}
+._programms._skills.blue-title-robolab .Technical ._head:after {background: url(/wp-content/uploads/2018/08/log-mushlenie.png);}
+._programms._skills.blue-title-robolab .Business ._head:after {background: url(/wp-content/uploads/2018/08/electric-1.png);}
+._programms._skills.blue-title-robolab .Soft ._head:after {background: url(/wp-content/uploads/2018/08/tex-konstructor.png);}
+._programms._skills.robototehnika-cc .Technical ._head:after {background: url(/wp-content/uploads/2018/08/robolab-1.png);}
+._programms._skills.robototehnika-cc .Business ._head:after {background: url(/wp-content/uploads/2018/08/cyrsu_robotehniki.png);}
+._programms._skills.robototehnika-cc .Soft ._head:after {background: url(/wp-content/uploads/2018/08/master_class.png);}
+._programms._skills ._head {font-size: 20px;position: relative;padding-top: 50px}
+._programms._skills ._head p {font-weight: 200; margin: 0px; font-size: 16px;}
+._programms._skills h3 {margin-bottom: 50px;}
+
+@media (max-width: 992px) {
+	._programms._skills h3 { margin-bottom: 0px;padding: 0; }
+	._programms._skills ._block:last-child {margin-bottom: 0px;}
+}
+@media (max-width: 768px) {
+	._take h3 {left: 0px; padding-bottom: 30px;}
+	._take {background-position-x: left;}
+	._take .list-group {color: #fff;font-weight: 200;margin-left:0px;}
+	._take ._img {display: none;}
+	.result-of-the-course .for-child-list .list-group-item::after {content: "";}
+}
+
+h4.for-child {text-align: right;font-weight: 300; padding-right: 50px;color: #f8a613;}
+h4.for-parent {color: #fff;font-weight: 300; padding-left: 45px;}
+
+.testimonial-inner .profession, .review .profession{padding-left: 17px; }
+
+@media (max-width: 768px) {
+	h4.for-child {text-align: center; color: #15acf2; padding: 0px;}
+	h4.for-parent {text-align: center; color: #f8a613; padding: 0px;padding-top: 20px;}
+}
+
+.result-of-the-course .list-group-item::before { background: none; }
+
+@media (max-width: 768px) {
+ .advantages {background: url(/wp-content/uploads/2019/01/bg-pattern-dotted.jpg);}
+}
+
+._programms._skills .row {display: grid; grid-template-columns: 1fr 1fr 1fr; grid-column-gap: 30px;}
+
+
+._programms._skills ._programms-block {background: #fff !important; box-shadow: 0 10px 30px rgba(82,106,194,.18); border-bottom-right-radius: 10px; border-bottom-left-radius: 10px; }
+
+@media (max-width: 992px) {
+  ._programms._skills ._programms-block {margin-top: 80px;}
+  ._programms._skills .row {grid-template-columns: 1fr;padding: 0 30px;}
+}
+
+
+._programms._skills ._descr{box-shadow: none; background: none; border: none;}
+
+
+.bg-year-11-13-to-top {background: linear-gradient(to top, #16a8f3, #fc186d);}
+.bg-year-11-13-to-right {background: rgba(0, 0, 0, 0) -webkit-linear-gradient(left, rgb(143, 216, 0, 1) 0%, rgb(216, 254, 0, 1) 100%) repeat scroll 0% 0%;}
+.bg-year-11-13-to-bottom {background: linear-gradient(to bottom, #16a8f3, #fc186d);}
+.bg-year-11-13-to-left {background: linear-gradient(to left, #16a8f3, #fc186d);}
+
+
+.course.child-talent .block{display: grid; grid-template-columns: 1fr 1fr 1fr; grid-column-gap: 30px;text-align: center;}
+.course.child-talent .img-1 {grid-column: 1;grid-row: 1;}
+.course.child-talent .text-1 {grid-column: 1;grid-row: 2;}
+
+.course.child-talent .img-2 {grid-column: 2;grid-row: 1;}
+.course.child-talent .text-2 {grid-column: 2;grid-row: 2;}
+
+.course.child-talent .img-3 {grid-column: 3;grid-row: 1;}
+.course.child-talent .text-3 {grid-column: 3;grid-row: 2;}
+
+@media (max-width: 768px) {
+  .course.child-talent .block {display: grid; grid-template-columns: minmax(80px, 80px) 1fr; grid-column-gap: 30px;text-align: left;}
+  .course.child-talent .img-1 {grid-column: 1;grid-row: 1;}
+.course.child-talent .text-1 {grid-column: 2;grid-row: 1;}
+
+.course.child-talent .img-2 {grid-column: 1;grid-row: 2;}
+.course.child-talent .text-2 {grid-column: 2;grid-row: 2;}
+
+.course.child-talent .img-3 {grid-column: 1;grid-row: 3;}
+.course.child-talent .text-3 {grid-column: 2;grid-row: 3;}
+
+
+}
+
+
+._programms._skills.bg-year-13-16 .Technical ._head:after {background: url(/wp-content/uploads/2018/08/1-5.png);}
+._programms._skills.bg-year-13-16 .Business ._head:after {background: url(/wp-content/uploads/2018/08/2-5.png);}
+._programms._skills.bg-year-13-16 .Soft ._head:after {background: url(/wp-content/uploads/2018/08/3-5.png);}
+._programms._skills.bg-year-11-13 ._head  {background: rgba(0, 0, 0, 0) -webkit-linear-gradient(bottom, rgb(143, 216, 0, 1) 0%, rgb(216, 254, 0, 1) 100%) repeat scroll 0% 0% !important; color: #4c4c4c;}
+._programms._skills.bg-year-11-13 .Technical ._head:after {background: url(/wp-content/uploads/2018/08/1-2.png);}
+._programms._skills.bg-year-11-13 .Business ._head:after {background: url(/wp-content/uploads/2018/08/3-2.png);}
+._programms._skills.bg-year-11-13 .Soft ._head:after {background: url(/wp-content/uploads/2018/08/2-2.png);}
+
+
+.white-text p, .white-text h3 {color: #fff}
+.white-text p {font-weight: 200;}
+
+.course.lesson-logoped {background: url(/wp-content/uploads/2018/09/bg-logoped-2.png);background-size: cover;background-position: right center;}
+
+._offer.full h3{padding-bottom: 10px;}
+._offer.full .classic-slide-btn {padding-top: 10px;}
+._offer.full p, ._offer.full ul {font-weight: 200; color: #fff;}
+._offer.full ul {list-style: disc;padding-left: 17px;padding: 10px 0 10px 17px;}
+._offer.full p {margin: 0}
+._offer.full .col-child {align-self: end; align-items: end;}
+
+.result-of-the-course.tranning-school-block {background-image: url("/wp-content/uploads/2018/09/bg_2.png");}
+.course.programs-block .btn-primary {background: none; border: none;color: #4c4c4c;display: block;text-align: left;padding: 0;border-bottom: 1px dotted #ddd;border-radius: 0;padding: 10px 0;position: relative;}
+.course.programs-block .btn-primary.collapsed::after {content: "\f107";width: 20px;height: 20px; right: 0;position: absolute;font-family: FontAwesome; }
+.course.programs-block .btn-primary::after {content: "\f106";width: 20px;height: 20px; right: 0;position: absolute;font-family: FontAwesome; }
+.course.programs-block .btn-primary:focus, .course.programs-block .btn-primary:active {color: #4c4c4c;outline: none; background: none;box-shadow: none !important;}
+.course.programs-block .card-body {padding: 0; background: none;}
+.course.programs-block .img img {border-radius: 30px;}
+.course.programs-block{background-color: #f5f5f5;}
+.course.programs-block a{color: rgb(51, 51, 51); font-size: 18px;}
+.course.prepod-block .col-12 { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; grid-column-gap: 30px; align-items: center;}
+.course.prepod-block .profile-block {grid-column: 2/5;}
+
+@media (max-width: 768px) {
+ .course.prepod-block .img {grid-column: 1/5;max-width: 200px;}
+.course.prepod-block .profile-block {grid-column: 1/5}
+}
+
+
+.course.prepod-block {color: #fff;}
+.course.prepod-block  h4 {padding-bottom: 10px;}
+.course.result-grid .content {display: grid;grid-template-columns: 1fr 1fr 1fr;grid-column-gap: 40px; grid-row-gap: 20px;}
+.course.result-grid .content img { max-width: 120px; text-align: center; margin: 0 auto; position: relative; display: block; border-radius: 50%; margin-bottom: 20px; }
+
+.course.result-grid .content .item {text-align: center;}
+.course.result-grid .content .item p {font-weight: 300;}
+@media (min-width: 768px) and (max-width: 992px) {
+  .course.result-grid .content {grid-template-columns: 1fr 1fr;}
+
+}
+
+@media (max-width: 768px) {
+  .course.result-grid .content {grid-template-columns: 1fr;}
+   .course.result-grid .content .item {display: grid;    grid-template-columns: minmax(70px, 70px) 1fr; grid-column-gap: 20px;}
+    .course.result-grid .content .item img {width: 100%;}
+    .course.result-grid .content .item p {text-align: left;}
+
+
+}
+
+
+.course._take.trainning-school-block {background: url(/wp-content/uploads/2018/09/bg_section_image.png); background-size: cover;background-position: center center;}
+
+.course._take.trainning-school-block .list-group br {display: block;}
+
+.course._take.trainning-school-block .list-group-item::after{top: 10px;}
+.course._take.trainning-school-block h3 {margin-bottom: 30px;}
+
+
+.course_details.second-edition.desktop .w-100._topol {margin-top:0;}
+.course_details.second-edition.desktop .col-sm-12 {line-height: 35px;}
+
+@media (min-width: 768px) and (max-width: 992px) {
+ .course_details.second-edition.desktop .w-100._topol {margin-top: -15px;}
+}
+
+@media (min-width:992px) {
+ .course_details .prefext {padding-top: 20px; font-weight: 300;}
+}
+
+@media (max-width:792px) {
+ .course_details .prefext {padding-bottom: 30px; font-weight: 300;}
+}
+
+
+ .course_details.second-edition br {display: block;}
+@media (max-width: 768px) {
+ .course_details .list-group-item {font-weight: 200;}
+  .course_details .list-group-item h4 {font-weight: 400;}
+}
+
+.result-of-the-course .img {text-align: center;}
+.result-of-the-course.chess-block {background: url(/wp-content/uploads/2018/08/Chess-BG-1.jpg); background-position-x: center;}
+
+
+._programms.blue-title ._head { background: rgba(0, 0, 0, 0) -webkit-linear-gradient(bottom, rgb(9, 161, 255) 0%, rgb(0, 204, 255) 100%) repeat scroll 0% 0%; }
+._programms.blue-title-robolab ._head { background: rgba(0, 0, 0, 0) -webkit-linear-gradient(bottom, rgb(9, 161, 255) 0%, rgb(0, 204, 255) 100%) repeat scroll 0% 0%; }
+
+.grey-acc .card-header {background-color: #fafafa;}
+.grey-acc .card-header:hover {background-color: #f2f2f2;}
+.grey-acc .btn-primary.collapsed::after {color: #121212;}
+.grey-acc .btn-primary::after {color: #121212 ;}
+.grey-acc .btn-primary {border:none;padding: 10px 15px;}
+.grey-acc .card-body {padding: 10px 15px;}
+
+
+/*Курсы*/
+
+.grid-course { display: grid; grid-template-columns: 1fr 1fr; grid-gap: 60px; }
+
+@media (max-width: 768px) {
+.grid-course { grid-template-columns: 1fr; grid-gap: 20px;}
+}
+
+.grid-course .card {text-align: center; box-shadow: 0 24px 50px 0 rgba(0,0,0,.1); }
+.grid-course .header-card {background-color: #15acf2;border-radius: 10px 10px 0 0; background: #15acf2 url(/wp-content/uploads/2019/02/shape_hover_blue_1.jpg);  padding: 30px; background-size: contain; background-position: bottom; background-repeat: no-repeat;}
+.grid-course .grid-icons div {display: grid;grid-template-columns: minmax(30px, 30px) 1fr;grid-gap: 10px; align-items: center;color: #fff;font-weight: 300;text-align: left; padding: 5px 0;}
+.grid-course .grid-icons p {margin-bottom: 0px;}
+.grid-course .grid-icons { display: inline-block;padding-top: 20px;padding-bottom: 50px; }
+
+/*Конец Курсы*/
+.grid-course .card-title { font-weight: 600; }
+
+.grid-course .body-card {padding: 10px 20px;}
+.grid-course .header-title {color: rgb(215, 254, 0);font-size: 36px;line-height: 30px;font-weight: 400;}
+@media (max-width: 768px) {
+.grid-course .header-title  {font-size: 25px; line-height: normal; }
+}
+
+.btn-black .sg-show-popup:hover::after {background-image: url("/wp-content/uploads/2018/07/Icon-Button-Arrow-Black.svg");}
+.btn-black .sg-show-popup:hover { color: #4c4c4c}
+.text-offer { background: #15acf2; }
+.podpishi { margin-top: 20px; }
+@media (max-width: 768px) {
+  .text-offer { font-size: 20px; }
+  .podpishi { position: relative; top: 0px; }
+}
+
+.grid-images-three { display: grid; grid-template-columns: 1fr 1fr 1fr; grid-gap: 30px; }
+
+.grid-images-three img {border-radius: 10px;}
+
+.home-offer p {color: #4c4c4c}
+
+
+
+.meetup-form label {display: grid;grid-template-columns: minmax(20px, 20px) 1fr;align-items: center;}
+.meetup-form label input {  -moz-appearance: radio;appearance: border-radiusio;-webkit-appearance: radio;}
+.meetup-form span.wpcf7-list-item {display: block;}
+
+.course.result-grid.chess { background: #fff; }
+.course.result-grid.chess > p { margin-bottom: 30px; font-weight: 400; font-size: 14px; color: #4c4c4c; }
+.course.result-grid.chess .content img { border-radius: 0; }
+.course.result-grid.chess .content h4 { font-size: 18px; margin-bottom: 10px; line-height: normal; font-weight: bold; }
+
+@media (max-width: 768px) {
+  .course.result-grid.chess .content .item {display: grid;grid-template-columns: minmax(70px, 70px) 1fr;grid-column-gap: 20px;text-align: left;}
+  .course.result-grid.chess .content img { grid-column: 1; grid-row: 1/3; }
+}
+
+.video-present.unit-city {background: url(/wp-content/uploads/2019/02/unit-city-black.jpg);}
+.video-present.insta {background: url(/wp-content/uploads/2019/05/insta-black.jpg);background-size: cover;}
+.video-present.camp {background: url(/wp-content/uploads/2019/05/camp-black.jpg);background-size: cover;}
+
+.postid-4932 .inclusive {    border-bottom: none;}
+
+
+
+.buttonLight.white-black { color: #fff; }
+.buttonLight.white-black::after { background-image: url("/wp-content/uploads/2018/07/Icon-Button-Arrow-White.svg"); }
+.buttonLight.white-black:hover { color: #000; }
+.buttonLight.white-black:hover::after { background-image: url("/wp-content/uploads/2018/07/Icon-Button-Arrow-Black.svg"); }
+
+
+
+
+.slide-it-tur .flex-btn {display: flex; align-items: center;}
+
+
+
+
+
+.postid-5284 blockquote{ background: none repeat scroll 0 0 padding-box rgba(255, 255, 255, 0.1); border-left: 5px solid #6d0c80; box-shadow: 0 6px 20px #2222221a; color: #4c4c4c;
+	font-size: 16px;line-height: 1.45;outline: 0 none;padding: 20px 25px;text-align: left;margin: 20px 0;}
+.postid-5284 .icon-title-text{align-items: center;}
+
+@media (min-width: 768px) {
+  .postid-5284 .icon-title-text{padding: 0 40px;}
+}
+
+
+.post-5471 .wpcf7-mail-sent-ok {position: absolute; margin: 0 auto; bottom: 23px; width: auto; left: 50%; transform: translateX(-50%); font-size: 18px; padding: 14px 50px 19px 40px; white-space: nowrap;
+border: none; background: green; color: #fff; border-radius: 30px;}
+
+
+.about-home-grid .start-grid {    display: grid; grid-template-columns: 1fr 1fr; grid-gap: 40px; align-items: center;}
+
+@media (max-width: 768px) {
+.about-home-grid .start-grid { grid-template-columns: 1fr; padding: 0 15px; }
+}
+.course.about-home-grid {margin-bottom: 50px;}
+
+.red-mission { text-align: center; width: 80%; position: relative;margin: 0 auto;background-color: #ff1569; margin-top: -80px;
+    padding: 40px;color: #fff; }
+.red-mission h3 { text-align: center; }
+.mission    { background: -webkit-linear-gradient(top, rgb(9, 161, 255) 0%, rgb(0, 255, 247) 100%); }
+.wow-block-grid { display: grid; grid-template-columns: 1fr 1fr 1fr;     grid-gap: 40px; padding-top: 50px; padding-bottom: 50px;}
+
+.wow-item-grid.orange .wow-item-header{ background: linear-gradient(to top, #f29215 , #ffbf13 ) repeat scroll 0% 0%; }
+.wow-item-grid.yellow .wow-item-header{ background: linear-gradient(to top, #ffde00 , #fff600 ) repeat scroll 0% 0%; }
+.wow-item-grid.green .wow-item-header{ background: linear-gradient(to top, #8ed800 , #d8ff00 ) repeat scroll 0% 0%; }
+
+.wow-item-body { padding: 10px 20px; background: #fff; border-radius: 0 0 10px 10px;min-height: 200px;}
+.wow-item-header img {     grid-column-end: end; }
+.wow-item-header {     border-radius: 10px 10px 0 0;   min-height: 110px;    display: grid; align-items: end; align-self: end; grid-template-columns: 1fr 1fr;}
+.wow-item-header .text { font-size: 24px; font-weight: 500; padding: 0 20px;align-items: center;
+align-self: center; }
+@media (max-width: 992px) {
+  .wow-block-grid   { grid-template-columns: 1fr; }
+  .wow-block-grid .wow-item-grid { max-width: 350px;}
+}
+
+.home-offer h3 {padding-bottom: 10px; color: #15acf2; }
+.btn-offer { margin: 20px 0; }
+.home-offer ._align-text {    padding: 30px 0; color: #4c4c4c;}
+.pick-img-offer {    display: grid; align-items: end;}
+.home-offer ._child { padding-right: 20px; width: 100%}
+.home-offer { background: linear-gradient(to right, #8ed800 , #d8ff00 );}
+
+.block_teachers h2 {color: #fff; text-align: center; padding-bottom: 10px;}
+.block_teachers h3 {color: #fff; text-align: center; padding-bottom: 10px;}
+.block_teachers p {color: #fff; text-align: center;}
+
+
+.contacts-info ul li.phones { padding: 0 0 0 35px; }
+.contacts-info ul li.address { padding: 10px 0 5px 35px; }
+
+.open-courses h1 { background-image: url(/wp-content/uploads/2018/02/BG-Forma.jpg); }
+.profile .contacts {min-height: 101px; align-items: center; display: grid;}
+.profile .contacts p {margin: 0}
+
+
+.managers .contacts p { padding: 10px 10px 20px 10px; }
+.page-id-4405 .course.programs-block { background: none; }
+.seven-reason .grid-info-list { margin-bottom: 20px; display: grid; grid-template-columns: minmax(60px,60px) 1fr; grid-gap: 10px; align-items: center;}
+
+
+.seven-reason { background: rgb(243, 243, 241) none repeat scroll 0% 0%; }
+.page-id-4312 .tab-content { background: url(/wp-content/uploads/2019/01/bg-pattern-dotted.jpg); }
+.tabs_courses .nav-item.nav-link.active.show {background: none;}
+
+@media (max-width: 768px) {
+.tabs_courses .nav-tabs{grid-template-columns: 1fr 1fr; display: grid; grid-gap: 15px;}
+}
+@media (max-width: 768px) {
+._offer.home-offer ._child {display: none;}
+}
+
+.seven-reason-grid { display: grid;grid-template-columns: 1fr 1fr;align-items: center; }
+.seven-reason .img { display: grid;align-items: end; height: 100%; }
+
+@media ( max-width: 768px) {
+    .seven-reason-grid {grid-template-columns: 1fr;}
+    .seven-reason .img {max-width: 200px; margin: 0 auto;}
+}
+
+.reason-list { padding: 30px 0; }
+.mobile-home-slide-two {background-position: center top;}
+.welcome-smart .text {color: #15acf2; font-size: 26px; line-height: normal; text-align: center;padding: 0 20px; font-weight: 300}
+.welcome-smart {box-shadow: 2.2px 2.2px 24px 0px rgba(0, 53, 70, 0.15);}
+
+
+/*Новости*/
+.blue-text { color: #15acf2 } /*синий текст*/
+.bold-text { font-weight: 500; } /*жирный текст*/
+.center-text { text-align: center; } /*центр текст*/
+.grid-image-text { display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 30px;}
+.icon-title-text { display: grid; grid-template-columns: minmax(70px, 70px) 1fr; grid-column-gap: 10px; }
+.icon-title-text {margin-bottom: 20px;}
+.grid-image-form {display: grid;}
+.grid-image-form img {    width: 200px;margin: 0 auto;}
+.trenner strong { display:inline-block; padding-bottom: 10px; font-size: 18px; }
+.trenner img { border-radius: 50%;max-width: 100%; }
+.rct {color: #ff1569; font-size: 14px; text-align: center; font-weight: 300;}
+.books-grid { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; grid-column-gap: 10px; padding: 20px;}
+.single-post b{font-weight: 500;}
+.books-grid > div { grid-column: 2/5; }
+.image-fluid {    max-width: 200px; margin: 0 auto;}
+
+
+@media (max-width: 768px) {
+    .grid-image-text { grid-template-columns:1fr;  }
+}
+.trenner h3 {text-align: center; margin-bottom: 30px;}
+
+.trenner-grid {display: grid;grid-column-gap: 20px;grid-template-columns: minmax(100px,100px) 1fr; width: 80%; margin: 0 auto;}
+.trenner {padding: 20px 0;border-top: 1px solid #ddd;border-bottom: 1px solid #ddd;margin: 30px 0;}
+.slb {padding: 20px 0;border-top: 1px solid #ddd;border-bottom: 1px solid #ddd;margin: 30px 0;}
+
+.meet-reg { display: grid;grid-template-columns: 1fr 1fr 1fr; }
+.meet-reg h3 { grid-column: 1/4; margin-bottom: 20px ;margin-top: 20px;}
+.meet-info img {margin: 0 auto;}
+.meet-info {display: grid;text-align: center;}
+.rct {padding: 20px 0; }
+@media (max-width: 768px) {
+    .meet-info { grid-template-columns: minmax(50px,50px) 1fr; text-align: left;grid-gap: 20px;align-items: center; margin-bottom: 20px;}
+    .meet-info > p {display: none}
+    .meet-reg { grid-template-columns: 1fr; text-align: center;max-width: 60%; margin: 0 auto; }
+    .meet-reg h3 {grid-column: 1/1; margin-bottom: 20px;}
+    .meet-align {display: inline-block;}
+}
+
+
+
+
+
+
+
+@media (max-width: 768px) {
+.trenner-grid {width:100%;grid-template-columns: minmax(70px,70px) 1fr;}
+}
+/*Фиксим баги */
+.postid-3822 .grid-image-text > p {display: none;}
+.icon-title-text > p {display: none;}
+.postid-3822 .grid-image-text img {border-radius: 10px;}
+/* .single-post .course p {margin: 0;} */
+.books-grid > p, .grid-image-form > p {display: none;}
+.grid-image-form > br {display: none;}
+.trenner-grid > p {display: none}
+
+.title-mob {font-size: 16px;font-weight: bold;padding-bottom: 20px;}
+
+@media (min-width:768px) {
+	.title-dtls {padding-bottom: 20px;}
+	.d_padding { padding: 0 10%; }
+}
+
+
+
+.content-dtls {display: grid;grid-template-columns: 1fr;}
+.content-location {display: grid;grid-template-columns: 1fr 1fr 1fr;}
+
+
+@media (max-width:768px) {
+   .grid-details-block .items {display: grid; grid-template-columns: 1fr; grid-column-gap: 30px; text-align: center;}
+   .grid-details-block .content-dtls { display: grid;grid-template-columns: 1fr 1fr;}
+   .grid-details-block .content-location { display: grid; grid-template-columns: 1fr;    grid-gap: 20px;}
+   .grid-details-block .content-location img { max-width: 50px;text-align: center; margin: 0 auto;}
+}
+.title-dtls {margin-bottom: 20px;}
+.grid-details-block .items p { margin-bottom:0px; }
+.grid-details-block .items img { padding-bottom: 10px; }
+@media (min-width:768px) {
+.grid-details-block .items { text-align:center; }
+.content-location.second img { display: none; }
+.content-location.second .title-location { display: none; }
+.content-location.second    { padding-top: 10px; margin-top: 10px; border-top: 1px solid #12121212;}
+}
+
+
+/*Они не закончатся - Новости*/
+@media (max-width: 992px) {
+.wow-block-grid  {width: 80%; margin: 0 auto;}
+.wow-block-grid .wow-item-grid {max-width: 100%}
+}
+
+.sendpost-title {font-size: 25px;line-height: normal;margin-bottom: 0; color: #eaff00; padding-bottom: 20px;}
+
+
+.course.email-send {background: rgba(0, 0, 0, 0) -webkit-linear-gradient(bottom, rgb(9, 161, 255) 0%, rgb(0, 204, 255) 100%) repeat scroll 0% 0%;}
+.subscribe-grid {display: grid; grid-template-columns: 60% 40%; align-items: center;}
+.sendpost.change{font-size: 20px; color: #fff;}
+.subscribe-grid .text {color: #fff; font-weight: 300;}
+
+@media (max-width: 768px) {
+    .subscribe-grid {grid-template-columns: 1fr;}
+    .subscribe-grid img {display: none;}
+}
+.nav-link.active {background: none;}
+
+.m_text {padding: 0 30px;}
+@media (max-width: 768px) {
+    .m_text {font-size: 20px;}
+}
+
+
+._offer-min.bg-year-11-13-to-right h3{color: #4c4c4c}
+.result-of-the-course.bg-year-11-13 .for-child { color: #94dc03; }
+
+.result-of-the-course .w-100.justify-content-between {font-weight: 500;}
+
+.robototehnika-cc ._descr { padding: 20px }
+
+
+.course._programms.bg-year-5-7 .grid-column-4 {grid-template-columns: 1fr 1fr 1fr 1fr;}
+.course._programms.bg-year-5-7 ._head { background: -webkit-linear-gradient(top, #d2018b 0%, #ff1469 100%) repeat scroll 0% 0%; min-height: 111px; padding-top: 10px; align-items: center; display: grid;}
+.course._programms.bg-year-5-7 ._head:after {display: none; }
+.course._programms.bg-year-5-7 h3 {margin-bottom: 10px;}
+.buttonSlider-blue a:hover {background: none; color: #ffffff; box-shadow: none; border: 2px solid #09a1ff;}
+.buttonSlider-blue a{ transition: none; line-height: 34px; box-shadow: 0 10px 20px 0 rgba(0,67,91,.15); margin: 0px; letter-spacing: 0px; color: #fff; background: #09a1ff; font-size: 18px; font-weight: 300; border-radius: 50px; border: 2px solid #09a1ff; padding: 8px 58px 8px 32px;}
+
+
+._offer-min.bg-year-5-7 {background: -webkit-linear-gradient(left, #d2018b 0%, #ff1469 100%) repeat scroll 0% 0%;}
+._offer-min.bg-year-5-7 .buttonSlider-blue {text-align: center;}
+.advantages.bg-year-5-7 .for-child {color: #ff1569;}
+
+@media (max-width: 768px) {
+    .advantages.bg-year-5-7 .for-child {color: #15acf2;}
+    .advantages.bg-year-5-7 .for-parent {color: #ff1569;}
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+._programms._skills.bg-year-5-7 .grid-column-4 { grid-template-columns: 1fr 1fr; }
+  ._programms._skills.bg-year-5-7 ._programms-block {margin-top: 10px;}
+}
+
+@media (max-width: 768px)  {
+  ._programms._skills.bg-year-5-7 .grid-column-4  { grid-template-columns: 1fr; max-width: 80%; margin: 0 auto;}
+  ._programms._skills.bg-year-5-7 ._programms-block {margin-top: 10px;}
+}
+._programms._skills .row {grid-row-gap: 30px;}
+
+
+._offer-min.bg-year-5-7 h3 {padding: 0 20px 20px 20px;}
+
+.lesson-provide .content-three {max-width: 300px;}
+.lesson-provide .content-three h4 {color: #15acf2;padding: 10px 0;}
+@media (max-width: 768px) {
+.grid-images-three {grid-template-columns: 1fr;margin: 0 auto;}
+.lesson-provide .content-three h4 {padding: 0px;}
+.grid-images-three > div {display: grid; grid-template-columns: 100px 1fr; grid-gap: 15px;}
+}
+.grid-images-three {margin: 0 auto;}
+
+.sertificat .wrapper-grid div:nth-child(2) { grid-column: 2;grid-row: auto; }
+.sertificat .wrapper-grid.home div:nth-child(4) { grid-column: 4;grid-row: auto; }
+
+
+.student-portfolios-3d.sertificat .wrapper-grid > div { background-size: 100% ; background-position: center center; }
+.student-portfolios-3d.sertificat {background: #ddd3;}
+@media (max-width: 992px) {
+.student-portfolios-3d.sertificat .wrapper-grid div:nth-child(1) {grid-column: 1;grid-row: auto;}
+.student-portfolios-3d.sertificat .wrapper-grid.home {grid-template-columns: 1fr 1fr;}
+.sertificat .wrapper-grid.home div:nth-child(4) {grid-column: 2;}
+}
+
+
+.chess-pro {background-image: url("/wp-content/uploads/2018/08/Chess-BG-2.jpg");background-size: cover;background-position: center center;}
+.chess-pro .chess-pro-grid {display: grid; grid-template-columns:  50px 1fr; grid-row-gap: 20px; grid-column-gap: 10px; align-items: center;}
+.chess-pro .col-12 {display: grid; grid-row-gap: 20px; align-items: center;}
+.chess-pro h3 {text-align: center;}
+
+
+.post-4932 .meet-reg {padding: 20px 0;}
+.block-dtls > div {display: grid; grid-template-columns: 1fr 1fr 1fr; text-align: center;}
+
+.grid-news-dtls > p { display: none; }
+.grid-news-dtls {display: grid; grid-template-columns: 50px 1fr; text-align: left; grid-gap: 10px;}
+
+
+.grid-news-dtls h3 {padding-bottom: 20px;}
+
+@media (max-width: 768px) {
+    .block-dtls > div { display: inline-block; }
+    .block-dtls { text-align: center; }
+}
+
+
+.inclusive-grid > div > p { display: none; }
+.inclusive-grid  {display: grid; grid-template-columns: 1fr 1fr 1fr 1fr;}
+.inclusive-grid > div {display: grid; grid-template-columns: 40px 1fr;  grid-gap: 10px;align-items: center;}
+
+@media (max-width: 768px) {
+
+   .inclusive-grid { grid-row-gap: 20px; grid-template-columns: 1fr 1fr; }
+   #insta-skills > div > div > div { display: grid; grid-template-columns: 50px 1fr; grid-column-gap: 20px;}
+}
+   #insta-skills > div > div > div { display: grid; grid-template-columns: 80px 1fr; grid-column-gap: 20px;}
+
+.post-4932 .video-present.course {    border-radius: 10px;}
+
+.welcome-smart-2 .text { text-align: center; color: #15acf2; }
+.welcome-smart-2  h3{ font-size: 30px; padding-bottom: 10px; }
+.welcome-smart-2 {padding: 0 20px 40px 20px;}
+.inclusive {margin-bottom: 0;}
+
+
+#details .nav-pills .nav-item { background: none; }
+#details .nav-pills .nav-item.active { background: #fff;}
+
+
+#insta-about {padding: 60px 0 100px;}
+#insta-about > div > div > div:nth-child(2) > h2 {padding: 50px 0;}
+#insta-about > div > div > div:nth-child(2) > div {text-align: CENTER;}
+
+    #insta-skills .container > div {    grid-row-gap: 30px;}
+    #insta-offer > div > div > img {    bottom: 0; position: absolute; left: -50px;}
+    #insta-offer .container > div {    position: relative;}
+
+#insta-reasons { background: url(/wp-content/uploads/2019/04/Likes_left.png) 0 100% no-repeat, url(/wp-content/uploads/2019/04/Likes_Right.png) 100% 100% no-repeat;
+    background-size: 15%, 20%; }
+#insta-abonement > div > div {display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; text-align: center; grid-column-gap: 30px; width: 80%; margin: 0 auto;}
+#insta-abonement .insta-gradient { font-weight: 400; }
+#insta-abonement > div > h4 {    text-align: center; padding-bottom: 20px;}
+#insta-abonement {    padding: 60px 0;}
+#insta-counselors > div:nth-child(1) > div:nth-child(2) > img:nth-child(1) {max-width: 70%; margin: 0 auto;}
+
+.post-3442 .home-news-slider.desktop #insta-banner {width: 100%;}
+.page-id-5774 #slick-slide05 > div:nth-child(1) > div:nth-child(4) > div:nth-child(2) > a:nth-child(1) > img:nth-child(1) {width: 66px; box-shadow: none;}
+
+.blue-btn a { background: #00b9fd; border: 2px solid #00b9fd; }
+.blue-btn a:hover { background: #11caff; border: 2px solid #11caff; }
+#banner { height: 80vh; background: url(/wp-content/uploads/2019/02/Паттерн5.svg); background-position-x: 0%; background-position-y: 0%; background-repeat: repeat; background-size: auto; background-repeat: no-repeat; background-position: 100% 0%; background-size: 50%; }
+#banner .container { height: 100%; }
+#banner .container > div { height: 100%; display: grid; grid-template-columns: 1fr 1fr; align-items: center; grid-column-gap: 30px; }
+#banner .container > div img { max-width: 140%; height: auto; left: -140px; position: relative; }
+#banner .container > div h1 { color: #15acf2; font-size: 48px; font-weight: 700; }
+#banner .container > div span { color: #15acf2; font-size: 26px; padding: 30px 0 50px 0; display: inline-block; line-height: normal; }
+#banner .container > div .pink-btn a.sg-show-popup:hover { color: #4c4c4c; }
+#banner .container > div .pink-btn a.sg-show-popup:hover:after { background-image: url("/wp-content/uploads/2018/07/Icon-Button-Arrow-Black.svg"); }
+
+@media (max-width: 768px) { #banner .container > div img { max-width: 100%; height: auto; left: auto; }
+  #banner .container > div { grid-template-columns: 1fr; }
+  #banner .container > div > div { text-align: center; }
+  #banner .container > div span { padding: 10px 0 30px 0; }
+  #banner .container > div h1 { font-size: 36px; } }
+  #banner { height: auto; }
+#about { background: url(/wp-content/uploads/2019/02/Паттерн2.svg) -200px 100% no-repeat, url(/wp-content/uploads/2019/02/5.svg) 100% 100% no-repeat; background-size: auto, auto; background-size: 700px, 500px; position: relative; }
+#about h2 { text-align: center; color: #15acf2; }
+#about .row > div { display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 20px; align-items: center; z-index: 2; }
+#about.proffesion .row > div {grid-template-columns: 1fr;}
+#about.proffesion { background: none; padding-bottom: 0; }
+#about .row > div div.shadow-gradient { background: linear-gradient(to top, white 0%, transparent 100%); height: 95px; width: 100%; position: absolute; bottom: 50px; content: ''; left: 0; }
+
+@media (max-width: 768px) {
+
+.Slider_courses_block.proforientacija, .Slider_courses_block.proforientacija .row {min-height: auto;}
+.Slider_courses_block.proforientacija .row {padding: 40px 0;}
+
+#about { background-size: 300px, 500px; background: url(/wp-content/uploads/2019/02/Паттерн2.svg) -100px 100% no-repeat, url(/wp-content/uploads/2019/02/5.svg) 100% 100% no-repeat; }
+  #about .row > div { grid-template-columns: 1fr; padding: 0 20px; }
+  #about .row > div img { display: none; }
+  #about .row > div div.shadow-gradient { background: none; } }
+
+#result { background: url(/wp-content/uploads/2019/02/ROUND2.svg) 0 -100px no-repeat; background-size: 212px;position: relative;z-index: 1; }
+#result h2 { margin: 0 auto; color: #15acf2; }
+#result .row > div { display: grid; grid-template-columns: 1fr 1fr; width: 100%; grid-row-gap: 20px; align-items: center;}
+#result .row.no-cols > div { grid-template-columns: 1fr; grid-row-gap: 0px; margin-top: 20px; }
+#result .row > div .text { font-size: 18px; padding-left: 10px; color: #000; }
+
+
+#result .row .progress-bar-green { background: linear-gradient(to right, #0bc3ee, #c0fc07); border-radius: 10px; height: 6px; }
+#result .row .result-list { max-width: 90%; display: grid; grid-row-gap: 20px; align-content: start; }
+#result .row .result-list > div { display: grid; grid-template-columns: 60px 1fr; grid-column-gap: 20px; align-items: center; }
+#result .row .result-list > div > div { position: relative; display: grid; align-items: center; justify-items: center; }
+#result .row .result-list > div > div:nth-child(2) {justify-items: left; }
+#result .row .result-list > div > div span { position: absolute; font-size: 42px; color: #15acf2; font-weight: 600; }
+#result .progress { padding: 7px 15px; box-shadow: -7px 0px 10px 0px rgba(1, 29, 54, 0.15); background: #fff; border-radius: 30px; height: auto; }
+#result.course { padding-bottom: 16px; }
+
+
+@media (max-width: 768px) { #result .row { padding: 0 20px; }
+  #result h2 { text-align: center; }
+  #result .row > div { grid-template-columns: 1fr; } }
+
+#offer { background: linear-gradient(to right, #0bc3ee, #c0fc07); position: relative; }
+#offer:before { content:'';width:100%;height: 90px;top:0;left:0;background: #fff url(/wp-content/uploads/2019/02/ROUND1.svg) 100% -20% no-repeat;position: absolute; background-size: 140px;}
+#offer > div { display: grid; grid-template-columns: 40% 1fr; align-items: center; grid-column-gap: 60px; position: relative; align-items: end; }
+#offer > div .img { display: grid; align-items: end; justify-content: end; }
+#offer > div h3 { color: #fff; font-weight: 700; }
+#offer > div p { color: #fff; }
+#offer > div ul { color: #fff; margin: 14px 0 14px 20px; list-style: square; }
+#offer .course { margin-top: 90px; }
+#offer p {margin: 0;}
+
+@media (max-width: 768px) {
+	#offer { margin-top: -65px; }
+	#offer > div { grid-template-columns: 1fr; }
+  #offer > div .img { grid-row: 2; }
+  #offer .course { text-align: center; }
+  #offer img { display: none; } }
+
+#programms { background: url(/wp-content/uploads/2019/02/ROUND1.svg) 0 -100px no-repeat; background-size: 240px; }
+#programms h2 { color: #15acf2; margin: 0 auto; text-align: center; }
+#programms .container > div { display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 60px; }
+#programms .container > div > div > div.dotted { position: relative; }
+#programms .container > div div.dotted:before { content: ''; height: calc(100% - 100px); width: 6px; position: absolute; background: url(/wp-content/uploads/2019/02/dotted_svg.svg); top: 50px; left: calc(50% - 3px); z-index: 9; transform: translateX(-50%); z-index: 0; }
+#programms .acc { position: relative; box-shadow: 0px 10px 20px 0px rgba(0, 0, 0, 0.1); padding: 10px 40px; margin: 50px 0; min-height: 80px; align-items: center; display: grid; z-index: 3; background: #fff; }
+#programms .acc img { position: absolute; top: -26px; left: -43px; }
+#programms .acc .num { background: url(/wp-content/uploads/2019/03/HexagonGradient2.svg) no-repeat; position: absolute; top: -26px; left: -43px; width: 78px; height: 84px;
+text-align: center; line-height: 77px; color: #fff; font-size: 35px; font-weight: 600;}
+#programms .acc h4 { color: #15acf2; font-weight: 300; cursor: pointer; }
+#programms .acc ul { padding: 20px 0; }
+#programms .acc ul > li { position: relative; padding-left: 20px; font-size: 18px; font-weight: 300; }
+#programms .acc ul > li::after { content: ""; height: 11px; position: absolute; width: 11px; left: 0; border-radius: 50%; top: 7px; background: linear-gradient(to right, #0bc3ee, #c0fc07); }
+
+@media (max-width: 768px) { #programms .container > div { max-width: 90%; margin: 0 auto; grid-template-columns: 1fr; }
+  #programms .container > div > div:nth-child(2) .acc:first-child { margin-top: 0px; }
+  #programms .container > div > div:nth-child(1) div.dotted::before { height: 100%; }
+#programms .acc { margin: 50px 0 50px 20px; }
+#programms .acc h4 {font-size: 18px;}
+
+#addition .container > div > div:nth-child(1) { position: relative; }
+
+#addition .container > div > div {padding-left: 92px;position: relative;}
+
+#addition .container > div > div:before {position: absolute;left: 0;top:0;width: 72px;content:'';height: 72px}
+#addition .container > div > div:nth-child(1):before { background: url(/wp-content/uploads/2019/04/cityscape.svg); background-size: contain; }
+#addition .container > div > div:nth-child(3):before { background: url(/wp-content/uploads/2019/04/kind.svg); background-size: contain; }
+#addition .container > div > div:nth-child(4):before { background: url(/wp-content/uploads/2019/04/podium.svg); background-size: contain; }
+#addition .container > div > div:nth-child(5):before { background: url(/wp-content/uploads/2019/04/options.svg); background-size: contain; }
+
+}
+
+#addition { background-size: 500px; color: #00b9fd; }
+#addition .container h2 { text-align: center; }
+#addition .container > div { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; grid-column-gap: 20px; }
+
+#addition .container > div div:nth-child(2) { grid-column: 2/4; grid-row: 1/3; text-align: center; }
+#addition .container > div div:nth-child(2) img { padding-bottom: 20px; }
+#addition .container > div div:nth-child(4), #addition .container > div div:nth-child(5) { align-content: end; display: grid; }
+#addition .container > div div p { font-size: 18px; color: #5b5b5b; }
+#addition .container > div div h4 { max-width: 174px; color: #15acf2; line-height: normal; }
+
+@media (max-width: 768px) {
+  #addition .container > div { grid-template-columns: 1fr; }
+  #addition .container > div div:nth-child(2) { display: none; } }
+
+#details { background-size: 500px; background: url(/wp-content/uploads/2019/02/Паттерн3.svg) 100% 100% no-repeat; background-color: #b9e8fe; }
+#details .blue-btn { text-align: center; padding-top: 40px; }
+#details h2 { color: #fff; text-align: center; text-shadow: -2px 0px 3px rgba(9, 44, 63, 0.15); }
+#details p { margin: 0px; }
+#details .content { display: grid; grid-template-columns: 1fr 1fr 1fr; max-width: 80%; margin: 0 auto; justify-content: center; }
+#details .content > div { text-align: center; }
+#details .content > div img { max-width: 80px; position: relative; }
+#details .content > div > div p:nth-child(1) { font-size: 20px; font-weight: 500; line-height: normal; }
+
+
+/*Для старого варианта*/
+#details #pills-tab::before { content: ""; width: 77px; height: 83px; background: url(/wp-content/uploads/2019/02/Location.svg); position: absolute; left: calc(50% - 39px); top: -75px; background-repeat: no-repeat; }
+#details .tabs { margin-top: 60px; }
+#details .tabs { display: inline-block; position: relative; margin: 0 auto; transform: translateX(-50%); left: 50%; }
+#details .nav-pills .nav-item { background: #fff; padding: 12px; border-radius: 35px; position: relative; margin: 0 10px; min-width: 270px; }
+#details .nav-pills .nav-item.active { box-shadow: -10px 0px 15px 0px rgba(11, 12, 69, 0.15); }
+#details .nav-pills .nav-item.active { box-shadow: -10px 0px 15px 0px rgba(11, 12, 69, 0.15); }
+#details .nav-pills .nav-item:after { content: ''; position: absolute; right: -13px; background: #fff; width: 6px; height: 45px; border-radius: 3px; top: 16px; }
+#details .nav-pills .nav-item:last-child:after { display: none; }
+#details .nav-pills .nav-link { border-radius: 30px; color: #fff; text-align: center; font-size: 28.57px; padding: 4px 23px; }
+#details .nav-pills .nav-link.active { background: #00b9fd; color: #fff; box-shadow: inset -10px 0px 15px 0px rgba(11, 12, 69, 0.35); }
+#details .nav-pills .nav-item:nth-child(1) .nav-link.active { background: #00b9fd; color: #fff; box-shadow: inset -10px 0px 15px 0px rgba(11, 12, 69, 0.35); }
+#details .nav-pills .nav-item:nth-child(1) .nav-link { background: #00b9fd; }
+#details .nav-pills .nav-item:nth-child(2) .nav-link { background: #a6dc01; }
+#details .nav-pills .nav-item:nth-child(2) .nav-link.active { background: #a6dc01; color: #fff; box-shadow: inset -10px 0px 15px 0px rgba(11, 12, 69, 0.35); }
+#details .nav-pills .nav-item:nth-child(2) .nav-link:hover, #details .nav-pills .nav-item:nth-child(1) .nav-link:hover { box-shadow: inset -10px 0px 15px 0px rgba(11, 12, 69, 0.35); }
+
+/*Для Нового варианта*/
+#s-details #pills-tab {margin-bottom: 50px;margin-top: 77px;}
+#s-details #pills-tab::before { content: ""; width: 77px; height: 83px; background: url(/wp-content/uploads/2019/02/Location.svg); position: absolute; left: calc(50% - 39px); top: 0; background-repeat: no-repeat; }
+#s-details .tabs { margin-top: 60px; }
+#s-details .tabs { display: inline-block; position: relative; margin: 0 auto; transform: translateX(-50%); left: 50%; }
+#s-details .nav-pills .nav-item { background: #fff; padding: 12px; border-radius: 35px; position: relative; margin: 0 10px; min-width: 270px; }
+#s-details .nav-pills .nav-item.active { box-shadow: -10px 0px 15px 0px rgba(11, 12, 69, 0.15); }
+#s-details .nav-pills .nav-item.active { box-shadow: -10px 0px 15px 0px rgba(11, 12, 69, 0.15); }
+#s-details .nav-pills .nav-item:after { content: ''; position: absolute; right: -13px; background: #fff; width: 6px; height: 45px; border-radius: 3px; top: 16px; }
+#s-details .nav-pills .nav-item:last-child:after { display: none; }
+#s-details .nav-pills .nav-link { border-radius: 30px; color: #fff; text-align: center; font-size: 28.57px; padding: 4px 23px; }
+#s-details .nav-pills .nav-link.active { background: #00b9fd; color: #fff; box-shadow: inset -10px 0px 15px 0px rgba(11, 12, 69, 0.35); }
+#s-details .nav-pills .nav-item:nth-child(1) .nav-link.active { background: #00b9fd; color: #fff; box-shadow: inset -10px 0px 15px 0px rgba(11, 12, 69, 0.35); }
+#s-details .nav-pills .nav-item:nth-child(1) .nav-link { background: #00b9fd; }
+#s-details .nav-pills .nav-item:nth-child(2) .nav-link { background: #a6dc01; }
+#s-details .nav-pills .nav-item:nth-child(2) .nav-link.active { background: #a6dc01; color: #fff; box-shadow: inset -10px 0px 15px 0px rgba(11, 12, 69, 0.35); }
+#s-details .nav-pills .nav-item:nth-child(2) .nav-link:hover, #details .nav-pills .nav-item:nth-child(1) .nav-link:hover { box-shadow: inset -10px 0px 15px 0px rgba(11, 12, 69, 0.35); }
+
+@media (max-width: 768px) {
+  #details .tab-pane { text-align: center; }
+  #details #pills-tab { display: grid; grid-template-columns: 1fr 1fr; }
+  #details .nav-pills .nav-item { max-width: 170px; min-width: 120px; }
+  #details .nav-pills .nav-link { font-size: 20px; }
+
+
+  #s-details .tab-pane { text-align: center; }
+  #s-details #pills-tab { display: grid; grid-template-columns: 1fr 1fr; }
+  #s-details .nav-pills .nav-item { max-width: 170px; min-width: 120px; }
+  #s-details .nav-pills .nav-link { font-size: 20px; }
+
+
+  #details .content { display: inline-block; }
+  #details .content > div { display: grid; grid-template-columns: 80px 1fr; text-align: left; align-items: center; grid-column-gap: 10px; } }
+
+.insta-btn a { background: #9600b6; border: 2px solid #9600b6; }
+.insta-btn a:hover { border: 2px solid #9600b6; }
+
+.insta-gradient { background: linear-gradient(to right, #fd9e02, #fb0897, #6b22f7); background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700;}
+#insta-banner { position: relative; background: url(/wp-content/uploads/2019/02/Banner_Insta.jpg); height: 80vh; }
+#insta-banner > div:first-child { height: 100%; }
+#insta-banner > div:first-child .container { height: 100%; }
+#insta-banner > div:first-child .container > div { height: 100%; display: grid; grid-template-columns: 1fr 1fr; align-items: center; }
+#insta-banner > div:first-child .container > div h1 { line-height: normal; font-weight: 700; color: #fff; }
+#insta-banner > div:first-child .container > div .slogan { color: #fae359; font-size: 36px; text-shadow: 2px 0px 5px rgba(255, 255, 255, 0.75); }
+#insta-banner > div:first-child .container > div .data_date { padding: 30px 0 30px; position: relative; display: grid; align-items: center; justify-items: center; max-width: 300px; }
+#insta-banner > div:first-child .container > div .data_date .mask-text { font-size: 25px; position: absolute; color: #fff; font-weight: 300; }
+#insta-banner > div:first-child .container > div .data_date .mask-text span { font-weight: 600; font-size: 28px; }
+#insta-banner .wave { position: absolute; bottom: 0; width: 100%; display: grid; align-items: end; margin-bottom: -1px; }
+
+@media (max-width: 768px) {
+  #insta-banner > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > img:nth-child(1) { max-width: 50%; margin: 0 auto; }
+  #insta-banner > div:first-child .container > div { align-items: start; }
+  #insta-additionally .container > div > div > div > div { left: -20px; }
+  #insta-banner .slogan { font-size: 18px; padding-top: 20px; }
+  #insta-banner > div:first-child .container > div { grid-template-columns: 1fr; grid-row-gap: 20px; }
+  #insta-banner > div:first-child .container > div .data_date { margin: 0 auto; }
+  #insta-banner > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) { text-align: center; }
+  #insta-about .container div div:nth-child(2) .insta-grid { grid-template-columns: 1fr; grid-row-gap: 20px; }
+  #insta-banner > div:first-child .container > div { display: block; }
+  .insta-grid > div { display: grid; grid-template-columns: 80px 1fr; text-align: left; grid-column-gap: 20px; grid-row-gap: 20px; align-items: center; }
+  #insta-about { background: url(/wp-content/uploads/2019/02/Pattern_Insta-1.svg) 0 120% no-repeat, url(/wp-content/uploads/2019/02/Pattern_Insta-1.svg) 120% 10% no-repeat; background-size: 242px, 140px; } }
+#insta-about { background: url(/wp-content/uploads/2019/02/Pattern_Insta-1.svg) 0 130% no-repeat, url(/wp-content/uploads/2019/02/Pattern_Insta-1.svg) 110% 10% no-repeat; background-size: auto, auto; background-size: auto, auto; background-size: 312px, 340px; }
+
+#insta-about .container div .gradient { font-size: 28px; color: #8b01a8; font-weight: 500; max-width: 80%; margin: 0 auto; line-height: normal; }
+#insta-about .container div .gradient span { font-size: 42px; background: linear-gradient(to right, #fd9e02, #fb0897, #6b22f7); background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; font-weight: 700; }
+#insta-about .container div div.about-insta { text-align: center; }
+#insta-about .container div div.about-insta .insta-grid { display: grid; grid-template-columns: 1fr 1fr 1fr; max-width: 80%; margin: 0 auto; grid-column-gap: 30px; }
+#insta-about .container div div.about-insta h2 { padding-bottom: 40px; }
+.page-id-5471 h2, .page-id-8470 h2 { text-align: center; }
+#insta-offer { background: linear-gradient(to left, #5e25ff, #fe0892, #fd9e02); }
+#insta-offer .container > div { display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 30px; align-items: center; }
+#insta-offer .container > div div { padding: 35px 0; }
+#insta-offer .container > div div h3 { color: #fff; font-weight: 700; line-height: normal; }
+#insta-offer .container > div div .insta-btn { padding-top: 20px; }
+
+@media (max-width: 768px) {
+  #insta-offer > div > div > img { display: none; }
+  #insta-offer .container > div { grid-template-columns: 1fr; text-align: center; } }
+#insta-skills { padding: 50px 0; }
+#insta-skills .container h2 { padding-bottom: 40px; }
+#insta-skills .container > div { display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 30px; }
+#insta-skills .container > div > div > div p:first-child { font-weight: bold; }
+
+@media (max-width: 768px) {
+  #insta-skills .container > div { grid-template-columns: 1fr; } }
+#insta-additionally { background: url(/wp-content/uploads/2019/02/Pattern_Insta-1.svg) 0 130% no-repeat, url(/wp-content/uploads/2019/02/Pattern_Insta-1.svg) 110% 20% no-repeat; background-size: auto, auto; background-size: auto, auto; background-size: auto, auto; background-size: 412px, 340px; padding: 40px 0; }
+#insta-additionally .container h2 { padding-bottom: 20px; }
+#insta-additionally .container > div { display: grid; grid-template-columns: 1fr 1fr; }
+#insta-additionally .container > div > div { display: grid; grid-template-columns: 1fr 1fr; align-items: center; }
+#insta-additionally .container > div > div > div > div:last-child { padding-bottom: 0; }
+#insta-additionally .container > div > div > div > div:nth-child(1) { left: -10px; }
+#insta-additionally .container > div > div > div > div:nth-child(2) { left: -40px; }
+#insta-additionally .container > div > div > div > div { padding-bottom: 70px; position: relative; }
+#insta-additionally .container > div > div > div > div p:first-child { color: #9600b6; font-weight: 500; }
+#insta-additionally .container > div > div > div > div p span { font-weight: 600; }
+
+@media (max-width: 768px) {
+  #insta-additionally .container > div { grid-template-columns: 1fr; }
+  #insta-additionally { background: url(/wp-content/uploads/2019/02/Pattern_Insta-1.svg) 0 130% no-repeat, url(/wp-content/uploads/2019/02/Pattern_Insta-1.svg) 140% 0% no-repeat; background-size: 92%, 39%; }
+  #insta-additionally .container > div > div { grid-template-columns: 1fr 1fr; grid-column-gap: 44px; }
+  #insta-additionally .container > div > div > div > div { padding-bottom: 20px; }
+  #insta-additionally .container > div { grid-row-gap: 50px; } }
+#insta-text { background: linear-gradient(to right, #fdb341, #fd6898, #fd017e);}
+
+#insta-text h3 { text-align: center; color: #fff; font-weight: 700; letter-spacing: normal; }
+
+.summer-camp #insta-text {
+    background: linear-gradient(to right, #ffb505, #ff7900);
+    margin-bottom: 40px;
+}
+
+@media (min-width: 768px) {
+  #insta-counselors > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) { max-width: 80%; margin: 0 auto; } }
+#insta-counselors { background: url(/wp-content/uploads/2019/02/Pattern_Insta-1.svg) 0% 10% no-repeat, url(/wp-content/uploads/2019/02/Pattern_Insta-1.svg) 110% -20% no-repeat; background-size: auto, auto; background-size: auto, auto; background-size: auto, auto; background-size: auto, auto; background-size: 412px, 440px; padding: 50px 0; }
+#insta-counselors .container h2 { padding-bottom: 20px; }
+#insta-counselors .container > div { display: grid; grid-template-columns: 40% 1fr; align-items: center; }
+#insta-counselors .container > div > div img { max-width: 60%; margin: 0 auto; }
+#insta-counselors .container > div > div p { padding-bottom: 20px; }
+#insta-counselors .container > div > div > div { max-width: 80%; }
+#insta-counselors .container > div > div > div > div { font-size: 18px; }
+#insta-counselors .container > div > div > div > div span { color: #7301ff; }
+
+@media (max-width: 768px) {
+  #insta-counselors > div:nth-child(1) > div:nth-child(2) > img:nth-child(1) { max-width: 50%; margin: 0 auto; }
+  #insta-counselors .container > div { grid-template-columns: 1fr; grid-row-gap: 20px; } }
+#insta-reasons { padding: 50px 0; }
+#insta-reasons .container h2 { padding-bottom: 50px; max-width: 70%; margin: 0 auto; }
+#insta-reasons .container > div { display: grid; grid-template-columns: 1fr 1fr; grid-row-gap: 40px; grid-column-gap: 40px; width: 80%; margin: 0 auto; }
+#insta-reasons .container > div > div { display: grid; grid-template-columns: 40px 1fr; align-items: center; }
+#insta-reasons .container > div > div span { font-size: 60px; font-weight: bold; line-height: 50px; background: linear-gradient(to bottom, #fd9e02, #fb0897, #6b22f7); background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; justify-content: end; display: grid; }
+#insta-reasons .container > div > div div { font-size: 20px; line-height: normal; padding-left: 10px; }
+
+@media (max-width: 768px) {
+  #insta-reasons { padding-top: 0; }
+  #insta-reasons .container h2 { padding-bottom: 30px; max-width: 100%; }
+  #insta-reasons .container > div { grid-template-columns: 1fr; } }
+#insta-details { background: #fed6f0; padding: 50px 0; }
+#insta-details .container .insta-btn { text-align: center; padding-top: 40px; }
+#insta-details .container .insta-btn a:hover { background: #9600b6; }
+#insta-details .container h2 { opacity: 1; padding-bottom: 20px; text-shadow: -5px 0px 7px rgba(9, 44, 63, 0.15); }
+#insta-details .container h2 span { color: #fff; }
+#insta-details .container > div { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr; text-align: center; max-width: 80%; margin: 0 auto; }
+#insta-details .container > div > div img { max-width: 80px; }
+#insta-details .container > div > div p:first-child { font-weight: bold; }
+
+@media (max-width: 768px) {
+  #insta-details .container > div { grid-template-columns: 1fr; }
+  #insta-details .container > div > div { display: grid; grid-template-columns: 80px 1fr; text-align: left; grid-column-gap: 20px; align-items: center; grid-row-gap: 20px; } }
+.post-5471 p { font-size: 18px; }
+
+@media (max-width: 768px) {
+  #insta-registration { background: none; }
+  #insta-abonement { padding-top: 40px; }
+  #insta-abonement > div > div { grid-template-columns: 1fr; }
+  #insta-abonement > div > div > div { display: grid; grid-template-columns: 80px 1fr; align-items: center; grid-column-gap: 10px; text-align: left; }
+  #insta-abonement > div > div { grid-row-gap: 20px; } }
+#insta-registration .container > div { max-width: 80%; margin: 60px auto; box-shadow: 1px 11px 23px 4px #0000001a; padding: 30px 20px 0;background: #fff; border-radius: 20px; }
+#insta-registration .container > div h3 { text-align: center; padding-bottom: 20px; color: #8a1482; }
+#insta-registration .container > div > div { display: grid; grid-template-columns: 1fr 1fr; }
+#insta-registration .container > div > div img { margin: 0 auto; }
+.post-5471 .enroll_now.fullscreen .form_input_cf { border: 1px solid #8a1482; border-radius: 10px; padding: 0; }
+.post-5471 .enroll_now.fullscreen { display: grid; grid-row-gap: 20px; }
+.post-5471 .enroll_now.fullscreen #insta-registration > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) > img:nth-child(1) { margin: 0 auto; }
+.post-5471 .enroll_now.fullscreen input.wpcf7-form-control.wpcf7-submit { border: 2px solid #8a1482; background: #8a1482; }
+.post-5471 .enroll_now.fullscreen input.wpcf7-form-control.wpcf7-submit:hover { color: #fff; background: #aa22a1; }
+.post-5471 .form_input_cf input { color: #8a1482; }
+.post-5471 .enroll_now.fullscreen .title_cf { color: #8a1482; }
+
+@media (max-width: 768px) {
+  .data_date > img:nth-child(1) { max-width: 70%; }
+  #insta-banner > div:first-child .container > div .data_date .mask-text { font-size: 18px; }
+  #insta-registration .container > div > div { grid-template-columns: 1fr; }
+  #insta-registration .container img { display: none; }
+  #insta-counselors > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) { text-align: center; }
+  #insta-counselors > div:nth-child(1) > div:nth-child(2) > div:nth-child(2) > div:nth-child(2) { display: inline-block; text-align: left; }
+  .enroll_now.fullscreen .ajax-loader { display: none; } }
+.post-5471 .enroll_now.fullscreen div.wpcf7-mail-sent-ok { border: 2px solid #8a1482; margin-top: 20px; background: #fff; padding: 0; height: 100%; display: grid; align-items: center; }
+.fullscreen > div:nth-child(5) > p:nth-child(1) { padding-top: 10px; }
+#insta-registration { background: url(/wp-content/uploads/2019/02/Pattern_Insta-1.svg) 0% 10% no-repeat, url(/wp-content/uploads/2019/02/Pattern_Insta-1.svg) 110% -20% no-repeat; background-size: 312px, 340px; z-index: 1; position: relative; }
+.insta-grid > div > img { max-width: 150px; }
+p.insta-btn:nth-child(4) > a:nth-child(1) { z-index: 99; }
+#insta-about > div:nth-child(1) > div:nth-child(1) > p:nth-child(2) { max-width: 80%; margin: 0 auto; padding: 20px 0 20px 0; }
+#insta-about > div:nth-child(1) > div:nth-child(1) > p:nth-child(3) { max-width: 80%; margin: 0 auto; padding: 20px 0 50px 0; }
+
+.insta-offer { padding: 40px 0; }
+.insta-offer .container { display: grid; grid-template-columns: 1fr 30%; align-items: center; grid-column-gap: 20px; }
+.insta-offer .container img { margin-top: -20%; margin-bottom: -20%; }
+.insta-offer .container > div h3 { padding-bottom: 20px; text-align: left; }
+
+@media (max-width: 768px) {
+  #insta-about .container div div .insta-grid { grid-template-columns: 1fr; }
+  #insta-about { padding: 60px 0; }
+  #insta-offer > div:nth-child(1) > div:nth-child(1) > div:nth-child(2) { display: none; }
+  #insta-about .container div div .insta-grid > div { text-align: left; }
+  .insta-offer .container { grid-template-columns: 1fr; text-align: center; }
+  .insta-offer .container > div h3 { text-align: center; }
+  .insta-offer > div > img { display: none; }
+  #insta-registration .container > div { max-width: 95%; }
+  .page-id-3442 #insta-banner { width: 100%; } }
+
+#insta-additionally .container > div > div > div > div p:first-child { font-weight: 700; }
+.offer-sale > div:nth-child(1) > h1:nth-child(1) { color: #fff; opacity: 1; text-align: center; }
+.post-5471 .fullscreen span.wpcf7-not-valid-tip { position: absolute; right: -23px; margin: 0; top: 0; }
+.post-3442 #insta-banner > div:nth-child(1) > div:nth-child(1) { width: 100%; max-width: 1920px; }
+.post-3442 #insta-banner > div:first-child .container > div { width: 80%; margin: 0 auto; }
+.home-desktop-slide-two.insta-slide { background: url(/wp-content/uploads/2019/02/Banner_Insta.jpg); }
+.home-desktop-slide-two.insta-slide .container img { max-width: 100%; }
+
+
+
+/*yellow course*/
+._programms.bg-year-13-16 ._head { background: linear-gradient(to top, #ffde00, #fff600); }
+._programms.bg-year-13-16 ._head { color: #333333; }
+.Slider_courses_block.graf_diz .text_course_1, .Slider_courses_block.graf_diz .text_course_3 { color: #333333; }
+.Slider_courses_block.dev-web .text_course_1, .Slider_courses_block.dev-web .text_course_3 { color: #333333; }
+.Slider_courses_block.basic-prog .text_course_1, .Slider_courses_block.basic-prog .text_course_3 { color: #333333; }
+.Slider_courses_block.games-dev .text_course_1, .Slider_courses_block.games-dev .text_course_3 { color: #333333; }
+.Slider_courses_block.d-graf .text_course_1, .Slider_courses_block.d-graf .text_course_3 { color: #333333; }
+.Slider_courses_block.logoped .text_course_1, .Slider_courses_block.logoped .text_course_3 { color: #333333; text-shadow: none; }
+._offer-min.bg-year-11-13 { background: linear-gradient(to right, #ffde00, #fff600); }
+._offer-min.bg-year-11-13 h3 { color: #333333; }
+
+@media (max-width: 768px) { h4.for-child { color: #15acf2; }
+  .advantages.bg-year-13-16 h4.for-parent { color: #ffde00; color: #000; } }
+
+._offer-min p { margin: 0; text-decoration: none; border: 0; }
+.result-of-the-course.dev-web-block { background: linear-gradient(to left, #ffde00, #fff600); }
+
+div.junior-page #advantage .nav-pills .nav-link.active,div.junior-page #advantage .nav-pills .nav-link {background: #05c2f9 !important;}
+div.junior-page #advantage .content ul li::before {color: #05c2f9;}
+div.junior-page #details .nav-pills .nav-item:nth-child(2) .nav-link { background: #b478df !important; }
+div.junior-page #details .nav-pills .nav-item:nth-child(1) .nav-link {background: #05c2f9 !important;}
+div.junior-page #details #pills-tab::before {background: url(/wp-content/uploads/2019/03/Location13-16.svg);background-repeat: no-repeat;}
+div.junior-page #result .row .progress-bar-green {background: linear-gradient(to right, #05c2f9, #b478df);}
+div.junior-page #advantage .nav-pills .nav-item.kids .nav-link {background: #b478df !important;}
+div.junior-page #advantage #pills-tabContent #advantage-two .content ul li::before {color: #b478df;}
+div.junior-page #advantage {background: url(/wp-content/uploads/2019/02/ROUND1.svg) 0 0px no-repeat, url(/wp-content/uploads/2019/05/2C13-16.svg) bottom right no-repeat;
+        background-size: auto, auto;background-size: 212px, 250px;}
+div.junior-page #offer {background: linear-gradient(to right, #05c2f9, #b478df);}
+div.junior-page #result { background: url(/wp-content/uploads/2019/05/3C13-16.svg) 0 0px no-repeat;
+        background-size: auto, auto; background-size: 112px; }
+div.junior-page #result .row .result-list > div > div span {background: linear-gradient(to right, #05c2f9, #b478df);-webkit-background-clip: text; background-clip: text; -webkit-text-fill-color: transparent;}
+div.junior-page .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar { background: linear-gradient(to bottom, #b478df, #05c2f9); border-radius: 10px; }
+div.junior-page #section_discont.discont_8-10 .this_bg_red { background: linear-gradient(to right, #05c2f9, #b478df); }
+#section_discont .content > p { text-align: center; margin-bottom: 20px; }
+div.junior-page #section_discont .content .form > div:nth-child(1) {background: url(/wp-content/uploads/2019/04/contact.png) center no-repeat;background-size: contain;}
+
+
+div.junior-page #reviews-sec .container {background: url(/wp-content/uploads/2019/05/2C13-16.svg) 0 0 no-repeat;background-size: auto;background-size: 210px;}
+div.junior-page #pills-tab { margin-bottom: 50px; margin-top: 77px; }
+div.junior-page #details #pills-tab::before { top: 0; }
+div.junior-page #s-details h2 { color: #1ab4fd; }
+div.junior-page #s-details .nav-pills .nav-item:nth-child(2) .nav-link { background: #b478df;}
+div.junior-page #s-details #pills-tab::before { content: ""; width: 77px; height: 83px; background: url(/wp-content/uploads/2019/05/Location.svg); position: absolute; left: calc(50% - 39px); top: 0; background-repeat: no-repeat; }
+div.junior-page #s-details .content > div > div { background-color: #05c2f9; color: #fff; }
+div.junior-page #s-details .line::before { background: #bfedfe; }
+div.junior-page #s-slider .content h1::before { display: none; }
+div.junior-page #s-slider .content h1 { padding-left: 0;}
+div.junior-page #about { background: none; }
+div.junior-page .course._programms.bg-year-5-7 ._head { background: linear-gradient(to bottom, #b478df, #05c2f9);  }
+div.junior-page ._programms._skills ._head { font-size: 18px; line-height: normal; font-weight: 600; }
+div.junior-page ._programms .orange-li li::before { color: #b379df; }
+div.junior-page .course.result-grid.chess h2 { color: #15acf2; }
+div.junior-page #result .row .result-list { grid-row-gap: 30px; }
+div.junior-page #result { padding-bottom: 40px; }
+div.junior-page #s-slider .content { grid-column-gap: 0; }
+div.junior-page #new-program .content::before { background: url(/wp-content/uploads/2019/05/2C13-16.svg) no-repeat; }
+div.junior-page #new-program .content > div .text button, div.junior-page #new-program .content > div .text ul li::before {background: linear-gradient(to right, #05c2f9, #b478df);}
+
+#s-slider .content h1 span { font-weight: 500; }
+
+.about-text { overflow: auto; position: relative; display: block; padding: 20px; margin: 10px; max-width: 97%; height: 290px;
+    -webkit-box-sizing: border-box; -moz-box-sizing: border-box;box-sizing: border-box;}
+@media (max-width: 768px) { .about-text {padding: 0;margin: 0;} }
+.progress-bar.active {width: 0 !important;}
+
+
+/*Большой нумерованный список*/
+ul.list_numbers { margin: 0; padding: 0; }
+ul.list_numbers li::before { counter-increment: myCounter;content: counter(myCounter); text-align: center;line-height: 70px; content: counter(myCounter);
+    background: url(/wp-content/uploads/2019/03/HexagonBlue.svg) center no-repeat; position: relative; left: 0;color: #fff;font-weight: normal;
+    background-size: cover;width: 72px;height: 72px;display: inline-block;margin-right: 10px;font-size: 24px;font-weight: 600;}
+ul.list_numbers li {position: relative;padding: 10px 0px;display: grid;grid-template-columns: auto 1fr;align-items: start;}
+ul.list_numbers li span { display: block; font-weight: bold; margin-bottom: 8px; }
+/*Конец - Большой нумерованный список*/
+
+
+
+/*Страница Профориентация*/
+.career-guidance #offer > div { grid-template-columns: 1fr; color: #fff; font-size: 18px; }
+.career-guidance #offer .row > div { grid-template-columns: 320px 1fr; display: grid; align-items: center; position: relative; z-index: 1; left: -85px;}
+
+.career-guidance p.title {font-size: 21px; color: #15acf2;}
+.career-guidance .block-quote-lab {box-shadow: 0 1px 10px rgba(0,0,0,.16); border-radius: 5px; transition: box-shadow .5s ease-out; padding: 30px 20px;}
+.career-guidance ul.check {margin-bottom: 0 !important;}
+
+
+@media (max-width: 768px) {
+	.career-guidance #offer {margin-top: 0;}
+	.career-guidance #offer img { display: block; margin: 0 auto; }
+	.career-guidance #offer .row > div {grid-template-columns: 1fr; text-align: center; grid-row-gap: 30px; padding: 0 15px; position: relative; z-index: 1; }
+	.career-guidance p.title {font-size: 18px;}
+	.career-guidance .block-quote-lab {padding: 15px;}
+}
+
+@media (min-width: 992px) {
+.min-menu {  transition: 0.3s all; }
+.min-menu .menu-smart > ul > li > a { padding: 16px;font-size: 15px;height: 54px; }
+.min-menu #header { margin-top: 0px; }
+.min-menu .logo_desktop {display: inline-block;}
+.min-menu .logo_mobile {display: none}
+.min-menu .navbar-brand img { height: 36px; }
+.min-menu #header .container { position: relative;}
+.min-menu .menu-smart {    padding-right: 25px;height: 54px;}
+.min-menu .lux_search .button {background: none;}
+.min-menu .lux_search {height: 54px;}
+}
+
+#insta-text.offer-sale {display: none;}
+
+.row-footer .first-block-footer .footer-menu-title span { font-weight: 600; }
+.footerForm {position: relative;text-align: center;}
+.footerForm p {padding-bottom: 0px}
+
+
+section.title-prof { position: relative; }
+section.title-prof .container > div { display: grid; align-items: center; grid-template-columns: auto 1fr; box-shadow: -15px 0px 51px 0px rgba(26, 31, 31, 0.13); border-radius: 15px; padding: 37px 51px;
+background: #fff; margin-top: -100px; position: relative; }
+
+section.title-prof .container > div:before { content: ''; position: absolute; border: 20px solid transparent; border-top: 20px solid #fff; bottom: -40px; z-index: 999; left: calc(50% - 20px); }
+
+section.title-prof .container > div h2 {position: relative;font-size: 36px;padding-left:27px;color: #24b4ec;}
+section.title-prof .container > div img {width: 69px;}
+
+.quote-prof { box-shadow: 0px 18px 35px 0px rgba(0, 0, 0, 0.11); border-radius: 10px; background: #fff; font-size: 18px; color: #04b7ff; line-height: 24px;
+max-width: 700px; display: block; padding: 22px 46px; position: relative; margin: 62px auto; }
+.quote-prof:before {content:'';position: absolute;left:-12px;top:-12px;background: url(/wp-content/uploads/2019/03/left-quote-sign.svg); background-size: contain;width: 27px;height:27px;}
+.quote-prof:after {content:'';position: absolute;right:-12px;bottom:-12px;background: url(/wp-content/uploads/2019/03/right-quote-sign.svg); background-size: contain;width: 27px;height:27px;}
+
+
+.career-guidance #offer { background: none; padding: 0;overflow: hidden;}
+.career-guidance #offer:before {background-image: linear-gradient(to right, #09a1ff , #00ccff); width: 100%; height: 60%;left:0;top: 20%;content:'';background-size: auto;}
+.career-guidance #offer .container {position: relative;}
+.career-guidance #offer .container:after {background: #fff; width: 100%; height: 60%;right: calc(100% - 85px);top: 20%; content:''; position: absolute;}
+.career-guidance h3 { font-size: 28px; color: #04b7ff; text-align: center; line-height: 34px; }
+.career-guidance h3 span { display: block; }
+
+ul.nums-img li { display: grid; grid-template-columns: 150px 1fr; grid-column-gap: 30px; align-items: center; box-shadow: -36px 0px 35px 0px rgba(0, 0, 0, 0.09); border-radius: 100px; margin: 0 auto 40px auto; max-width: 770px;}
+ul.nums-img li img { border-radius: 50%; }
+ul.nums-img li > div { padding-right: 50px; }
+ul.nums-img li h4 { color: #04b7ff; font-size: 21px; margin-bottom: 10px; }
+ul.nums-img li p { margin: 0; font-size: 16px; line-height: 21px; }
+
+ul.nums-img li:nth-child(2) { grid-template-columns: 1fr 150px; }
+ul.nums-img li:nth-child(2) > div { padding-left: 50px; padding-right: 0; }
+
+
+.career-guidance .last-sec { display: grid; grid-template-columns: 40% 1fr; align-items: center; }
+.career-guidance .last-sec img { display: inline-block; margin: 0 auto; }
+
+.career-guidance .last-sec ul.check {max-width: 500px;}
+.career-guidance .last-sec ul.check li::before {width: 62px;height: 68px;}
+#feed {padding-top: 0;}
+
+
+
+
+@media (max-width: 992px) {
+	.career-guidance #offer .row > div > div {font-size: 16px;}
+	section.title-prof .container > div h2 {font-size: 30px;line-height: 34px;}
+	#about.proffesion.one-sec {padding-top:0;}
+	.career-guidance h3 {font-size: 24px;line-height: 30px;}
+}
+
+@media (max-width: 768px) {
+	.career-guidance #offer .container::after {display: none}
+	.career-guidance #offer img {width: 160px;position: relative;left: -13px;}
+	.career-guidance #offer .row > div {grid-row-gap: 0; left: 0;}
+	.career-guidance #offer::before { height: 70%; top: 30%; }
+	.career-guidance #offer {padding-bottom: 30px;}
+	#about.proffesion.one-sec {padding-top: 40px;}
+	.career-guidance #about .row > div img {display: block;}
+	ul.nums-img li:nth-child(2),ul.nums-img li {grid-template-columns: 1fr;grid-row-gap: 20px;}
+	ul.nums-img li:nth-child(2) > img {grid-column: 1;grid-row: 1;}
+	ul.nums-img li > img {width: 150px;display: block;margin: 0 auto;}
+	ul.nums-img li {border-radius: 10px;padding: 20px;}
+	ul.nums-img li > div {padding: 0;}
+	ul.nums-img li:nth-child(2)  > div {padding: 0;}
+	.career-guidance .last-sec {grid-template-columns: 1fr;}
+	.career-guidance #about .row > div img {display: block}
+	.career-guidance .last-sec ul.check {margin-bottom: 30px !important}
+	section.title-prof .container > div h2 {font-size: 20px;line-height: 24px;}
+	section.title-prof .container > div img {width: 50px;}
+	.career-guidance h3 {font-size: 21px; line-height: 24px;}
+	.career-guidance #about .last-sec img {display: none !important}
+	section.title-prof .container > div {padding: 27px 31px;}
+}
+
+#section_discont.discont_8-10 { padding: 50px 0 50px 0; }
+#section_discont.discont_8-10 .this_bg_red { background: linear-gradient(to right, #0bc3ee, #c0fc07); }
+#section_discont.discont_8-10 .this_bg_red:before, #section_discont.discont_8-10 .this_bg_red:after {display: none}
+
+
+
+
+
+#insta-skills #insta-shedule { display: block; padding-bottom: 80px; }
+#insta-shedule h2 { display: block; }
+#insta-shedule .s-blocks { position: relative; display: grid; grid-template-columns: 1fr 1fr 1fr; grid-column-gap: 65px; }
+#insta-shedule .s-blocks > div { border-radius: 20px; border: 5px solid #ff9dbd; background: #fff; box-shadow: 0px 7px 10px 0px rgba(27, 49, 60, 0.1); position: relative; text-align: center; padding: 30px 30px 56px 30px; }
+#insta-shedule .s-blocks .mon { position: absolute; bottom: 0; color: #fff; background: #ff9dbd; font-size: 18px;
+  font-weight: bold; line-height: 1.444; text-align: center; text-shadow: 0.585px 1.913px 3px rgba(8, 12, 51, 0.15); padding: 0px 10px; transform: translate(-50%, 0%); }
+#insta-shedule .s-blocks ul li strong { display: block; color: #8f018a; }
+#insta-shedule .s-blocks ul { display: grid; grid-row-gap: 20px; }
+
+
+.page-id-8470 #insta-details { text-align: center; position: relative; background: #fff; }
+.page-id-8470 #insta-details:before { content: ''; position: absolute; width: 100%; height: 100%; top: 0; left: 0; background: url(/wp-content/uploads/2019/04/insta-pattern.jpg); opacity: 0.6; }
+.page-id-8470 #insta-details .container { position: relative; z-index: 1; }
+.page-id-8470 #insta-details .container > div.insta-info { grid-template-columns: 1fr 1fr 1fr; padding-bottom: 50px; padding-left: 64px;}
+.page-id-8470 #insta-details .container > div.insta-info > div { display: grid; grid-template-columns: auto 1fr; align-items: center; text-align: left; }
+.page-id-8470 #insta-details .container > div.insta-info > div img { max-width: 100px; width: 100px; }
+.page-id-8470 #insta-details .container > div.insta-strahovka > h4 { grid-column: 1/5; padding-bottom: 30px; }
+.page-id-8470 #insta-details .container > div.insta-strahovka img { display: block; margin: 0 auto 12px auto; }
+.page-id-8470 #insta-details .container > p.timing { font-size: 21px; margin-bottom: 30px; color: #000; }
+img.flamingo {position: absolute;max-width: 190px;top: -90px;left: -140px;}
+.page-id-8470 #insta-skills { background: url(/wp-content/uploads/2019/04/Leafs.svg) no-repeat; background-size: inherit; background-position: 100% 230px; }
+.page-id-8470 #insta-banner {background: url(/wp-content/uploads/2019/04/insta-pattern.jpg); position: relative; height: 90vh;}
+.page-id-8470 #insta-banner .container{ position: relative; z-index: 1; }
+.page-id-8470 #insta-banner:before { content: ''; position: absolute; bottom: -2px; left: 0; background: url(/wp-content/uploads/2019/04/Botanical.png) bottom repeat-x; height: 530px; width: 100%; background-size: contain; }
+.page-id-8470 #insta-banner > div:first-child {padding-bottom: 180px;}
+.page-id-8470 #insta-about { padding-top: 0; margin-top: 50px; position: relative; z-index: 2; }
+.page-id-8470 #section_offer_red {margin-bottom: 0; background: url(/wp-content/uploads/2019/04/insta-pattern.jpg);}
+.page-id-8470 #section_offer_red .container .content { background: none;     padding: 40px 70px; }
+.page-id-8470 #section_offer_red a { margin-top: 30px; }
+.page-id-8470 #section_offer_red .container .content > span { font-size: 21px; color: #474747; margin-top: 10px; }
+.page-id-8470 #section_offer_red .container .content::before { display: none; content: url(/wp-content/uploads/2019/04/Gift.svg); }
+.page-id-8470 #insta-banner > div:first-child .container > div h1 span { display: block; font-size: 28px; font-weight: normal; color: #fff; background: none; -webkit-text-fill-color: #fff; }
+.page-id-8470 #insta-banner > div:first-child .container > div .slogan {text-shadow: none;color: #ff2b6d;padding-top: 30px;}
+.page-id-8470 #insta-banner > div:first-child .container > div .data_date {     padding: 24px 0 46px; display: inline-block; }
+.page-id-8470 #insta-banner > div:first-child .container > div .data_date .mask-text {position: relative;font-size: 25px;}
+.page-id-8470 #insta-offer .container > div {grid-template-columns: 30% 1fr;}
+.page-id-8470 #insta-offer { background: linear-gradient(to right, #fdb341, #fd6898, #fd017e); }
+.page-id-8470  #insta-registration { background: linear-gradient(to right, #fdb341, #fd6898, #fd017e); }
+.page-id-8470  #insta-registration .container > div { margin: 0 auto; position: relative; top: -60px; }
+.page-id-8470  #insta-banner > div:first-child .container > div h1 {    line-height: 50px;}
+.page-id-8470  #insta-registration input.wpcf7-form-control.wpcf7-text {padding: 12px;border: 1px solid #8f018a;border-radius: 10px;}
+.page-id-8470  #insta-registration .form_input_cf {border: 0;}
+.page-id-8470  #insta-registration div.wpcf7 .ajax-loader { display: none; }
+.page-id-8470  #insta-registration input.wpcf7-form-control.wpcf7-submit {padding: 7px 40px;background: #9600b6;border: 1px solid #9600b6;margin-top: 30px;}
+.page-id-8470  #insta-registration input.wpcf7-form-control.wpcf7-submit:hover {color: #fff;}
+.page-id-8470  #section_offer_red .container .content:before { width: 340px; }
+.page-id-8470 #insta-about {background: none;}
+.insta-photo { margin-bottom: 70px; }
+.insta-photo .slick-slide { padding: 13px 10px; }
+.insta-photo .slick-list { padding: 0 !important; }
+.insta-photo .slick-slide { transform: scale(0.9); -moz-transition: all 0.5s 0.1s ease-in; -o-transition: all 0.5s 0.1s ease-in; -webkit-transition: all 0.5s 0.1s ease-in; transition: all 0.5s 0.1s ease-in; }
+.insta-photo .slick-center { transform: scale(1.1); -moz-transition: all 0.5s 0.1s ease-in; -o-transition: all 0.5s 0.1s ease-in; -webkit-transition: all 0.5s 0.1s ease-in; transition: all 0.5s 0.1s ease-in; }
+.page-id-8470 #insta-details .container > div.insta-strahovka span {display: block;letter-spacing: normal;}
+
+
+.page-id-8470 #insta-registration h3 { font-size: 24px; }
+.page-id-8470 #insta-registration .title_cf { font-size: 18px; }
+.page-id-8470 #insta-registration .container > div > div {grid-template-columns: auto 1fr; text-align: center;align-items: center;}
+
+
+
+@media (max-width:768px){
+	#insta-banner > div:nth-child(1) > div:nth-child(1) > div:nth-child(1) > img:nth-child(1) {max-width: 70%;}
+	.page-id-8470 #insta-banner { height: auto; }
+	.page-id-8470 #insta-about {padding-top: 40px;}
+	.page-id-8470 #insta-offer .container > div {grid-template-columns: 1fr}
+
+	#insta-shedule .s-blocks {grid-template-columns: 1fr;grid-row-gap: 30px;}
+	#insta-skills #insta-shedule {padding-bottom: 50px;}
+
+	.page-id-8470 #section_offer_red .container .content {padding: 30px;}
+	.page-id-8470 #section_offer_red .container .content::before {width: 140px;top: -109px;}
+
+	#insta-reasons {padding-top: 50px;}
+
+	.page-id-8470 #insta-details .container > div.insta-info {grid-template-columns: 1fr;padding-left: 0;grid-row-gap: 30px;}
+	#insta-details .container > div {grid-template-columns: 1fr}
+	.page-id-8470 #insta-details .container > div.insta-strahovka > h4 {grid-column: 1/2;}
+	.page-id-8470 #insta-banner > div:first-child { padding-bottom: 127px; }
+	.page-id-8470 #insta-about {padding-top: 0;margin-top: 0;}
+	#insta-skills .container h2 {position: relative;z-index: 1;}
+	#insta-offer .container > div div h3 {font-size: 24px;}
+	.insta-grid > div > img { max-width: 80px;}
+	.page-id-8470 #insta-additionally {padding-top: 0;}
+	.page-id-8470 .insta-gradient { display: inline-block; }
+	#insta-reasons .container > div > div span {display: inline-block;}
+}
+
+
+#smart-header > ul.foot li:last-child {border-bottom: 0;}
+
+
+@media (min-width: 1600px) {
+    /* #smart-header { height: calc(100% - 20px); top: 10px; left: 10px; border-radius: 20px; } */
+    #footer, .content-area { padding-left: 0; }
+    .admin-bar #smart-header { height: calc(100% - 52px); top: 42px; }
+}
+
+@media (min-width: 769px) and (max-width: 1600px) {
+  /* #wpadminbar { width: calc(100% - 100px); left: 100px; } */
+}
+
+
+
+div.smm-page #advantage .nav-pills .nav-link.active,div.smm-page #advantage .nav-pills .nav-link {background: #00b9fd !important;}
+div.smm-page #advantage .content ul li::before {color: #00b9fd;}
+div.smm-page #details .nav-pills .nav-item:nth-child(2) .nav-link { background: #ba59eb !important; }
+div.smm-page #details .nav-pills .nav-item:nth-child(1) .nav-link {background: #00b9fd !important;}
+div.smm-page #details #pills-tab::before {background: url(/wp-content/uploads/2019/03/Location13-16.svg);background-repeat: no-repeat;}
+div.smm-page #result .row .progress-bar-green, div.smm-page #section_discont.discont_8-10 .this_bg_red {background: linear-gradient(to right, #00b9fd, #e160fe);}
+div.smm-page #advantage .nav-pills .nav-item.kids .nav-link {background: #ba59eb !important;}
+div.smm-page #advantage #pills-tabContent #advantage-two .content ul li::before {color: #ba59eb;}
+div.smm-page #advantage {background: url(/wp-content/uploads/2019/02/ROUND1.svg) 0 0px no-repeat, url(/wp-content/uploads/2019/03/2C13-16.svg) bottom right no-repeat;
+        background-size: auto, auto;background-size: 112px, 250px;}
+div.smm-page #offer {background: linear-gradient(to right, #00b9fd, #e061fe);}
+div.smm-page #result { background: none;
+        background-size: auto, auto; background-size: 212px; }
+div.smm-page #result .row .result-list > div > div span {background: linear-gradient(to right, #00b9fd, #e160fe);-webkit-background-clip: text; background-clip: text;-webkit-text-fill-color: transparent;}
+div.smm-page .mCSB_scrollTools .mCSB_dragger .mCSB_dragger_bar { background: linear-gradient(to bottom, #e160fe, #00b9fd); border-radius: 10px; }
+div.smm-page #reviews-sec .container {background: url(/wp-content/uploads/2019/03/2C13-16.svg) 0 0 no-repeat;background-size: auto;background-size: 210px;}
+
+div.smm-page #banner {position: relative;}
+div.smm-page #banner .container {position: relative;z-index: 1;}
+div.smm-page #banner:before {position: absolute;content: '';top:0;left: 0;height: 100%;width: 100%;background: linear-gradient(to bottom, #e8b5ff, #b6e6fe, #fff);z-index: -1;}
+
+ div.smm-page #banner .container > div h1 { text-shadow: 0.585px 1.913px 3px rgba(12, 22, 54, 0.15); color: #fff; }
+div.smm-page #banner .container > div h1 span {font-weight: 300;display: block;padding:0;color: #fff;}
+div.smm-page #s-details .content > div > div {background: #01b9fd;color: #fff;}
+div.smm-page #s-details .line::before {background: #01b9fd33;}
+div.smm-page p.desc {text-align: center;position: relative; top: -30px;}
+div.smm-page h2, div.smm-page #s-details h2 { color: #15acf2; }
+div.smm-page #offer a.sg-show-popup {background: #f9016c;border: 2px solid #f9016c;}
+
+div.smm-page #banner .container > div span {padding: 30px 0 30px 0; color: #373737;}
+div.smm-page #banner .container > div span.start {padding-top: 0px;color: #15acf2;}
+
+div.smm-page #s-program {padding-top: 50px;}
+div.smm-page #s-program h2 {color: #15acf2;}
+
+div.smm-page #s-program .content ul > li:nth-child(1) { grid-column: 1; grid-row: 1; }
+div.smm-page #s-program .content ul > li:nth-child(2) { grid-column: 1; grid-row: 2; }
+div.smm-page #s-program .content ul > li:nth-child(3) { grid-column: 1; grid-row: 3; }
+div.smm-page #s-program .content ul > li:nth-child(4) { grid-column: 1; grid-row: 4; }
+div.smm-page #s-program .content ul > li:nth-child(5) { grid-column: 1; grid-row: 5; }
+div.smm-page #s-program .content ul > li:nth-child(6) { grid-column: 2; grid-row: 1; }
+div.smm-page #s-program .content ul > li:nth-child(7) { grid-column: 2; grid-row: 2; }
+div.smm-page #s-program .content ul > li:nth-child(8) { grid-column: 2; grid-row: 3; }
+div.smm-page #s-program .content ul > li:nth-child(9) { grid-column: 2; grid-row: 4; }
+div.smm-page #s-program .content ul > li:nth-child(10) { grid-column: 2; grid-row: 5; }
+
+div.smm-page #s-offer .content > div:nth-child(2) {padding-bottom: 0;}
+div.smm-page #s-offer .content > div:nth-child(1) {padding-bottom: 0%;}
+div.smm-page #s-offer .content h2 { color: #fff; text-shadow: 0px 3px 7px rgba(1, 52, 76, 0.25); font-weight: bold; }
+div.smm-page #s-offer .content h2.name { color: #fff; font-weight: normal; }
+div.smm-page #s-offer .content p {margin-top: 20px;}
+
+div.smm-page #section_discont .content h3 { color: #15acf2; }
+div.smm-page #section_discont .content > p { text-align: center; font-size: 21px; padding-bottom: 20px; }
+
+div.smm-page #s-program .content ul li span {background: url(/wp-content/uploads/2019/04/num_bg.svg) no-repeat;}
+div.smm-page #addition { background: #fff; background-color: #fff !important; }
+div.smm-page #s-offer::after {box-shadow: none;top: 10%;height: 80%;}
+div.smm-page #section_discont .content .form > div:nth-child(1) {background: url(/wp-content/uploads/2019/04/contact.png) center no-repeat;background-size: contain;}
+div.smm-page #banner .container > div span {display: block;}
+
+@media (max-width: 768px) {
+div.smm-page #s-offer {text-align: center}
+div.smm-page p.desc {padding-left: 15px; padding-right: 15px;}
+div.smm-page p.desc span { display: block; }
+div.smm-page #s-program .content ul > li:nth-child(1) { grid-column: 1; grid-row: 1; }
+div.smm-page #s-program .content ul > li:nth-child(2) { grid-column: 1; grid-row: 2; }
+div.smm-page #s-program .content ul > li:nth-child(3) { grid-column: 1; grid-row: 3; }
+div.smm-page #s-program .content ul > li:nth-child(4) { grid-column: 1; grid-row: 4; }
+div.smm-page #s-program .content ul > li:nth-child(5) { grid-column: 1; grid-row: 5; }
+div.smm-page #s-program .content ul > li:nth-child(6) { grid-column: 1; grid-row: 6; }
+div.smm-page #s-program .content ul > li:nth-child(7) { grid-column: 1; grid-row: 7; }
+div.smm-page #s-program .content ul > li:nth-child(8) { grid-column: 1; grid-row: 8; }
+div.smm-page #s-program .content ul > li:nth-child(9) { grid-column: 1; grid-row: 9; }
+div.smm-page #s-program .content ul > li:nth-child(10) { grid-column: 1; grid-row: 10; }
+div.smm-page #advantage {background-size: 112px, 150px;}
+div.smm-page #s-details .content > div > div {padding: 10px 54px 10px 20px;}
+
+div.smm-page #s-offer .content > div:nth-child(1) {grid-row: 2;}
+div.smm-page #s-offer::after {box-shadow: none;top: 0%;height: 100%;}
+div.smm-page #s-offer .content > div:nth-child(2) img {max-width: 300px;}
+
+
+}
+
+
+.postid-7079 #sidebar {display: none;}
+
+
+
+.home-desktop-slide-two.vipusk .container {height: 100%; width: 100%;}
+.home-desktop-slide-two.vipusk .row {margin: 0;padding: 0;height: 100%;}
+.home-desktop-slide-two.vipusk .row .col-12 {height: 100%;}
+.home-desktop-slide-two.vipusk .btn.buttonLight.white-black {position: absolute;bottom: 30px;transform: translateX(-50%);left: 50%;}
+.home-desktop-slide-two.vipusk  .container img {max-width: none;display: block;margin: 0 auto;height: 100%;}
+.home-desktop-slide-two.vipusk a {margin: 0;height: 100%;width: 100%;}
+
+
+/*IT-Пространство*/
+.years-8-10 #s-slider::before {background: url(/wp-content/uploads/2019/04/bg_head_left-1.png) no-repeat;background-size: contain;background-position: 0;}
+.years-8-10 #s-slider::after {background: url(/wp-content/uploads/2019/04/bg_head_right-1.png) no-repeat;background-size: inherit;background-position: 100% 30px;}
+.years-8-10 #s-slider .content h1 {padding-left: 0;margin-bottom: 50px;position: relative;}
+.years-8-10 #s-slider .content h1:before {background: url(/wp-content/uploads/2019/04/h1_pattern.png);width: 108px;height: 92px;content: ''; top: -50px;left: -40px;background-size: contain;}
+.years-8-10 #s-details .nav-pills .nav-item:nth-child(2).active {box-shadow: 0px 15px 15px #a6dc0166;}
+.years-8-10 #s-slider .content h1 span { font-weight: normal; display: block; }
+/*.years-8-10 #s-slider .content h1:before {display: none;}*/
+.years-8-10 #s-details h2 {color: #01b9fd;}
+.years-8-10 #s-slider .years {font-size: 21px;color: #01b9fd;}
+
+.years-8-10 #s-details .line::before {background: #bfedfe;}
+.years-8-10 #s-details .content > div > div { background: #01b9fd; box-shadow: 0px 25px 25px 0px rgba(1, 185, 253, 0.25); color: #fff;}
+.years-8-10 #s-details .nav-pills .nav-item.active {box-shadow: 0px 9px 15px 0px rgba(1, 185, 253, 0.25);}
+
+.years-8-10 #about {background: none;}
+.years-8-10 #about .about-img {position: relative;}
+.years-8-10 .mCSB_scrollTools .mCSB_draggerRail {box-shadow: 0px 7px 10px 0px rgba(26, 180, 253, 0.15);}
+.years-8-10 #programms .acc {box-shadow: 0px 10px 20px 0px rgba(0, 185, 253, 0.25);border-radius: 10px;}
+.years-8-10 #advantage .content ul li::before {text-shadow: 0px 15px 15px rgba(0, 185, 253, 0.25);}
+.years-8-10 #advantage .nav-pills .nav-item.active {box-shadow: 0px 10px 15px 0px rgba(0, 185, 253, 0.25);}
+.years-8-10 #about .about-img:before { position: absolute; top: -40px; right: -30px; width: 124px; height: 144px; background: url(/wp-content/uploads/2019/04/bg_lap_hex.png) no-repeat; background-size: contain; content: ''; }
+.years-8-10 #result {background: url(/wp-content/uploads/2019/02/ROUND2.svg) 0 -0px no-repeat; background-size: 182px; }
+.years-8-10 #advantage #pills-tabContent #advantage-two .content ul li::before {text-shadow: 0px 15px 15px #a6dc0166;}
+.years-8-10 #advantage .nav-pills .nav-item.kids.active {box-shadow: 0px 15px 15px #a6dc0166;}
+.years-8-10 #advantage { background: url(/wp-content/uploads/2019/02/ROUND1.svg) 0 0px no-repeat, url(/wp-content/uploads/2019/02/ROUND3.svg) bottom right no-repeat;background-size: 212px, 250px;}
+.years-8-10 #section_discont.discont_8-10 {margin-bottom: 0;padding-bottom: 0;}
+
+div.years-8-10 #section_discont .content > p { text-align: center; font-size: 21px; padding-bottom: 20px;}
+div.years-8-10 #section_discont .content .form > div:nth-child(1) {background: url(/wp-content/uploads/2019/04/contact.png) center no-repeat;background-size: auto;background-size: contain;}
+/*.years-8-10 #programms {background: none;}*/
+
+
+
+
+#new-program h2 { color: #15acf2; text-align: center; padding-bottom: 40px; }
+#new-program .content { display: grid; grid-template-columns: repeat(3, 1fr); grid-column-gap: 30px; position: relative; }
+#new-program .content:before {position: absolute; content: ''; background: url(/wp-content/uploads/2019/02/ROUND3.svg) top left no-repeat; width: 210px; height: 210px; top: -100px; left: -100px; z-index: -1;}
+#new-program .content > div > div { background: #fff; box-shadow: 5.614px 26.41px 68px 0px rgba(26, 31, 31, 0.1); border-radius: 20px; padding: 35px; text-align: center; transition: 0.3s all; }
+#new-program .content > div > div.open { transform: scale(1.03); box-shadow: 5.614px 26.41px 68px 0px rgba(26, 31, 31, 0.2); }
+#new-program .content > div > div.open .head { display: grid; grid-template-columns: 72px 1fr; text-align: left; grid-column-gap: 10px; border-bottom: 1px solid #ededed; }
+#new-program .content > div > div.open .head img { grid-row: 1/3; }
+#new-program .content > div > div.open .text button { border: 1px solid #e6e6e6; background-color: #fff; box-shadow: none; color: #b4b4b4; background-image: none; text-shadow: none; }
+#new-program .content > div img { max-width: 90px; }
+#new-program .content > div h4 { font-size: 18px; font-weight: bold; color: #15acf2; }
+#new-program .content > div p { font-size: 13px; color: #888888; }
+#new-program .content > div .text { margin-top: 20px; }
+#new-program .content > div .text button { border: 4px solid #fff; border-radius: 30px; background-image: -moz-linear-gradient(175deg, #bdf92f 0%, #1cc1f3 100%); background-image: -webkit-linear-gradient(175deg, #bdf92f 0%, #1cc1f3 100%); background-image: -ms-linear-gradient(175deg, #bdf92f 0%, #1cc1f3 100%); padding: 10px 30px; box-shadow: 2.63px 5.393px 21px 0px rgba(26, 31, 31, 0.19); font-size: 13px; color: #fff; line-height: 1.2; text-shadow: 0px 0px 6px rgba(26, 31, 31, 0.34); }
+#new-program .content > div .text ul { text-align: left; display: none; }
+#new-program .content > div .text ul li { font-size: 14px; position: relative; padding-left: 26px; margin-bottom: 8px; }
+#new-program .content > div .text ul li:before { font-family: 'FontAwesome'; color: #fff; font-weight: normal; content: '\f105'; background-image: -moz-linear-gradient(175deg, #bdf92f 0%, #1cc1f3 100%); background-image: -webkit-linear-gradient(175deg, #bdf92f 0%, #1cc1f3 100%); background-image: -ms-linear-gradient(175deg, #bdf92f 0%, #1cc1f3 100%); box-shadow: 3px 3px 4px 0px rgba(26, 31, 31, 0.15); width: 18px; height: 18px; position: absolute; display: inline-block; border-radius: 50%; text-align: center; line-height: 14px; border: 2px solid #fff; left: 0; top: 1px; position: absolute; }
+
+
+#new-program.school .content > div > div { margin-top: 171px; }
+#new-program.school .content > div img { width: 268px; max-width: none; height: 270px; position: relative; margin-top: -171px; }
+#new-program.school .content > div > div.open .head { text-align: center; display: block; }
+#new-program.school .content > div .text ul { padding: 0 0 10px 0; }
+
+
+#new-program.home .content > div > div { margin-top: 80px; }
+#new-program.home .content > div img { width: 145px; max-width: none; height: 151px; position: relative; margin-top: -115px; }
+#new-program.home .content > div > div.open .head { text-align: center; display: block; padding-bottom: 10px; }
+#new-program.home .content > div .text ul { padding: 0 0 10px 0; }
+#new-program.home .content > div h6 { display: none; }
+#new-program.home .content > div h5, #new-program.home .content > div h6 { letter-spacing: normal; }
+#new-program.home .content > div .text button { box-shadow: none; background: none; border: none; display: grid; width: 100%; text-align: center; text-shadow: none; color: #01a5de; font-size: 18px; }
+#new-program.home .content > div .text button img { max-width: 32px; height: 32px; margin: 10px auto; }
+#new-program.home .content > div > div { padding: 35px 35px 10px 35px; }
+#new-program.home .content > div > div.open .text button { border: 0; }
+#new-program.home .content > div h6 { min-height: 36px; }
+
+#new-program.home .content > div > div.tech { background: #fff url(/wp-content/uploads/2019/06/start_bg.png) top no-repeat; background-size: 100%; }
+#new-program.home .content > div > div.business { background: #fff url(/wp-content/uploads/2019/06/game_bg.png) top no-repeat; background-size: 100%;  }
+#new-program.home .content > div > div.soft { background: #fff url(/wp-content/uploads/2019/06/desktop_bg.png) top no-repeat; background-size: 100%; }
+
+#school-target h2 { color: #15acf2; text-align: center; padding-bottom: 40px; }
+#school-target .content { display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 30px; position: relative; text-align: center; }
+#school-target .content img { width: 90px; display: block; margin: 0 auto; }
+
+#prepod .content { display: grid; grid-template-columns: auto 1fr; align-items: center; grid-gap: 40px; }
+#prepod .content h2 { color: #15acf2; font-size: 32px; margin-bottom: 12px;}
+#prepod .content h4 { letter-spacing: normal; font-size: 24px; margin-bottom: 12px; }
+
+.course_cards.course h2 span { color: #15acf2; }
+
+.years-8-10 #s-slider .content { grid-column-gap: 0 !important }
+
+@media (max-width: 992px) {
+	#new-program .content { grid-template-columns: 1fr; grid-row-gap: 30px; }
+	#school-target .content { grid-template-columns: 1fr 1fr; }
+}
+
+@media (max-width: 768px) {
+	.years-8-10 #s-slider::before { display: none; }
+	#s-slider .content h1, #s-slider .content p { padding-bottom: 0px !important; }
+	#s-slider .content { grid-row-gap: 0; }
+	#s-slider { padding-bottom: 0; }
+	.years-8-10 #result { background-size: 120px; }
+	#offer > div h3 { font-size: 25px; font-weight: 400; line-height: normal; }
+	#school-target .content { grid-template-columns: 1fr; }
+	#school-target .content > div { display: grid; grid-template-columns: auto 1fr; grid-column-gap: 20px; align-items: center; text-align: left; }
+	#school-target .content > div > p { margin: 0; }
+	#s-slider .content p.pink-btn { margin-top: 20px; }
+
+	#prepod .content { grid-template-columns: 1fr; text-align: center; grid-gap: 0;}
+}
+
+#smart-header > ul ul li.current_page_item a { color: #15acf2; }
+.course.prepod-block h4, ul.nums-img li h4, .career-guidance h3, section.title-prof .container > div h2, .block-speaker-lab h4, .block-speaker-lab h5, #similar_courses .similar_blocks > div h5 { letter-spacing: normal; }
+.page-id-4242 #result .row > div { grid-template-columns: 1fr; }
+.tc.podpishi { margin-bottom: 20px;}
+
+#who_for h2 { color: #15acf2; }
+#who_for .content img { width: 90px; }
+#who_for .content { display: grid; grid-row-gap: 30px; grid-template-columns: 1fr; }
+#who_for .content > div.scs { display: grid; grid-template-columns: auto 1fr; grid-column-gap: 12px; color: #15acf2; font-size: 21px; align-items: center; box-shadow: 36px 0px 35px 0px rgba(0, 0, 0, 0.09);
+border-radius: 70px; padding: 10px 11px 3px 11px; max-width: 700px; margin: 0 auto; width: 100%; }
+#who_for .content > div.scs.tou { grid-template-columns: 1fr auto; box-shadow: -36px 0px 35px 0px rgba(0, 0, 0, 0.09); }
+#who_for .content > div.scs p { margin: 0; padding-bottom: 7px; line-height: normal; }
+
+.post-4294 .circle-content > div.active { align-items: center; }
+
+
+.smart_col2 { margin-bottom: 20px; display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 30px; text-align: center; }
+
+.open-courses.blog h1 span.description { letter-spacing: 0; }
+
+/*#content-news .summer-camp #branches { margin: 0 -20px; }*/
+#content-news .summer-camp #branches .content > div:nth-child(1) img { max-width: 74px; position: absolute; left: 50%; top: -39px; transform: translate(-50%, -50%); }
+#content-news .summer-camp #branches .content > div:nth-child(3) img { right: -30px; max-width: 74px; position: absolute; left: 50%; top: -39px; transform: translate(-50%, -50%); }
+#content-news .summer-camp #branches .content > div:nth-child(1) { padding: 16px; }
+#content-news .summer-camp #branches .content > div:nth-child(3) { padding: 16px; }
+#content-news .summer-camp #branches .content { padding: 80px 0 0 0; }
+#content-news .summer-camp #branches .content > div.city { top: calc(50% - -40px); }
+#content-news .summer-camp #branches h2 { padding-bottom: 30px; }
+#content-news .summer-camp #branches { padding: 30px 0; }
+
+
+
+
+
+
+
+
+
+

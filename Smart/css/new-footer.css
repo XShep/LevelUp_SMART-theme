@@ -1,0 +1,124 @@
+.home #about { background: none; }
+.home .home-offer { background: none !important; padding-top: 40px; }
+.home .course.email-send { background: none !important; color: #4c4c4c; }
+.home .subscribe-grid .text { color: #4c4c4c; }
+.home .sendpost-title { color: #15acf2; }
+.home .home_news { background: url(/wp-content/uploads/2019/05/news_hex.png) top left no-repeat; }
+.home #similar_courses .similar_blocks > div { background: linear-gradient(45deg, #aaf55a 0%, #00b3fd 100%); }
+.home #similar_courses .similar_blocks > div::before, .home #similar_courses .similar_blocks > div::after { background: none; }
+.home #similar_courses .similar_blocks > div .buttonLight { box-shadow: 0px 13px 49px 0px rgba(255, 19, 125, 0.22); background: linear-gradient(to right, #01c9fe 0%, #08a1ff 100%); border: 6px solid #fff; transition: 0.4s all; }
+.home #similar_courses .similar_blocks > div .buttonLight:hover { box-shadow: 0px 13px 49px 0px rgba(255, 19, 125, 0.22); background: linear-gradient(to right, #ff7800 0%, #ffb505 100%); border: 6px solid #fff; }
+.home #similar_courses .similar_blocks > div .cards > div.date-start { background: #f5fbff; left: 50%; top: 0; transform: translate(-50%, -37px); height: 38px; border-radius: 18px; font-size: 14px; color: #15acf2; padding: 0; width: auto; padding: 0 15px; }
+.home #similar_courses .similar_blocks > div .cards > div.date-start > div > span { display: inline-block; font-size: 29px; }
+.home #similar_courses .similar_blocks > div { padding: 20px; }
+.home .slick-dots li.slick-active button::before { color: #ccd7de; }
+.line-img { position: relative; }
+.line-img::before { content: ''; width: 1px; height: 100%; background: #15acf2; position: absolute; top: -50%; left: 50%; z-index: -1; }
+.hex-bg { background: url(/wp-content/uploads/2019/05/bg_hex_big.png) right center no-repeat; }
+.home a.buttonLight:hover, .home a.sg-show-popup:hover { background: #ff1569; }
+
+#show-map .nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active { border-color: #15acf2; color: #fff; }
+#show-map .nav-link span { display: block; font-size: 12px; }
+#show-map .nav-link.active { background: #15acf2 !important; border: 0; }
+#show-map .nav-tabs { border-bottom: 0; display: flex; }
+#show-map .nav-tabs > a { flex-basis: auto; flex-grow: 1; border-radius: 0; text-align: center; border-right: 1px solid #e8e8e8; }
+#show-map .nav-tabs > a:last-child { border: 0; }
+#show-map .tab-content { background: #fff; }
+#show-map nav { background: #f5f5f5; }
+#show-map .modal-content { border: 0; border-radius: 0; background: none; box-shadow: 0px 0px 32px 0px rgba(26, 31, 31, 0.1); }
+#show-map .modal-header { display: none; }
+#show-map iframe { display: block; }
+#show-map .modal-body { padding: 0; }
+
+.new-footer { background: none; position: relative; }
+.new-footer:before { background: #32afff; top: 75px; left: 0; width: 100%; height: calc(100% - 75px); content: ''; position: absolute; z-index: -1; }
+.new-footer .grid-footer { display: grid; grid-template-columns: 30% 1fr 30%; }
+.new-footer .grid-footer h4 { letter-spacing: normal; font-size: 20px; }
+.new-footer .grid-footer > div { padding-top: 75px; color: #fff; }
+.new-footer .grid-footer > div.center-column { padding-top: 0px; position: relative; padding: 14px 65px 23px 65px; text-align: center; }
+.new-footer .grid-footer > div.center-column aside:before { position: absolute; width: calc(100% - 156px); left: 78px; top: 0; content: ''; background: #32afff; z-index: -1; height: 100%; }
+.new-footer .grid-footer > div.center-column:before { position: absolute; content: url(/wp-content/uploads/2019/05/edge_left.svg); left: 0; top: 0; width: 79px; z-index: -1; }
+.new-footer .grid-footer > div.center-column:after { position: absolute; content: url(/wp-content/uploads/2019/05/edge_right.svg); right: 0; top: 0; width: 79px; z-index: -1; }
+.new-footer .form_input_cf { background: #fff; }
+
+.tip { display: inline-block; cursor: pointer; }
+.tooltip h2 { white-space: nowrap; }
+
+.new-footer .grid-footer .tm-copy > div { display: grid; grid-template-columns: 49px 1fr; align-items: center; grid-column-gap: 20px; margin-top: 35px; }
+.new-footer .grid-footer .soc-block { display: grid; grid-template-columns: auto 1fr; text-align: right; grid-column-gap: 0px; margin-top: 47px; }
+.new-footer .grid-footer .soc-block .s-icons li a { background: url(/wp-content/uploads/2019/05/hex_white.svg) no-repeat; background-size: contain; width: 36px; height: 38px; display: inline-block; font-size: 16px; line-height: 36px; text-align: center; color: #15acf2; }
+.new-footer .grid-footer .soc-block li.yt a { color: #bb0000; }
+.new-footer .grid-footer .soc-block li.in a { color: #e1306c; }
+.new-footer .grid-footer .soc-block li.fb a { color: #3b5998; }
+.new-footer .grid-footer .soc-block ul li { display: inline-block; }
+.new-footer .grid-footer .soc-block ul li a { color: #fff; font-size: 25px; outline: none; }
+.new-footer .grid-footer .soc-block .s-icons-two li a { width: 32px; height: 32px; line-height: 32px; display: inline-block; text-align: center; }
+
+#reviews, #mission { position: relative; }
+#reviews:after { background: url(/wp-content/uploads/2019/05/wave.svg) repeat-x; background-position: 100% 100%; content: ''; width: 100%; height: 100%; left: 0; top: 0; position: absolute; z-index: -2; }
+#mission:after { background: url(/wp-content/uploads/2019/05/wave.svg) repeat-x; background-position: 0% 0%; content: ''; width: 100%; height: 100%; left: 0; top: 0; position: absolute; z-index: -2; }
+#reviews a.buttonLight { margin-top: 30px; }
+#reviews .strong-view.controls-style-buttons3 .wpmslider-start, #reviews .strong-view.controls-style-buttons3 .wpmslider-stop, #reviews .strong-view.controls-style-buttons3 .wpmslider-next, #reviews .strong-view.controls-style-buttons3 .wpmslider-prev { color: #15acf2; }
+#mission { overflow: visible; }
+#mission .blue { background: #25b6fd; color: #fff; border-radius: 30px; padding: 50px 70px; margin-bottom: 70px; text-align: center; position: relative; }
+#mission .blue:before { content: ''; position: absolute; left: -26%; top: -60px; content: url(/wp-content/uploads/2019/05/missinon_left.png); }
+#mission .blue:after { content: ''; position: absolute; right: -21px; bottom: -10px; content: url(/wp-content/uploads/2019/05/mission_right.png); }
+#mission .blue h2 { letter-spacing: 7px; margin-bottom: 20px; font-size: 38px; color: #fff; }
+#mission .blue p { font-size: 24px; }
+#mission .list { display: grid; grid-row-gap: 66px; }
+#mission .list .block { display: grid; grid-template-columns: auto 1fr; align-items: center; }
+#mission .list .block.right { grid-template-columns: 1fr auto; }
+#mission .list .block img { width: 250px; }
+#mission .list .block .text { border-radius: 30px; background: #fff; padding: 35px 47px; box-shadow: 0px 28px 208.55px 6.45px rgba(179, 179, 179, 0.43); }
+#mission .list .block .text h4 { font-size: 22px; margin-bottom: 30px; }
+#mission .list .block .text p { color: #4c4c4c; line-height: 33px; font-size: 18px; }
+
+.home .course.email-send { padding-bottom: 0; }
+
+@media (max-width: 992px) { .new-footer .grid-footer { display: grid; grid-template-columns: 1fr; }
+  .new-footer .grid-footer > div.center-column { grid-row: 1; }
+  .new-footer .grid-footer > div:nth-child(1) { grid-row: 3; }
+  .new-footer .grid-footer > div { padding-top: 0; }
+  .new-footer .grid-footer .soc-block { grid-template-columns: 1fr; text-align: center; grid-row-gap: 30px; margin-top: 20px; }
+  .home .course.email-send { padding-bottom: 40px; }
+  .home .course_cards { padding-bottom: 0 !important; }
+  #mission { overflow: hidden; }
+  .tg-item .tg-dark h2 { letter-spacing: normal; z-index: 999999; color: #000 !important; }
+  .tg-item .tg-dark h2 a { color: #000 !important; }
+  .tg-item .tg-dark span { color: #999999 !important; }
+  #mission .blue { padding: 30px; }
+  #mission .blue h2 { font-size: 30px; }
+  #mission .blue p { font-size: 18px; }
+  #mission .list .block { align-items: start; grid-column-gap: 10px; }
+  #mission .list .block .text { padding: 30px; }
+  #mission .list .block img { width: 90px; }
+  #mission .line-img::before { top: -90%; }
+  #mission .list .block .text p { font-size: 16px; line-height: 24px; }
+  #mission .list .block .text h4 { margin-bottom: 20px; }
+  #similar_courses h2 { padding-bottom: 30px; }
+  .sendpost.change { color: #15acf2 !important; }
+  .home .course.email-send { padding-bottom: 0; }
+  .home .home_news { background: none; }
+  .home-offer ._align-text { padding: 0; }
+  .new-footer .grid-footer .tm-copy { display: inline-block; margin: 0 auto 30px auto; position: relative; left: 50%; transform: translateX(-50%); }
+.new-footer .grid-footer .soc-block .s-icons li a { width: 46px; height: 48px; }
+#show-map .nav-link span { display: block; }
+#mission .blue::before { display: none; }
+.d-none.addresa { display: inline-block !important; margin-top: 30px; }
+.d-none.addresa h4 { margin-bottom: 10px; }
+.d-none.addresa ul { text-align: left; }
+.d-none.addresa ul > li:first-child { padding-bottom: 10px; } }
+
+ul.s-icons-two { position: relative; }
+ul.s-icons-two > li { position: relative; }
+ul.s-icons-two > li > a:hover { color: #a9f45a; cursor: pointer; }
+ul.s-icons-two > li:hover > a i { color: #a9f45a; }
+ul.s-icons-two > li > ul { display: none; }
+ul.s-icons-two > li > ul > li { border-bottom: 1px solid #e4e4e4; padding: 10px 0; display: block !important; white-space: nowrap; }
+ul.s-icons-two > li > ul > li a { display: block !important; width: auto !important; height: auto !important; text-align: left !important; font-size: 15px !important; color: #4c4c4c !important; line-height: normal !important; padding: 0 !important; }
+ul.s-icons-two > li > ul > li:first-child { padding-top: 0; }
+ul.s-icons-two > li > ul > li:last-child { padding-bottom: 0; border: 0; }
+
+
+ul.s-icons-two > li > ul { position: absolute;  left: 50%;  background: #fff;  text-align: left; box-shadow: 0px 0px 32px 0px rgba(26, 26, 31, 0.1);  padding: 21px 24px;  bottom: calc(100% - -10px); transform: translateX(-50%);  color: #000;  font-size: 14px; border-radius: 3px; }
+ul.s-icons-two > li > ul:before {  content: ''; border: 10px solid transparent; border-top: 10px solid #fff; left: calc(50% - 10px); position: absolute; bottom: -20px; z-index: 100; }

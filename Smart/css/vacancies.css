@@ -1,0 +1,100 @@
+.vacantions_page h2 { color: #15acf2; font-size: 38px; }
+.vacantions_page h2 span { display: inline-block; }
+.vacantions_page h4 { letter-spacing: normal; }
+
+.vacantions_page ul.prof_list { display: grid; grid-template-columns: repeat(3, 1fr); grid-gap: 40px; margin: 30px 0 40px 0; }
+.vacantions_page ul.prof_list li { position: relative; padding-left: 20px; }
+.vacantions_page ul.prof_list li:before { content: ''; background-image: -moz-linear-gradient(90deg,#4cde8e 0,#01b6fc 99%); background-image: -webkit-linear-gradient(90deg,#4cde8e 0,#01b6fc 99%); background-image: -ms-linear-gradient(90deg,#4cde8e 0,#01b6fc 99%); position: absolute; border-radius: 30px; width: 7px; height: 31px; left: 0; top: 0; }
+
+#vac_banner { background: url(/wp-content/uploads/2019/09/vac_top_right.png) top right no-repeat, url(/wp-content/uploads/2019/09/vac_top_left.png) center left no-repeat; background-size: auto auto, contain;  position: relative; margin-bottom: 47px; }
+#vac_banner .content { text-align: center; }
+#vac_banner .content { background: url(/wp-content/uploads/2019/09/vac_slider_bottom.png) bottom right no-repeat; }
+#vac_banner .content h1 { color: #15acf2; letter-spacing: normal; padding-top: 130px; font-size: 38px; padding-bottom: 60px; }
+#vac_banner .content p { color: #4c4c4c; padding-bottom: 70px; width: 100%; max-width: 625px; margin: 0 auto; }
+#vac_banner .content p.description:before { display: none; }
+#vac_banner .content .teachers img { display: block; margin: 0 auto; }
+#vac_banner .content .btns { position: absolute; bottom: 0; left: 50%; transform: translate(-50%, 50%); background: #fff; padding: 20px; border-radius: 50px 50px 0 0; }
+#vac_banner .content .btns a.sg-show-popup { background-image: -moz-linear-gradient(-90deg, #01c9fe 0%, #08a1ff 100%); background-image: -webkit-linear-gradient(-90deg, #01c9fe 0%, #08a1ff 100%); background-image: -ms-linear-gradient(-90deg, #01c9fe 0%, #08a1ff 100%); box-shadow: 0px 20px 40px 0px rgba(102, 114, 119, 0.4); border: 0; font-size: 14px; white-space: nowrap; }
+#vac_banner .content .btns a.sg-show-popup:hover { background-image: -moz-linear-gradient(-90deg, #01c9fe 0%, #08a1ff 100%); background-image: -webkit-linear-gradient(-90deg, #01c9fe 0%, #08a1ff 100%); background-image: -ms-linear-gradient(-90deg, #01c9fe 0%, #08a1ff 100%); box-shadow: 0px 20px 40px 0px rgba(102, 114, 119, 0.6); border: 0; }
+
+#vac_about .container > p { max-width: 625px; margin: 0 auto 40px auto; }
+#vac_about .container .content { display: grid; grid-template-columns: 1fr 1fr; grid-gap: 40px; }
+#vac_about .container .content h4 { letter-spacing: normal; color: #15acf2; margin-bottom: 35px; }
+#vac_about .container .content ul { list-style: disc; margin: 0 20px 30px 20px; }
+#vac_about .container .blue-block { background: linear-gradient(to left, #01c9fe 0%, #08a1ff 100%); color: #fff; box-shadow: 0px 35px 90px 0px rgba(102, 114, 119, 0.3); border-radius: 30px; padding: 30px 40px; max-width: 600px; width: 100%; margin: 0 auto 50px auto; text-align: center; }
+#vac_about .container .blue-block .columns-two { display: grid; grid-template-columns: 1fr; align-items: center; }
+#vac_about .container .blue-block .columns-two a.sg-show-popup { background-image: -moz-linear-gradient(90deg, #ff7800 0%, #ffb505 100%); background-image: -webkit-linear-gradient(90deg, #ff7800 0%, #ffb505 100%); background-image: -ms-linear-gradient(90deg, #ff7800 0%, #ffb505 100%); box-shadow: 0px 20px 40px 0px rgba(102, 114, 119, 0.4); border: 0; font-size: 14px; white-space: nowrap; }
+#vac_about .container .blue-block .columns-two a.sg-show-popup:hover { background-image: -moz-linear-gradient(90deg, #ff7800 0%, #ffb505 100%); background-image: -webkit-linear-gradient(90deg, #ff7800 0%, #ffb505 100%); background-image: -ms-linear-gradient(90deg, #ff7800 0%, #ffb505 100%); box-shadow: 0px 20px 40px 0px rgba(102, 114, 119, 0.6); border: 0; }
+#vac_about .container > h2:first-child { font-size: 27px; line-height: normal; letter-spacing: normal; }
+#vac_about .container > h2 span { color: #15acf2; }
+#vac_about .container > h4 { font-size: 21px; letter-spacing: normal; font-weight: bold; color: #000; line-height: normal; }
+#are_looking { position: relative; }
+#are_looking .content { display: grid; grid-template-columns: 1fr auto; align-items: center; grid-gap: 40px; }
+#are_looking .content > div { display: block; }
+#are_looking .content .vacancies_grid { display: grid; grid-template-columns: 200px 200px 200px; grid-gap: 20px; }
+#are_looking .content .vacancies_grid .block-slide { border-radius: 10px; overflow: hidden; box-shadow: 0px 12px 22px 0px rgba(102, 114, 119, 0.14); background: #fff; display: grid; max-width: 200px; }
+#are_looking .content .vacancies_grid .block-slide img { margin: 0; padding: 0; }
+#are_looking .content .vacancies_grid .block-slide h4 { font-size: 16px; font-family: 'radomir-tinkov-gilroy-extrabold'; line-height: normal; margin: 20px 25px; }
+#are_looking .content .vacancies_grid .block-slide p { padding: 0 25px 0px 25px; }
+#are_looking .content .vacancies_grid .block-slide .foot { display: grid; grid-template-columns: 1fr 1fr; align-items: center; padding: 0 25px 20px 25px; font-size: 14px; }
+#are_looking .content .vacancies_grid .block-slide .foot > div:nth-child(2) { text-align: right; }
+
+#are_modules .content { display: grid; grid-template-columns: 1fr 1fr; align-items: start; grid-gap: 40px; }
+#are_modules .content h4 { letter-spacing: normal; color: #15acf2; margin-bottom: 35px; }
+#are_modules .content ul { list-style: disc; margin: 30px 20px; }
+#are_modules .content .blue-block { background: linear-gradient(to left, #01c9fe 0%, #08a1ff 100%); color: #fff; box-shadow: 0px 35px 90px 0px rgba(102, 114, 119, 0.3); border-radius: 30px; padding: 30px 40px; text-align: center; }
+#are_modules .content .blue-block strong { display: block; }
+#are_modules .content .blue-block a.sg-show-popup { background-image: -moz-linear-gradient(90deg, #ff7800 0%, #ffb505 100%); background-image: -webkit-linear-gradient(90deg, #ff7800 0%, #ffb505 100%); background-image: -ms-linear-gradient(90deg, #ff7800 0%, #ffb505 100%); box-shadow: 0px 20px 40px 0px rgba(102, 114, 119, 0.4); border: 0; font-size: 14px; }
+#are_modules .content .blue-block a.sg-show-popup:hover { background-image: -moz-linear-gradient(90deg, #ff7800 0%, #ffb505 100%); background-image: -webkit-linear-gradient(90deg, #ff7800 0%, #ffb505 100%); background-image: -ms-linear-gradient(90deg, #ff7800 0%, #ffb505 100%); box-shadow: 0px 20px 40px 0px rgba(102, 114, 119, 0.6); border: 0; }
+
+#vac_contacts .content .form-feed { border-radius: 30px; background-image: -moz-linear-gradient(-180deg, #08a1ff 0%, #01c9fe 100%); background-image: -webkit-linear-gradient(-180deg, #08a1ff 0%, #01c9fe 100%); background-image: -ms-linear-gradient(-180deg, #08a1ff 0%, #01c9fe 100%); box-shadow: 0px 17px 18px 0px rgba(119, 138, 145, 0.24); padding: 0 60px; max-width: 1000px; margin: 0 auto; display: grid; grid-template-columns: 1fr 1fr; align-items: center; }
+#vac_contacts .content .form-feed > div { padding: 60px 0; }
+#vac_contacts .content .form-feed > div.image-bg { background: url(/wp-content/uploads/2019/08/img_form.png) bottom center no-repeat; background-size: contain; padding: 0; height: 100%; }
+#vac_contacts .content .form-feed > div h4 { font-size: 24px; color: #fff; line-height: normal; text-align: center; font-weight: bold; }
+#vac_contacts .content .form-feed > div .wpcf7-form p { margin: 0; }
+#vac_contacts .content .form-feed > div .form_input_cf { width: 100%; border-color: #fff; }
+#vac_contacts .content .form-feed > div .form_input_cf .wpcf7-form-control-wrap input { padding: 0; }
+#vac_contacts .content .form-feed > div .form_input_cf .wpcf7-form-control-wrap input::placeholder { color: #fff; }
+#vac_contacts .content .form-feed .span.wpcf7-not-valid-tip { position: absolute; top: -2px; right: 10px; margin: 0; color: #fff; border-radius: 0 10px 10px 0; }
+
+
+@media (max-width: 1600px) {
+  #vac_banner { background-size: 400px,contain; }
+}
+
+
+@media (max-width: 1440px) {
+  #vac_banner { background-size: 350px,contain; }
+}
+
+
+
+
+@media (max-width: 992px) { .vacantions_page h2, #vac_banner .content h1 { font-size: 32px; }
+#vac_banner { background-size: 250px,contain; }
+  div#vac_about.course, #are_modules.course { padding-top: 10px; }
+  .vacantions_page ul.prof_list { grid-template-columns: 1fr 1fr; }
+  #are_looking .content { grid-template-columns: 1fr; }
+  #are_looking .content > div:first-child { display: none; }
+  #vac_about .container .content { grid-template-columns: 1fr; }
+  div#vac_about.course, div#are_modules.course { padding-bottom: 0; }
+  #are_looking.course, #vac_contacts.course { padding-top: 0; }
+  #are_modules .content { grid-template-columns: 1fr; }
+  #vac_contacts .content .form-feed { grid-template-columns: 1fr; }
+  #vac_contacts .content .form-feed > div.image-bg { display: none; }
+  #vac_contacts .submit_cf { padding-bottom: 0; } }
+@media (max-width: 768px) { #are_looking .content .vacancies_grid { grid-template-columns: 200px 200px; }
+#vac_banner { background-size: 150px,contain;}
+#vac_banner .content h1 { padding-top: 80px; }
+  #are_looking .content { display: block; width: 100%; margin: 0 auto; max-width: 420px; }
+  .vacantions_page h2, #vac_banner .content h1 { font-size: 24px; }
+  #vac_about .container .content .blue-block .columns-two { grid-template-columns: 1fr; grid-gap: 20px; text-align: center; }
+  #vac_contacts .content .form-feed > div { padding: 35px 0; }
+  #vac_contacts .content .form-feed { padding: 0 35px; }
+  #vac_banner .content h1 { padding-top: 50px; }
+  #are_looking .content { max-width: 500px; }
+  #are_looking .content .vacancies_grid .block-slide { max-width: 500px; }
+  .vacantions_page ul.prof_list { grid-template-columns: 1fr; }
+  div.wpcf7 .ajax-loader { position: absolute; } }
+@media (max-width: 460px) { #are_looking .content .vacancies_grid { grid-template-columns: 1fr; }
+  #are_looking .content { max-width: 200px; } }

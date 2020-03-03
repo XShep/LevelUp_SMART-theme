@@ -1,0 +1,350 @@
+@media (min-width: 769px) {
+.menu-smart {
+    padding-right: 42px;
+}
+}
+.menu-container {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.menu-mobile {
+    display: none;
+    padding: 29px 20px 28px 20px;
+}
+
+.menu-mobile:after {
+    content: "\f0c9";
+    font-family: FontAwesome;
+    font-size: 18px;
+    padding: 0;
+    float: none;
+    position: relative;
+    top: 0;
+    -webkit-transform: translateY(-25%);
+    -ms-transform: translateY(-25%);
+    transform: translateY(-25%);
+}
+
+.menu-dropdown-icon:before {
+    content: "\f107";
+    font-family: FontAwesome;
+    display: none;
+    cursor: pointer;
+    float: right;
+    padding: 1.5em 2em;
+    background: #fff;
+    color: #333;
+}
+
+.menu-smart > ul {
+    margin: 0 auto;
+    width: 100%;
+    list-style: none;
+    padding: 0;
+    box-sizing: border-box;
+    right: 0;
+}
+
+.menu-smart > ul:before,
+.menu-smart > ul:after {
+    content: "";
+    display: table;
+}
+
+.menu-smart > ul:after {
+    clear: both;
+}
+
+.menu-smart > ul > li {
+    float: left;
+    padding: 0;
+    margin: 0;
+}
+
+.menu-smart > ul > li a {
+    text-decoration: none;
+    transition: 0.3s all;
+    padding: 33px 17px 32px 17px;
+    font-size: 16px;
+    display: block;
+    color: #4c5867;
+    font-weight: normal;
+}
+
+.menu-smart > ul > li:hover {
+    background: #f1f5f8;
+}
+.menu-smart > ul > li:hover > a { color: #15acf2; }
+.menu-smart > ul > li > ul {
+    display: none;
+    width: 100%;
+    background: #fff;
+    box-shadow: 0 5px 25px 0 rgba(57, 69, 54, 0.16);
+    position: absolute;
+    z-index: 99;
+    left: 0;
+    margin: 0;
+    list-style: none;
+    box-sizing: border-box;
+    padding: 20px;
+}
+
+.menu-smart > ul > li > ul:before,
+.menu-smart > ul > li > ul:after {
+    content: "";
+    display: table;
+}
+
+.menu-smart > ul > li > ul:after {
+    clear: both;
+}
+
+.menu-smart > ul > li > ul > li {
+    margin: 0;
+    padding-bottom: 0;
+    list-style: none;
+    background: none;
+    float: left;
+    margin: 0 10px;
+    width: calc(25% - 20px);
+
+}
+
+
+.menu-smart > ul > li > ul > li a {
+    color: #777;
+    padding: .2em 0;
+    width: 100%;
+    display: block;
+    border-bottom: 1px solid #ccc3;
+    font-size: 14px;
+}
+
+.menu-smart > ul > li > ul > li > a {
+    font-weight: bold;
+}
+
+.menu-smart > ul > li > ul.normal-sub > li > a {
+    font-weight: normal;
+}
+
+.menu-smart > ul > li.active { background: #e7eef3; color: #15acf2; }
+.menu-smart > ul > li.active > a { color: #15acf2; }
+.menu-smart > ul > li > ul > li.active > a, .menu-smart > ul > li > ul > li > ul > li.active a { font-weight: 600; color: #15acf2; }
+
+.menu-smart > ul > li > ul.normal-sub > li:hover > a {
+    color: #15acf2;
+}
+
+.menu-smart > ul > li > ul > li > ul > li:hover a { color: #15acf2;}
+
+
+.menu-smart > ul > li > ul > li > ul {
+    display: block;
+    padding: 0;
+    margin: 10px 0 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+.menu-smart > ul > li > ul > li > ul:before,
+.menu-smart > ul > li > ul > li > ul:after {
+    content: "";
+    display: table;
+}
+
+.menu-smart > ul > li > ul > li > ul:after {
+    clear: both;
+}
+
+.menu-smart > ul > li > ul > li > ul > li {
+    float: left;
+    width: 100%;
+    padding: 10px 0 10px 14px;
+    margin: 0;
+    font-size: .8em;
+    border-bottom: 1px solid #ededed99;
+    position: relative;
+}
+
+.menu-smart > ul > li > ul > li > ul > li:before {
+    content: "\f105";
+    font-family: FontAwesome;
+    position: absolute;
+    top: 13px;
+    color: #15acf2;
+    left: 0;
+}
+
+.menu-smart > ul > li > ul.normal-sub > li { position: relative; padding: 0 0 0 14px; }
+.menu-smart > ul > li > ul.normal-sub > li:before {
+    content: "\f105";
+    font-family: FontAwesome;
+    position: absolute;
+    top: 13px;
+    color: #15acf2;
+    left: 0;
+}
+
+.menu-smart > ul > li > ul > li > ul > li:last-child { border: 0; }
+
+.menu-smart > ul > li > ul > li > ul > li a {
+    border: 0;
+}
+
+.menu-smart > ul > li > ul.normal-sub {
+    width: 300px;
+    left: auto;
+    padding: 10px 20px;
+}
+
+.menu-smart > ul > li > ul.normal-sub > li {
+    width: calc(100% - 20px);
+    border-bottom: 1px solid #ededed99;
+}
+.menu-smart > ul > li > ul.normal-sub > li:last-child {
+    border: 0;
+}
+.menu-smart > ul > li > ul.normal-sub > li a {
+    border: 0;
+    padding: 1em 0;
+}
+
+
+/* ––––––––––––––––––––––––––––––––––––––––––––––––––
+Mobile style's
+–––––––––––––––––––––––––––––––––––––––––––––––––– */
+
+@media only screen and (max-width: 992px) {
+    .menu-mobile {
+        display: block;
+    }
+    .menu-dropdown-icon:before {
+        display: block;
+    }
+    .menu-smart > ul {
+        display: none;
+    }
+    .menu-smart > ul > li {
+        width: 100%;
+        float: none;
+        display: block;
+    }
+    .menu-smart > ul > li a {
+        padding: 1.5em;
+        width: 100%;
+        display: block;
+    }
+    .menu-smart > ul > li > ul {
+        position: relative;
+    }
+    .menu-smart > ul > li > ul.normal-sub {
+        width: 100%;
+    }
+    .menu-smart > ul > li > ul > li {
+        float: none;
+        width: 100%;
+        margin-top: 20px;
+    }
+    .menu-smart > ul > li > ul > li:first-child {
+        margin: 0;
+    }
+    .menu-smart > ul > li > ul > li > ul {
+        position: relative;
+        ;
+    }
+.menu-smart > ul > li > ul > li > ul > li > a { font-size: 14px !important }
+    .menu-smart > ul > li > ul > li > ul > li {
+        float: none;
+    }
+    .menu-smart .show-on-mobile {
+        display: block;
+border-top: 1px solid #ededed;
+    }
+}
+
+.show-on-mobile {
+    box-shadow: 0 5px 25px 0 rgba(57, 69, 54, 0.16);
+    border-left: 1px solid #e7eaed;
+border-right: 1px solid #e7eaed;
+border-bottom: 1px solid #e7eaed;
+position: absolute !important;
+left: 0;
+top: 81px;
+}
+
+
+.menu-smart > ul > li > a { border: none; position: relative; }
+.menu-smart > ul > li:last-child a { border: 0; }
+.menu-smart > ul > li.menu-dropdown-icon:hover > a:before { content: ''; border: 10px solid transparent; border-bottom: 10px solid #fff; left: calc(50% - 10px); position: absolute; bottom: 0px; z-index: 100; }
+
+.menu-smart > ul > li > ul.normal-sub::before {
+    left: 20px;
+}
+
+@media only screen and (max-width: 992px) {
+    .menu-smart > ul > li > ul:before {
+        left: 20px;
+    }
+
+    .menu-smart > ul > li > ul {
+        background: #f1f5f8;
+        box-shadow: none;
+    }
+.menu-smart > ul > li > a { border-bottom: 1px solid #ededed99; }
+    .show-on-mobile { background: #fff; max-height: 80vh; overflow-y: scroll; }
+
+    .menu-smart > ul > li > ul::before {
+        border-bottom: 10px solid #f1f5f8;
+    }
+
+    .menu-dropdown-icon::before { background: #f1f5f8; border-bottom: 1px solid #e7eaed; position: absolute; right: 0; }
+    .menu-smart > ul > li.menu-dropdown-icon > a {margin-right: 70px;width: calc(100% - 70px);}
+    .menu-smart > ul > li > ul.normal-sub > li { width: 100%; }
+    .menu-smart > ul > li > ul > li { margin: 0; }
+    .menu-smart > ul > li > ul.normal-sub > li { border-bottom: 1px solid #e7eaed; }
+    .menu-smart > ul > li:hover { background: none; }
+
+
+
+
+
+#header .container {
+    position: relative;
+    display: grid;
+    grid-template-columns: 78px auto 78px;
+    padding: 0 15px;
+    height: 81px;
+}
+
+.menu-mobile {
+    padding: 0;
+    border: 1px solid transparent;
+    border-color: rgb(230, 230, 230);
+    display: inline-block;
+    border-radius: 3px;
+    width: 38px;
+    height: 38px;
+    text-align: center;
+    line-height: 38px;
+}
+
+.menu-smart { text-align: right; }
+.show-on-mobile { text-align: left; }
+
+
+}
+
+.menu-smart > ul > li > ul > li > a { position: relative; padding-left: 26px; }
+.menu-smart > ul > li > ul > li > a:after { position: absolute; content: ''; width: 16px; height: 16px; background: #15acf2; border-radius: 30px; left: 0; top: 5px; }
+
+.menu-smart > ul > li > ul > li:nth-child(1) > a:after { background: #f49a19; }
+.menu-smart > ul > li > ul > li:nth-child(2) > a:after { background: #8fd800; }
+.menu-smart > ul > li > ul > li:nth-child(3) > a:after { background: #ffde00; }
+
+.menu-smart > ul > li > ul.normal-sub > li > a:after { display: none; }
+
+
+
+.navbar { padding: 0; }

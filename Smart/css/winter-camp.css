@@ -1,0 +1,196 @@
+.page-id-8696 .wpcf7-form p.img_top_cf { width: 100%; }
+.wcamp #contacts div.wpcf7-mail-sent-ok { border: 0; bottom: -20px; margin: 0; padding: 0; font-size: 14px; font-weight: 600; }
+.wcamp #contacts div.wpcf7 .ajax-loader { position: absolute; }
+
+.page-id-8696 .wpcf7-form p.img_top_cf img { max-width: 90px; }
+
+.page-id-8696 .sg-popup-content .wpcf7-form p.submit_cf { padding: 20px 0 30px 0; }
+
+#footer .wpcf7-form { overflow: visible; }
+
+.wcamp h1, .wcamp h2, .wcamp h3, .wcamp h4, .wcamp h5, .wcamp h6 { letter-spacing: normal; }
+@media (min-width: 1200px) { .wcamp .container { max-width: 1200px; } }
+.wcamp .big-right-pattern { background: url(https://uaitsmart.com/wp-content/uploads/2019/12/right_big_patter.png) no-repeat; background-position: 100% 180px; background-size: 400px; }
+.wcamp .big-left-pattern { background: url(https://uaitsmart.com/wp-content/uploads/2019/12/left_big_pattern.png) no-repeat; background-position: 0% 180px; background-size: 400px; }
+.wcamp #winter_banner { padding: 0; position: relative; }
+.wcamp #winter_banner .camp_slider { background: url(https://uaitsmart.com/wp-content/uploads/2019/12/winter_camp_banner.jpg) center no-repeat; background-size: cover; }
+.wcamp #winter_banner .camp_slider img { display: block; }
+.wcamp #winter_banner .container { position: absolute; top: 0; transform: translateX(-50%); left: 50%; height: 100%; z-index: 33; display: grid; }
+.wcamp #winter_banner .container .content { display: grid; grid-template-columns: 1fr 55%; align-items: center; }
+.wcamp #winter_banner .container .content .text { text-align: center; }
+.wcamp #winter_banner .container .content .text .date-start { color: #fff; font-size: 24px; margin: 20px 0; }
+.wcamp #winter_banner .container .content .text h1 { color: #fff; font-size: 42px; font-weight: 500; }
+.wcamp #winter_banner .container .content .text h1 span { display: block; }
+.wcamp #winter_banner .container .content .text .pe-img { margin: 30px 0 40px 0; }
+.wcamp #winter_banner .container .content .text .pe-img img { display: block; }
+.wcamp #winter_banner .container .content .text .location-block { background-color: #00178d30; border-radius: 10px; display: grid; grid-template-columns: 1fr 1fr; grid-gap: 70px; padding: 20px 35px; }
+.wcamp #winter_banner .container .content .text .location-block > div { display: grid; grid-template-columns: 30px 1fr; align-items: center; grid-gap: 20px; color: #fff; }
+.wcamp #winter_banner .container .content .text .location-block > div img { max-height: 30px; margin: 0 auto; }
+.wcamp #winter_banner .container .content .text .location-block > div p { font-size: 18px; line-height: normal; }
+.wcamp #winter_banner .container .content .text .location-block > div:nth-child(1) { position: relative; }
+.wcamp #winter_banner .container .content .text .location-block > div:nth-child(1):before { content: ''; width: 1px; height: 80%; top: 10%; right: -35px; position: absolute; background: #ffde00; }
+.wcamp #winter_banner .container .content .text .location-block > div span { display: block; }
+.wcamp #winter_banner .container .content .image { align-self: end; }
+.wcamp #winter_banner .container .content .image img { display: block; }
+.wcamp #winter_banner .container .content .head_btn { position: absolute; bottom: 0; width: auto; left: 50%; transform: translate(-50%, 50%); background: #fff; padding: 20px; border-radius: 50px 50px 0 0; }
+.wcamp #winter_banner .container .content .head_btn a.sg-show-popup { background-image: -moz-linear-gradient(0deg, #ffe63e 20%, #ffc000 100%); background-image: -webkit-linear-gradient(0deg, #ffe63e 20%, #ffc000 100%); background-image: -ms-linear-gradient(0deg, #ffe63e 20%, #ffc000 100%); box-shadow: 0px 16px 35px 0px rgba(0, 0, 0, 0.17); border: 0 !important; line-height: normal; text-align: center; color: #444444 !important; max-width: 300px; padding: 8px 35px; font-size: 16px; }
+.wcamp #winter_banner .container .content .head_btn a.sg-show-popup strong { display: inline-block; position: relative; }
+.wcamp #winter_banner .container .content .head_btn a.sg-show-popup strong:after { background: url(/wp-content/uploads/2018/07/Icon-Button-Arrow-Black.svg) center center no-repeat; content: ""; width: 18px; height: 18px; position: absolute; transition: .2s; transform: translateZ(0); transition-duration: .1s; transition-property: transform; transition-timing-function: ease-out; top: 2px; right: -25px; }
+.wcamp #winter_banner .container .content .head_btn a.sg-show-popup:after { display: none; }
+.wcamp #winter_banner .container .content .head_btn a.sg-show-popup:hover { background-image: -moz-linear-gradient(0deg, #ffe63e 50%, #ffc000 100%); background-image: -webkit-linear-gradient(0deg, #ffe63e 50%, #ffc000 100%); background-image: -ms-linear-gradient(0deg, #ffe63e 50%, #ffc000 100%); }
+.wcamp #winter_banner .container .content .head_btn a.sg-show-popup:hover strong:after { transition: .2s; -webkit-transform: translateX(4px); transform: translateX(4px); }
+.wcamp #winter_banner .container .content .timer-block { text-align: center; }
+.wcamp #winter_banner .container .content .timer-block .eTimer { background: none !important; font-family: Montserrat !important; padding: 0; }
+.wcamp #winter_banner .container .content .timer-block .eTimer .etTitle { display: none; }
+.wcamp #winter_banner .container .content .timer-block .eTimer .etSep { font-size: 54px; }
+.wcamp #winter_banner .container .content .timer-block .eTimer .etUnit .etNumber { font-family: Montserrat !important; font-size: 54px; font-weight: 900; box-shadow: none !important; }
+.wcamp #winter_banner .container .content .timer-block .eTimer .etSign { color: #fff; font-size: 18px; }
+.wcamp #about { background: url(https://uaitsmart.com/wp-content/uploads/2019/12/about_pattern.png) no-repeat; background-size: initial; background-position: 3% 53%; padding: 95px 0 65px 0; }
+.wcamp #about .content { max-width: 700px; margin: 0 auto; line-height: 28px; }
+.wcamp #figures { padding: 0 0 65px 0; }
+.wcamp #figures .content { display: grid; grid-template-columns: 1fr 1fr; align-items: center; grid-gap: 50px; }
+.wcamp #figures .content .text { display: grid; grid-template-columns: 1fr 1fr; grid-gap: 50px; background: url(https://uaitsmart.com/wp-content/uploads/2019/12/num_pattern.png) center center no-repeat; background-size: contain; }
+.wcamp #figures .content .text .count .num { font-size: 60px; color: #00a8ff; font-weight: 800; }
+.wcamp #capabilities .content { display: grid; grid-template-columns: 40% 1fr; align-items: center; grid-gap: 50px; }
+.wcamp #capabilities .content .image h4 { font-weight: 800; color: #00a8ff; margin-bottom: 40px; }
+.wcamp #capabilities .content .text ul { display: grid; grid-template-columns: 1fr 1fr; grid-gap: 50px; }
+.wcamp #capabilities .content .text ul li { font-weight: 800; font-size: 20px; color: #00a8ff; line-height: normal; position: relative; padding-left: 50px; }
+.wcamp #capabilities .content .text ul li span { color: #444444; font-size: 16px; font-weight: normal; display: block; }
+.wcamp #capabilities .content .text ul li:before { content: ''; width: 27px; height: 30px; background: url(https://uaitsmart.com/wp-content/uploads/2019/12/check.svg) center no-repeat; background-size: contain; left: 0; top: 0; position: absolute; }
+.wcamp #camp_ode_day { padding: 65px 0; }
+.wcamp #camp_ode_day .content { display: grid; grid-template-columns: 1fr 1fr; align-items: center; grid-gap: 50px; }
+.wcamp #camp_ode_day .content .text { position: relative; }
+.wcamp #camp_ode_day .content .text .text-before { position: absolute; font-size: 110px; font-weight: 900; color: #f6f6f6; top: 0; z-index: -1; line-height: normal; white-space: nowrap; }
+.wcamp #camp_ode_day .content .text h2 { font-weight: 800; color: #00a8ff; margin-bottom: 30px; }
+.wcamp #camp_ode_day .content .text h4 { margin-bottom: 30px; font-size: 24px; color: #444444; }
+.wcamp #camp_ode_day .content .text h5 { font-weight: 800; color: #00a8ff; font-size: 20px; margin-bottom: 30px; }
+.wcamp #camp_ode_day .content .text ul { display: grid; grid-template-columns: 1fr 1fr; grid-gap: 40px; }
+.wcamp #camp_ode_day .content .text ul li { padding-left: 20px; position: relative; line-height: normal; }
+.wcamp #camp_ode_day .content .text ul li strong { display: inline-block; }
+.wcamp #camp_ode_day .content .text ul li:before { content: ''; position: absolute; left: 0; top: 0; width: 6px; height: 23px; background: #b80119; border-radius: 3px; }
+.wcamp #camp_cards .content { display: grid; grid-template-columns: 1fr 1fr 1fr; grid-gap: 65px; }
+.wcamp #camp_cards .content .card { border-radius: 10px; background: #00a8ff; overflow: hidden; color: #fff; box-shadow: 0px 38px 76px 0px rgba(0, 0, 0, 0.2); }
+.wcamp #camp_cards .content .card .img { position: relative; }
+.wcamp #camp_cards .content .card .img img { display: block; }
+.wcamp #camp_cards .content .card .img:before { content: ''; position: absolute; height: 80px; width: 100%; bottom: 0; background: linear-gradient(to top, #00a8ff 0%, rgba(0, 0, 0, 0) 100%); }
+.wcamp #camp_cards .content .card h4 { padding: 20px 40px; color: #ffe21f; font-weight: 800; font-size: 20px; line-height: normal; }
+.wcamp #camp_cards .content .card p { padding: 0 40px 40px 40px; line-height: normal; }
+.wcamp #what_awaits { padding: 65px 0; }
+.wcamp #what_awaits .content { display: grid; grid-template-columns: 1fr 1fr; position: relative; align-items: center; }
+.wcamp #what_awaits .content .gallery .reviews-video-home { max-width: 493px; width: 100%; box-shadow: -13.2px 49.262px 79px 0 rgba(2, 36, 86, 0.31); margin-bottom: 0; }
+.wcamp #what_awaits .content .gallery .reviews-video-home .slick-slide { padding: 0; }
+.wcamp #what_awaits .content .gallery .reviews-video-home .slick-slide img { border-radius: 5px; }
+.wcamp #what_awaits .content h2 { font-weight: 800; color: #00a8ff; margin-bottom: 30px; }
+.wcamp #what_awaits .content .text-before { position: absolute; font-size: 110px; font-weight: 900; color: #f6f6f6; top: 0; z-index: -1; line-height: 103px; max-width: 600px; }
+.wcamp #what_awaits .content .text ul { display: grid; grid-template-columns: 1fr 1fr; grid-gap: 35px; }
+.wcamp #what_awaits .content .text ul li { position: relative; padding-left: 23px; }
+.wcamp #what_awaits .content .text ul li:before { position: absolute; content: ''; width: 17px; height: 17px; background: #1bc4f7; border: 5px solid #e8faff; border-radius: 30px; left: 0; top: 5px; }
+.wcamp #camp_reviews .content { display: grid; grid-template-columns: 30% 1fr; grid-gap: 40px; align-items: center; }
+.wcamp #camp_reviews .content .text h2 { margin-bottom: 30px; }
+.wcamp #camp_reviews .content .text h2 span { display: block; font-weight: 800; color: #00a8ff; }
+.wcamp #camp_reviews .content .text p { font-size: 24px; }
+.wcamp #camp_reviews .content .reviews-camp .slick-initialized .slick-slide { padding: 20px 30px; }
+.wcamp #camp_reviews .content .reviews-camp .block-review { display: grid; grid-template-columns: 140px 1fr; grid-gap: 30px; align-items: center; box-shadow: 0 10px 15px 0 rgba(25, 33, 63, 0.1); background: #fff; border-radius: 10px; padding: 20px 30px; position: relative; overflow: hidden; }
+.wcamp #camp_reviews .content .reviews-camp .block-review > div { position: relative; z-index: 2; }
+.wcamp #camp_reviews .content .reviews-camp .block-review .reviews-video-home { max-width: 600px; }
+.wcamp #camp_reviews .content .reviews-camp .block-review .photo img { border-radius: 50%; }
+.wcamp #camp_reviews .content .reviews-camp .block-review:before { position: absolute; content: ''; height: 100%; width: 100px; left: 0; top: 0; background-image: -moz-linear-gradient(-90deg, #fff000 0%, #ffb20d 100%); background-image: -webkit-linear-gradient(-90deg, #fff000 0%, #ffb20d 100%); background-image: -ms-linear-gradient(-90deg, #fff000 0%, #ffb20d 100%); }
+.wcamp #camp_reviews .content .reviews-camp .block-review .text h3 { font-size: 30px; font-weight: 800; color: #00a8ff; }
+.wcamp #camp_reviews .content .reviews-camp .block-review .text h5 { font-size: 18px; font-weight: bold; color: #777777; margin-bottom: 30px; }
+.wcamp #camp_reviews .content .reviews-camp .block-review .text p { font-size: 16px; color: #444444; line-height: normal; }
+.wcamp #camp_details { padding: 85px 0; background: url(https://uaitsmart.com/wp-content/uploads/2019/12/contacts_pattern.png) no-repeat; background-size: initial; background-position: 100% 53%; }
+.wcamp #camp_details .content { display: grid; grid-template-columns: 1fr 355px; align-items: center; grid-gap: 70px; max-width: 900px; margin: 0 auto; }
+.wcamp #camp_details .content .left-block { text-align: center; }
+.wcamp #camp_details .content .left-block h2 { display: block; font-weight: 800; color: #00a8ff; }
+.wcamp #camp_details .content .left-block .star-block { display: inline-block; margin: 30px 0; }
+.wcamp #camp_details .content .left-block .star-block > div { display: grid; grid-template-columns: 90px 1fr; grid-gap: 30px; align-items: center; }
+.wcamp #camp_details .content .left-block .star-block > div h3 { color: #444444; font-size: 24px; font-weight: bold; line-height: normal; }
+.wcamp #camp_details .content .left-block .star-block > div h3 span { display: block; }
+.wcamp #camp_details .content .left-block .cont { display: grid; grid-template-columns: 1fr 1fr; grid-gap: 50px; max-width: 420px; margin: 0 auto; }
+.wcamp #camp_details .content .left-block .cont .block { display: grid; text-align: center; }
+.wcamp #camp_details .content .left-block .cont .block .icon-b h5 { line-height: normal; }
+.wcamp #camp_details .content .left-block .cont .block .icon-b h5 span { display: inline-block; }
+.wcamp #camp_details .content .left-block .cont .block img { width: 54px; }
+.wcamp #camp_details .content .right-block .yellow-block { border-radius: 10px; background: #ffe21f; padding: 40px 0; }
+.wcamp #camp_details .content .right-block .yellow-block .details-row { display: grid; grid-template-columns: 100px 1fr; grid-gap: 50px; align-items: center; position: relative; left: -48px; }
+.wcamp #camp_details .content .right-block .yellow-block .details-row img { display: block; max-width: 100px; }
+.wcamp #camp_details .content .right-block > h4 { color: #00a8ff; font-weight: bold; margin-top: 30px; font-size: 24px; }
+.wcamp #section_offer_red { background-image: -moz-linear-gradient(-180deg, #9ddbff 0%, #005aff 100%); background-image: -webkit-linear-gradient(-180deg, #9ddbff 0%, #005aff 100%); background-image: -ms-linear-gradient(-180deg, #9ddbff 0%, #005aff 100%); margin-bottom: 0; }
+.wcamp #section_offer_red .container .content { background: none; }
+.wcamp #section_offer_red .container .content:before { content: url(/wp-content/uploads/2019/02/gift2.svg); }
+.wcamp #section_offer_red .container .content h2 span { font-weight: bold; font-size: 32px; }
+.wcamp #section_offer_red .container .content h4 { font-size: 24px; margin-top: 30px; line-height: normal; }
+.wcamp #section_offer_red .container .content h4 span { display: block; }
+.wcamp #section_offer_red .container .content .summer-btn { margin-top: 30px; }
+.wcamp #section_offer_red .container .content .summer-btn a.sg-show-popup { background: #fff; border-color: #fff; color: #00a8ff !important; box-shadow: 0px 17px 40px 0px rgba(255, 255, 255, 0.5); }
+.wcamp #section_offer_red .container .content .summer-btn a.sg-show-popup:after { background-image: url(/wp-content/uploads/2018/07/Icon-Button-Arrow-Blue.svg); background-repeat: no-repeat; background-position: center center; }
+.wcamp #section_offer_red .container .content:before { width: 400px; right: -130px; }
+.wcamp #contacts { padding: 65px 0; background: url(https://uaitsmart.com/wp-content/uploads/2019/12/left_contacts_pattern.png) no-repeat; background-size: initial; background-position: 0% 50%; }
+.wcamp #contacts .content > div h2 { font-weight: 800; font-size: 36px; color: #00a8ff; line-height: normal; margin-bottom: 20px; }
+.wcamp #contacts .content input.wpcf7-form-control.wpcf7-submit { box-shadow: 0px 16px 49px 0px rgba(1, 1, 1, 0.3); background-image: -moz-linear-gradient(90deg, #0092ff 0%, #00deff 100%); background-image: -webkit-linear-gradient(90deg, #0092ff 0%, #00deff 100%); background-image: -ms-linear-gradient(90deg, #0092ff 0%, #00deff 100%); border: 0px !important; }
+.wcamp #contacts .content input.wpcf7-form-control.wpcf7-submit:hover { border: 0px !important; }
+.wcamp #contacts .content .wpcf7-form { overflow: visible; }
+
+@media (max-width: 1600px) { .wcamp #winter_banner .container .content .image img { max-width: 500px; }
+  .wcamp #winter_banner .container .content { grid-template-columns: 1fr auto; }
+  .wcamp #winter_banner .container .content .text .pe-img { margin: 15px auto 20px auto; }
+  .wcamp #winter_banner .container .content .text .pe-img img { max-width: 400px; margin: 0 auto; }
+  .wcamp #winter_banner .container .content .text .location-block { max-width: 570px; margin: 0 auto; text-align: left; }
+  .wcamp #winter_banner .container .content .text { text-align: center; }
+  .wcamp #winter_banner .container .content .text { display: inline-block; }
+  .wcamp #winter_banner .container .content .timer-block .eTimer .etUnit .etNumber, .wcamp #winter_banner .container .content .timer-block .eTimer .etSep { font-size: 42px; }
+  .wcamp #winter_banner .camp_slider { min-height: 650px; }
+  .wcamp #winter_banner .container .content .timer-block .eTimer { margin-top: 10px; }
+  .wcamp .big-right-pattern { background-size: 200px; }
+  .wcamp .big-left-pattern { background-size: 200px; } }
+@media (max-width: 1200px) { .wcamp #winter_banner .container .content .text .location-block > div p { font-size: 16px; }
+  .wcamp #winter_banner .container .content .image img { max-width: 450px; }
+  .wcamp #winter_banner .container .content .text .location-block { padding: 20px 25px; }
+  .wcamp #winter_banner .container .content .text .location-block { grid-gap: 40px; }
+  .wcamp #winter_banner .container .content .text .location-block > div:nth-child(1)::before { right: -20px; }
+  .wcamp #winter_banner .container .content .text .pe-img img { max-width: 350px; }
+  .wcamp #winter_banner .container .content .text h1 { font-size: 34px; }
+  .wcamp #what_awaits .content { grid-gap: 40px; grid-template-columns: 1fr 40%; }
+  .wcamp #camp_reviews .content { grid-gap: 40px; } }
+@media (max-width: 992px) { .wcamp #winter_banner .camp_slider { min-height: 960px; }
+  .wcamp #winter_banner .container .content { grid-template-columns: 1fr; }
+  .wcamp #winter_banner .container .content .image img { margin: 0 auto; }
+  .wcamp #figures .content { grid-template-columns: 1fr; grid-gap: 0px; }
+  .wcamp #figures .content .image { text-align: center; }
+  .wcamp #figures .content .image img { margin: 0 auto; }
+  .wcamp #capabilities .content { grid-template-columns: 1fr; }
+  .wcamp #capabilities .content .image, .wcamp #camp_ode_day .content .image { text-align: center; }
+  .wcamp #camp_reviews .content .text h2 span { display: inline-block; }
+  .wcamp #camp_ode_day .content { grid-template-columns: 1fr; }
+  .wcamp #camp_cards .content { grid-template-columns: 1fr; }
+  .wcamp #camp_cards .content .card .img img { margin: 0 auto; }
+  .wcamp #what_awaits .content { grid-template-columns: 1fr; }
+  .wcamp #camp_reviews .content { grid-template-columns: 1fr; }
+  .wcamp #camp_details .content { grid-template-columns: 1fr; } }
+@media (max-width: 768px) { .wcamp #section_offer_red .container .content::before { width: 140px; right: auto; top: -128px; transform: translateY(0); left: 50%; transform: translateX(-50%); }
+  .wcamp #camp_reviews .content { display: block; }
+  .wcamp #camp_reviews .content .reviews-camp { margin-top: 30px; }
+  .wcamp #camp_reviews .content .reviews-camp .block-review { grid-template-columns: 1fr; }
+  .wcamp #camp_reviews .content .reviews-camp .block-review .photo img { margin: 0 auto; }
+  .wcamp #camp_reviews .content .reviews-camp .block-review > div { text-align: center; }
+  .wcamp #camp_reviews .content .reviews-camp .block-review::before { position: absolute; content: ''; height: 100px; width: 100%; top: 0; }
+  .wcamp #capabilities .content .text ul, .wcamp #camp_ode_day .content .text ul, .wcamp #what_awaits .content .text ul { grid-template-columns: 1fr; }
+  .wcamp #winter_banner .container .content .image img { max-width: 370px; }
+  .wcamp #winter_banner .camp_slider { min-height: 900px; }
+  .wcamp #winter_banner .container .content .text .pe-img img { max-width: 300px; }
+  .wcamp #winter_banner .container .content .head_btn a.sg-show-popup { white-space: nowrap; }
+  .wcamp #winter_banner .container .content .head_btn a.sg-show-popup strong { display: block; }
+  .wcamp #winter_banner .container .content .head_btn a.sg-show-popup strong::after { right: 14px; }
+  .wcamp #about { background: none !important; }
+  .wcamp #capabilities .content .text ul { grid-gap: 30px; }
+  .wcamp #what_awaits .content { display: block; }
+  .wcamp #what_awaits .content .slider { margin-top: 40px; }
+  .wcamp #camp_details { padding-top: 0px; }
+  #camp_reviews .slick-dots { display: none !important; }
+  #camp_reviews .slick-dotted.slick-slider { margin: 0 !important; }
+  .wcamp #camp_details .content .right-block .yellow-block { width: calc(100% - 48px); position: relative; left: 48px; }
+  .wcamp #camp_details .content .right-block .yellow-block .details-row { grid-gap: 10px; }
+  .wcamp #figures .content .text { grid-gap: 30px; }
+  .wcamp #camp_cards .content .card { max-width: 350px; margin: 0 auto; }
+  .wcamp #contacts { padding-top: 0; }
+  .wcamp #camp_details { padding-bottom: 40px; } }
